@@ -50,3 +50,42 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.mail {
+    background-color: $brand-color;
+    color: #fff;
+    padding: 15px;
+    border-radius: 4px;
+    font-size: 18px;
+    line-height: 16px;
+
+    a {
+        color: #fff;
+    font-weight: 500;
+    border-bottom: 1px #fff solid;
+    text-decoration: none;
+    }
+}
+
+.footer {
+    color: #aaa;
+    font-size: 14px;
+    margin: 0 auto;
+    text-align: left;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+html, body {
+    height: 100%;
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+.page-content {
+    flex: 1;
+}
+.footer {
+    flex-shrink: 0;
+}
