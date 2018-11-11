@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Projects
+permalink: /projects/
 ---
 
 <style>ul { list-style-type: none; margin-left: 0;}</style>
