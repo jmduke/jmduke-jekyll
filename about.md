@@ -1,12 +1,14 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
-<style>ul { list-style-type: none; margin-left: 0;}</style>
+<style>.post-header { display: none; } .post-content { font-size: 36px;} p { margin-bottom: 1em; }</style>
 
-Hello.  I'm Justin.  Did you just get a new haircut? Whatever you're doing, it's working.
+**Howdy!  I'm Justin.**
+
+Did you just get a new haircut? Whatever you're doing, it's working.
 
 <p>I work at <a href="http://stripe.com">Stripe</a>, where I make it easier for you to start and grow a business.</p>
 
