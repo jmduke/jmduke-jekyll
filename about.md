@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-<style>.post-header { display: none; } .post-content { font-size: 36px;} p { margin-bottom: 1em; }</style>
+<style>.post-header { display: none; } .post-content { font-size: 30px;} p { margin-bottom: 1em; }</style>
 
 **Howdy!  I'm Justin.**
 

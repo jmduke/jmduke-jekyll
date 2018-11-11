@@ -4,16 +4,21 @@ title: Projects
 permalink: /projects/
 ---
 
-<style>ul { list-style-type: none; margin-left: 0;}</style>
+My current projects:
 
-Hello.  I'm Justin.  Did you just get a new haircut? Whatever you're doing, it's working.
+- [Buttondown](https://buttondown.email), the best way to start and grow your newsletter.
+- [Spoonbill](https://spoonbill.io), a tool for tracking changes in Twitter profiles over time.
 
-<p>I work at <a href="http://stripe.com">Stripe</a>, where I make it easier for you to start and grow a business.</p>
+Some other, more random stuff I've built:
 
-<p>Before that, I was at Amazon making it easier for you to read books on your Kindle, and at TenantBase, where I made it easier for you to find great office space.</p>
+- [Ambience](https://itunes.apple.com/us/app/your-ambience/id967898191?ls=1&mt=8), a background noise generator.
+- [Barback](https://getbarback.com), the best cocktail database.
+- [Cluebird](https://itunes.apple.com/us/app/cluebird-crossword-helper/id1162829250?ls=1&mt=8), a comically bad crossword helper.
+- [Floradora](http://floradora.cloud/), the easiest way to send yourself notes on the Mac.
+- [Shotglass](https://itunes.apple.com/us/app/shotglass-your-latest-screenshot/id1104711265?ls=1&mt=12), a tiny screenshot menu bar app.
 
-<p>I run <a href="https://buttondown.email">Buttondown</a>, <a href="https://spoonbill.io">Spoonbill</a>, and a bunch of <a href="/pages/projects/">other stuff</a> under the moniker of <a href="http://villageblacksmith.consulting">Village Blacksmith</a>, my small product consultancy.</p>
+Projects that, given infinite time, I would love to work on:
 
-<p>I read a lot; I write a lot.  I spend too much time listening to Miles Davis and cheering for Miami sports teams.</p>
-
-<p>I <a href="mailto:me@jmduke.com">love getting email</a>.</p>
+- Goodreads, _but better._
+- A full-featured CSV explorer web app.
+- Neural net-generated lo-fi beats.

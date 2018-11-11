@@ -46,6 +46,12 @@ border-bottom: 1px #566270 dotted;
 }
 </style>
 
+<div class="notice">
+A commonplace book of quotes and passages I find interesting.
+<br /><br />
+(Maybe at some point I'll try and categorize these.)
+</div>
+
 You shall find out how salt is the taste of another man's bread, and how hard is the way up and down another man's stairs.
 
 > *Inferno*, Dante
