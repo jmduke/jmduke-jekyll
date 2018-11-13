@@ -1,0 +1,140 @@
+---
+Title: "My favorite things of 2016"
+Date: 2016-12-30 00:00:00
+Tags: ["personal"]
+---
+
+<p>Here are the ten best things I discovered this year.  It covers art and content.  You should take my word for it – these are very good things and I promise you will like them.</p>
+
+
+<h4 id="noname">Noname</h4>
+
+
+<p>Noname is a rapper from Chicago.  You may have heard her on <em>The Coloring Book</em> or <em>Acid Rap</em>.  Her debut album, <em>Telefone</em>, is perfectly executed: it might not be my favorite album of the year, but it’s the one I’m most impressed with.</p>
+
+
+<p><a href="https://play.spotify.com/album/18Scpsg5OV1iYNtSaCsjwz">Listen to ‘Telephone’, Noname’s first album.</a></p>
+
+
+<h4 id="562steezy">562Steezy</h4>
+
+
+<p>I… don’t even know how to describe this.  562Steezy (aka STEEZYASFUCK, and yes it hurts my soul to type that out) is a dude who collects music and makes playlist of a genre that I love but don’t quite understand.  Google has given me terms like <em>lo-fi hip hop</em>, <em>alt-trap</em>, and <em>future beats</em>, none of which seem particularly apt.  It’s basically instrumental hip hop mixed with vaporware with a lot of <em>Cowboy Bebop</em> samples that a lot of dudes <em>really</em> enjoy getting high to.  But it’s the music I’ve listened to most this year.</p>
+
+
+<p><a href="https://www.youtube.com/watch?v=AJvCnFqSViA">Listen to ‘beats to sleep to’, one of 562Steezy’s mixes.</a></p>
+
+
+<h4 id="the-range">The Range</h4>
+
+
+<p>The Range is a producer who creates rave-ish pop tracks that heavily sample random YouTube things.  That’s a fact that sounds weird and gimmicky until you listen to the music, which is full of nuance and novelty and verve.  It is music that makes you feel warm and optimistic and slightly alien: it is good.</p>
+
+
+<p><a href="https://play.spotify.com/album/1ZxikdPByyswHg6LLPGBt4">Listen to ‘Potential’, The Range’s latest album.</a></p>
+
+
+<h4 id="hail-caesar">Hail Caesar!</h4>
+
+
+<p>Hail Caesar is a <strong>fantastic</strong> movie.  It’s by the Coen Brothers, but it’s not really a Coen Brothers movie – it’s wry and winking but mainly goes for Hollywood laughs and broad character moments.  It is a truly delightful film.</p>
+
+
+<p><a href="https://www.amazon.com/Hail-Caesar-Josh-Brolin/dp/B01BFZPEIQ/ref=sr_1_1?ie=UTF8&amp;qid=1483157313&amp;sr=8-1&amp;keywords=hail+caesar">Watch Hail Caesar.</a></p>
+
+
+<h4 id="http-radio-garden"><a href="http://radio.garden">http://radio.garden</a></h4>
+
+
+<p>I’m a sucker for beautiful sites.  This is one of them.  (It doesn’t need description – just go click on the link.). On the nights I can’t fall asleep I’ll listen to it in a random place: it makes me feel weighty and grounded.</p>
+
+
+<p><a href="http://radio.garden">Visit the Radio Garden.</a></p>
+
+
+<h4 id="makoto-shinkai">Makoto Shinkai</h4>
+
+
+<p>Makoto Shinkai is a Japanese filmmaker in the vein of Miyazaki.  I watched two of his films – <em>5 Centimeters a Second</em> and <em>The Garden of Words</em>.  The scripts weren’t great, but the aesthetic and tone was <strong>profoundly affecting</strong>: think something between The Saturday Evening Post and Haruki Murakami.  Here are <a href="https://twitter.com/justinmduke/status/759633823411818496">some tweets with screencaps</a>.</p>
+
+
+<p><a href="https://vimeo.com/122479612">Watch ‘The Garden of Words’, by Makoto Shinkai.</a></p>
+
+
+<h4 id="hardcore-history">Hardcore History</h4>
+
+
+<p>Hardcore History is exactly what it sounds like: a very intense podcast about history.  Well: I say <em>podcast</em>, but <em>small audiobook</em> is probably the apter term: Dan Carlin’s best series usually have 4-6 episodes, each of which are 2-4 hours in length, so it’s not like a casual commute listen.  But the highest praise I can offer of this is that it took me – a person who has spent his entire life thinking history is largely boring as an educational medium – and turned me into a devotee.</p>
+
+
+<p><a href="http://www.dancarlin.com/product/hardcore-history-50-blueprint-for-armageddon-i/">Listen to ‘Blueprint for Armageddon I’, by Dan Carlin.</a></p>
+
+
+<h4 id="crazy-ex-girlfriend">Crazy Ex-Girlfriend</h4>
+
+
+<p>Crazy Ex-Girlfriend a television show.  It is a musical television show. <sup class="footnote-ref" id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> It is a romantic comedy.  It is self-aware in ways that explanation would kind of spoil the plot, but it is <em>hilarious</em> and world-wise and inventive in all of the boundary-pushing ways that great television is.  You have to give it a couple episodes, but once it starts to reveal itself to you (which it does, bit by bit, starting with the title sequence) you will be converted.</p>
+
+
+<p><a href="https://www.youtube.com/watch?v=PKhJPXgzxLk&amp;index=1&amp;list=ELj6gJr6k7jHGm50Lr2oJa3g">Watch the pilot of ‘Crazy Ex Girlfriend’.</a></p>
+
+
+<h4 id="str-voyage">@str_voyage</h4>
+
+
+<p>@str_voyage is a perfect Twitter bot.  Here are some tweets:</p>
+
+
+<p></p>
+<blockquote class="twitter-tweet" data-lang="en"><p dir="ltr" lang="en">A storm is upon us. We huddle for safety.</p>— a strange voyage (@str_voyage) <a href="https://twitter.com/str_voyage/status/796227272730693633">November 9, 2016</a></blockquote>
+
+
+<script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script>
+
+
+<p></p>
+<blockquote class="twitter-tweet" data-lang="en"><p dir="ltr" lang="en">Our raft perseveres.</p>— a strange voyage (@str_voyage) <a href="https://twitter.com/str_voyage/status/796378268823855104">November 9, 2016</a></blockquote>
+
+
+<script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script>
+
+
+<p></p>
+<blockquote class="twitter-tweet" data-lang="en"><p dir="ltr" lang="en">How long have we been adrift?</p>— a strange voyage (@str_voyage) <a href="https://twitter.com/str_voyage/status/806698825050161154">December 8, 2016</a></blockquote>
+
+
+<script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script>
+
+
+<p>In general, I have been very enamored to what I would describe as <em>quiet Twitter</em> – the world of @pomological and @tiny_garden and all the little pieces of beauty on a broken platform – but @str_voyage is the best, and my favorite.</p>
+
+
+<p><a href="https://twitter.com/str_voyage">Follow ‘@str_voyage’.</a></p>
+
+
+<h4 id="ocean-vuong">Ocean Vuong</h4>
+
+
+<p>Ocean Vuong writes the best poetry I’ve read in many years.  Here are some excerpts:</p>
+
+
+<p><img alt="" src="https://pbs.twimg.com/media/Co1deR3VIAIbPPj.jpg:large"/></p>
+
+
+<p><img alt="" src="https://pbs.twimg.com/media/Co57FsTUkAEgRTs.jpg:large"/></p>
+
+
+<p><img alt="" src="https://pbs.twimg.com/media/Co1deR0UIAIA52q.jpg:large"/></p>
+
+
+<p><a href="https://www.amazon.com/Night-Exit-Wounds-Ocean-Vuong/dp/155659495X/ref=sr_1_1?ie=UTF8&amp;qid=1483157716&amp;sr=8-1&amp;keywords=night+sky+ocean+vuong">Buy ‘Night Sky with Exit Wounds’, Ocean Vuong’s first book.</a></p>
+
+
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">I point this out because I <strong>hate</strong> musicals and still love this show.
+ <a class="footnote-return" href="#fnref:1"><sup>[return]</sup></a></li>
+</ol>
+</div>
+	

@@ -1,0 +1,52 @@
+---
+Title: "A month with the iPad Pro"
+Date: 2016-05-20 00:00:00
+Tags: ["technology"]
+---
+
+<p>I thought about writing this blog post on my iPad Pro.</p>
+
+
+<p>I’m not — I’m writing it on the same place I write everything else, my MacBook Pro.  But I <em>could</em>, theoretically, write it on the iPad.  It would take me a little more time to actually type – the keyboard is uncomfortable but not unpleasant.  But I would definitely be more focused; even now, I’ve written like forty words and switched out of my writing app of choice five times – three times to Twitter, once to email, and once to Spotify.</p>
+
+
+<p>The iPad Pro is the ultimate aspirational productivity device.  Its existence is an argument by Apple that the thing stopping you from being a more productive, more fulfilled person isn’t slightly faster typing speed or a stream of data or yet another layer of complexity <sup class="footnote-ref" id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>, but the exact opposite.  The iPad Pro, despite its suffix, is a device that scoffs at the idea of a ‘power user’.</p>
+
+
+<p>The iPad Pro is telling you that the future of the work is in simplicity and in sleekness: that you will be your most productive self when there is no friction between you and what you are trying to do. (<a href="https://www.youtube.com/watch?v=5_pMx7IjYKE">The best commercials for the iPad Pro</a> show users who spend just as much time thinking as they do actually interacting with the device.)</p>
+
+
+<p>And, to be honest, for a lot of things it delivers on this promise.  There are many things I do very well on my iPad: responding to email, organizing thoughts, planning software architectures, reading articles and novels.  These are tasks where the most important thing is a lack of interruption.</p>
+
+
+<p>But I spend most of my time in front of a screen developing software, a task which seems fundamentally in conflict with this way of thinking.  I consider myself a productive engineer who is smart enough to disconnect from email and Slack when its time to work, but even then I will be jumping from the IDE to the terminal <sup class="footnote-ref" id="fnref:3"><a href="#fn:3" rel="footnote">2</a></sup> to the internal docs to StackOverflow back to the IDE in the span of a couple seconds.  It’s not exactly context switching — the whirlwind of apps does not dull my focus — but there’s an inelegant swiftness in the way I work that feels fundamentally incompatible with the iPad.  Even if there was, say, Xcode for iPad and a great terminal system for iPad and enough keyboard shortcuts to make Split View et al an effortless interface, the frenetic mindset with which I create software is something of an anti-pattern for the tablet.</p>
+
+
+<p>This isn’t an indictment of the iPad Pro.  This is a reminder – to myself and others – that Toyota does not design Priuses with the goal of optimizing for the usage patterns of long-distance truck drivers.</p>
+
+
+<p>Ultimately, the iPad Pro is a device that is not going to make most parts of my life easier or better.  But there are a couple of things that it does very well — things like going through a Pocket backlog or emails — small and mostly consumptive tasks at which I struggle due to lack of focus and not lack of ability.  Using the iPad for these things is refreshing and easy — it improves not only my productivity but my mindset.  I come away from my laptop feeling worn, as if I have spent resources; I come away from the iPad Pro feeling recharged, as if somehow more crystalline.</p>
+
+
+<p>I wish I could do everything on my iPad — there’s something almost dehumanizing about my productivity being so closely tied to one’s dexterity with a computer.  I hope that one day I’m in a situation like the folks in an iPad commercial, armed with my thoughts and a tablet that can transform them into something wonderful, where the tough work is in my head and not in <code>iTerm</code>.</p>
+
+
+<p>But that’s not where I’m at right now.</p>
+
+
+<p>Still, though, I feel good using the iPad.  “Delight” is the buzzword of the day when it comes to technology, and the iPad Pro doesn’t quite delight me — but sitting in a coffeeshop and using it to read or write gives me a vital sense of clarity and focus.  This is important: as we drown ourselves in apps, in engagements, in vertices of various graphs, feelings of clarity and focus are rarer and more fleeting than ever before.</p>
+
+
+<p>(Plus, it’s really great on airplanes.)</p>
+
+
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">Things that I’ve learned are complex during my time with the iPad Pro: windows, tabs, plugins.
+ <a class="footnote-return" href="#fnref:1"><sup>[return]</sup></a></li>
+<li id="fn:3">The terminal which has anywhere from three to twelve tabs open, mind you.
+ <a class="footnote-return" href="#fnref:3"><sup>[return]</sup></a></li>
+</ol>
+</div>
+	
