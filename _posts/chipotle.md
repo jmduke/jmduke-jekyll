@@ -1,0 +1,74 @@
+---
+Title: "The Chipotle standard"
+Date: 2016-08-01 00:00:00
+Tags: ["personal"]
+---
+
+<p>Chipotle, for me, is the platonic ideal of a meal.</p>
+
+
+<p>I mean that literally: it is the meal to which I compare all other meals.  It’s by no means perfect in any specific dimension, but it’s very good in most of them:</p>
+
+
+<ul>
+<li>cost</li>
+<li>time investment</li>
+<li>nutrition <sup class="footnote-ref" id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></li>
+<li>taste</li>
+<li>variety (I have never been saturated on Mexican food)</li>
+<li>ambience <sup class="footnote-ref" id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></li>
+</ul>
+
+
+<p>Chipotle will never be my favorite meal, but it’s never disappointed me and never led to regret.</p>
+
+
+<p>So whenever I go out to a new place to eat, I mentally compare it to Chipotle.</p>
+
+
+<p><em>Volterra</em> in Fremont?  Sure, the wild boar was good and it’s nice to sit outside, but it cost the equivalent of five burrito bowls and took an hour.</p>
+
+
+<p><em>Bamboo</em>, the pho place in Cap Hill?  It was the same cost but the place is kinda boring and I don’t think I could eat pho more than once a week, plus pho doesn’t travel well.</p>
+
+
+<p>Grilling a couple burgers?  It’s strictly cheaper, but the additional time offsets the cost and doesn’t taste as good.</p>
+
+
+<p>And so on.</p>
+
+
+<p>This is not to say that I eat Chipotle for dinner every day, but it’s the default.  Expending mental energy to pick a spot to eat is not my jam, and so I’ll just default to the easiest option.</p>
+
+
+<p>This is a thing I do with everything, not just Chipotle.  I’ll usually buy my tees from American Apparel, because despite them being a garbage company their cotton is good and their Medium fits me perfectly; I’ll always grab coffee from <em>Cafe Ladro</em>, where the coffee and ambience aren’t perfect but it’s good enough, and I can always find an outlet.  Unless there’s a clear reason otherwise, I’ll start all new projects in Python because it might not be the perfect tool for the job but it’s a good enough tool for the job, and my comfort with it will make up for the difference.  All of my pens are 0.38mm; all my frames are IKEA; all my music is Hype Machine or Pitchfork approved.</p>
+
+
+<p>As I grow older, I get more of these standards. More and more things are good enough to the point where it’s less and less worth it to expand my horizons.</p>
+
+
+<p>Everyone does this, right?  Everyone has their favorite coffeeshop and their favorite Chinese takeout spot and their favorite album to listen to while running.  It’s just a question of how mechanical you want to consider it.</p>
+
+
+<p>I don’t really consider any of these things brand loyalty: it’s just that I’m a <a href="https://en.wikipedia.org/wiki/Multi-armed_bandit">multi-armed bandit</a> who’s more on the ‘explore’ side of the spectrum than the ‘exploit’ side.</p>
+
+
+<p>The worry, of course, is that these little heuristics lead to local maxima.  Many a bland startup poster has quipped that <em>perfect is the enemy of good</em>, but there’s probably still merit in finding the best burrito in Seattle.  It’s just harder and harder for me to justify the effort in doing so.</p>
+
+
+<p>Some things are worth searching for — the new favorite book, the new favorite park, the new favorite album.  It’s important to me to expend a lot of energy reading and listening to new things, being in new forests, seeing new things.</p>
+
+
+<p>But for everything else, I’ll find things that are good enough.  Most of the stuff in my life doesn’t have to be the best — it just has to be good enough, and that helps me focus on what matters.</p>
+
+
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">I get a bowl with a half scoop of brown rice, double fajitas and chicken, with sour cream, mild and hot salsa, and extra lettuce.  ~700 calories, 35g fat, 35g carbs, 65g protein.  (Let’s not talk about sodium.)
+ <a class="footnote-return" href="#fnref:1"><sup>[return]</sup></a></li>
+<li id="fn:2">Which is to say, I prefer the ambience of eating at home to eating out at most places because I’m a recluse.
+ <a class="footnote-return" href="#fnref:2"><sup>[return]</sup></a></li>
+</ol>
+</div>
+	

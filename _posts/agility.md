@@ -1,0 +1,59 @@
+---
+Title: "Agility"
+Date: 2017-07-03 00:00:00
+Tags: ["development"]
+---
+
+<p>Jasdev had a <a href="http://jasdev.me/moving-too-fast">great post on moving too fast</a>:</p>
+
+
+<blockquote>
+<p>But, Agile almost entirely misses the other side of the coin: regimented rest. We can’t expect teams to knock out a monotonically increasing amount of story points, sprint after sprint. Sometimes, you have to move slower now to move faster later.</p>
+</blockquote>
+
+
+<p>Somewhat adjacent to this is the best advice I’ve ever received as a developer:</p>
+
+
+<blockquote>
+<p>Focus on being the highest order derivative you can be.</p>
+</blockquote>
+
+
+<p>As an entry-level developer, you’re a simple function: you take time as an input and produce business value as an output. <sup class="footnote-ref" id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+
+
+<p>Then as you mature as a developer, your work doesn’t directly produce business value: it produces an <em>increase at the rate at which others can produce business value</em>.  Suddenly, you’re a first-order derivative.</p>
+
+
+<p>And then you go further than that, becoming a second-order derivative: transcending from velocity to acceleration.  Your work helps others increase the rate of change.</p>
+
+
+<p>And so on and so forth.</p>
+
+
+<p>I think this trajectory of increasing abstraction — stretching out your objectives over a longer and longer timespan — is natural, and good.  Don’t worry about how to accomplish this week’s work; worry about how to accomplish this year’s work.  Decoupling yourself from short-term inputs, like speed and time, is good: it’s a sign that your concerns are larger than the day-to-day.</p>
+
+
+<p>Put more succinctly: agility isn’t about distance — it’s about nimbleness.</p>
+
+
+<p>Or, to quote Murakami in <em>What I Talk About When I Talk About Running</em>:</p>
+
+
+<blockquote>
+<p>Sometimes taking time is actually a shortcut.</p>
+</blockquote>
+
+
+<p></p>
+
+
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">Of course, there are other factors: your team, your codebase, your goals.  But all of those are, at least starting out, constants.
+ <a class="footnote-return" href="#fnref:1"><sup>[return]</sup></a></li>
+</ol>
+</div>
+	

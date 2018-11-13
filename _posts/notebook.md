@@ -1,0 +1,74 @@
+---
+title: You should keep a commonplace book
+Date: 2018-04-29
+Tags: ["personal"]
+slug: commonplace-book
+---
+
+<style>
+h3 { 
+font-size: 18px; }
+h3 > span {
+	    background: #fd5d20;
+	    position: absolute;
+    color: #fff;
+    font-weight: 900;
+    width: 30px;
+    height: 29px;
+    line-height: 30px;
+    text-align: center;
+    margin-left: -40px;
+    border-radius: 50%;
+    font-size: 16px;
+}
+</style>
+
+
+### <span>1</span> What?
+
+Quoth [Wikipedia](https://en.wikipedia.org/wiki/Commonplace_book):
+
+> Commonplace books (or commonplaces) are a way to compile knowledge, usually by writing information into books. Such books are essentially scrapbooks filled with items of every kind: recipes, quotes, letters, poems, tables of weights and measures, proverbs, prayers, legal formulas. Commonplaces are used by readers, writers, students, and scholars as an aid for remembering useful concepts or facts they have learned. Each commonplace book is unique to its creator's particular interests. They became significant in Early Modern Europe.
+
+Or, quoth [Steven Johnson](https://stevenberlinjohnson.com/the-glass-box-and-the-commonplace-book-639b16c4f3bb):
+
+> In its most customary form, “commonplacing,” as it was called, involved transcribing interesting or inspirational passages from one’s reading, assembling a personalized encyclopedia of quotations. It was a kind of solitary version of the original web logs: an archive of interesting tidbits that one encountered during one’s textual browsing
+
+Or, quoth, uh, [me](http://notebook.jmduke.com):
+
+> Scraps, ephemera, snippets, opuscules, curios.
+
+<!--more-->
+
+### <span>2</span> Why?
+
+That’s a fair question!  Here’s a (truncated) list of reasons why:
+
+- It’s helpful for finding old articles in a way that feels better than Pocket or Pinboard or etc.
+- There’s something just, like, intrinsically pleasant about having all of the important things you’ve referenced in a tidy, pleasantly readable place.
+- There’s something just, like, intrinsically valuable about deciding that you read something and found it valuable enough to reproduce.  That’s non-trivial.
+
+### <span>3</span> How?
+
+The priority should be on ease of use over everything, right?
+
+But, as with all projects, there’s the trap of “I am going to spend ten hours writing a fancy cross-platform thing that saves me one second every week and never recoup my time investment.”
+
+(Not that there’s anything wrong with that — over engineering can be fun even if its inefficient if you want to do it.  But I don’t.)
+
+So my notebook is literally just a markdown file that I compile and sync with s3.  It’s two lines of code:
+
+{{< highlight bash >}}
+
+python3 -m markdown notebook.md -f index.html
+s3cmd put index.html s3://notebook.jmduke.com --acl-public
+
+{{< / highlight >}}
+
+### <span>4</span> Can I just use yours?
+
+You sure can!
+
+Here’s a [template](https://gist.github.com/jmduke/c4ad2a0d6745d23e4e9bbdc2afc9cd90) you can steal.
+
+Style it however you want.  Throw whatever you want in it.  My only request is that, if you start one, you email me and let me know so I can get a case of the warm fuzzies.
