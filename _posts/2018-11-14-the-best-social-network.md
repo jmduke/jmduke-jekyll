@@ -22,7 +22,7 @@ There's a banality to them that crosses over into irony, but it's so \*fun\*.  T
 
 
 
-It feels nice.  Twitter doesn't feel nice \[^1]; Facebook doesn't feel nice.  Apple Watch friends feel nice.
+It feels nice.  Twitter doesn't feel nice [^1]; Facebook doesn't feel nice.  Apple Watch friends feel nice.
 
 
 
