@@ -14,7 +14,7 @@ The replies, by the way, are incredibly silly and cheesy:
 
 
 
-!\[](https://i.imgur.com/Ainex5Q.jpg)
+![](https://i.imgur.com/Ainex5Q.jpg)
 
 
 
@@ -26,4 +26,4 @@ It feels nice.  Twitter doesn't feel nice \[^1]; Facebook doesn't feel nice.  Ap
 
 
 
-\[^1]: Which is not to say it's not valuable, but it's certainly not nice
+[^1]: Which is not to say it's not valuable, but it's certainly not nice
