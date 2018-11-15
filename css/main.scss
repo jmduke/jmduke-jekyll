@@ -90,3 +90,37 @@ body {
     text-decoration: none;
     }
 }
+
+ol {
+    counter-reset: ol-counter;
+    padding-left: 2em;
+    list-style-type: none;
+    margin-left: 0;
+  }
+
+  ol > li {
+      min-height: 40px;
+      display: flex;
+      align-items: center;
+  }
+  
+  ol > li:before {
+    content: counter(ol-counter);
+    counter-increment: ol-counter;
+    margin-right: 1em;
+    font-weight: bold;
+    height: 100px;
+    position: absolute;
+    margin-left: -2em;
+    background: #fd5d20;
+    position: absolute;
+    color: #fff;
+    font-weight: 900;
+    width: 30px;
+    height: 29px;
+    line-height: 30px;
+    text-align: center;
+    margin-left: -40px;
+    border-radius: 50%;
+    font-size: 16px;
+  }
