@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Notebook
-permalink: /notebook/
 ---
 
 
@@ -51,6 +50,11 @@ A commonplace book of quotes and passages I find interesting.
 <br /><br />
 (Maybe at some point I'll try and categorize these.)
 </div>
+
+Dance until your bones clatter. What a prize
+you are. What a lucky sack of stars.
+
+> *At last the new arriving*, Gabrielle Calvocoressi
 
 You shall find out how salt is the taste of another man's bread, and how hard is the way up and down another man's stairs.
 
