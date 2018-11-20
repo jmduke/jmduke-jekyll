@@ -6,7 +6,7 @@ title: How to stay relevant
 
 Okay, this is a *terrible* list of things.  I like GraphQL!  I like Web Assembly!  I... think web components are neat!  But if you want to maximize the probability you are an employed software developer in 2028, learning GraphQL is a bad idea.  
 
-I mean, it’s a better idea than like, learning Angular.  But valuable skills are Libby goods; the trick is not to identify ones that are just about to come into vogue but the ones so prevalent that they’ve transcended fashion.  At an object-level perspective (which I think is dumb: you should not be emphasizing technologies over architecture!), that would be C++ or build systems.
+I mean, it’s a better idea than like, learning Angular.  But valuable skills are [Lindy](https://en.wikipedia.org/wiki/Lindy_effect) goods; the trick is not to identify ones that are just about to come into vogue but the ones so prevalent that they’ve transcended fashion.  At an object-level perspective (which I think is dumb: you should not be emphasizing technologies over architecture!), that would be C++ or build systems.
 
 But at a non-object level perspective, every software developer needs to:
 
