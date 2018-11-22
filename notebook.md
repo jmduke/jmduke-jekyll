@@ -51,6 +51,10 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+You will be fooled by a trick if it involves more time, money and practice than you (or any other sane onlooker) would be willing to invest.
+
+> *Teller*
+
 Dance until your bones clatter. What a prize
 you are. What a lucky sack of stars.
 
