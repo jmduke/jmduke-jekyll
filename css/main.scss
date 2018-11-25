@@ -16,6 +16,7 @@ $spacing-unit:     30px;
 $text-color:       #222;
 $background-color: #fffff3;
 $brand-color:      #fd5d20;
+$hover-color: darken($brand-color, 15%);
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -74,7 +75,7 @@ body {
     flex-shrink: 0;
 }
 .notice {
-    background-color: #fd5d20;
+    background-color: $brand-color;
     color: #fff;
     padding: 1em;
     font-style: italic;
@@ -112,7 +113,7 @@ ol {
     height: 100px;
     position: absolute;
     margin-left: -2em;
-    background: #fd5d20;
+    background: $brand-color;
     position: absolute;
     color: #fff;
     font-weight: 900;
