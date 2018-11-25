@@ -26,6 +26,10 @@
     transform: rotate(5deg);
     border-radius: 5px;
 
+    &:hover {
+        background-color: darken($brand-color, 15%);
+    }
+
     > span {
         display: inline-block;
         transform: rotate(-5deg);
@@ -48,6 +52,10 @@
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
+
+        &:hover {
+            color: $brand-color;
+        }
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
