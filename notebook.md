@@ -51,6 +51,12 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+Even under winter’s
+tightest fist some light still slips through
+to you, and isn’t that a miracle?
+
+> *I Know You Love Manhattan But You Should Look Up More Often*, Ariel Francisco
+
 You will be fooled by a trick if it involves more time, money and practice than you (or any other sane onlooker) would be willing to invest.
 
 > *Teller*
