@@ -17,7 +17,7 @@ I think this is a particularly poor discussion to have on Twitter.  Here are thi
 7. I can spend that extra time because I'm single, childless, affluent, and have spent every moment of my life near a computer and a working internet connection.
 8. I don't think I would have any meaningful drop in net productivity if I worked thirty hours a week.
 9. I don't think I would have any meaningful boost in net productivity if I worked fifty hours a week.
-10. Everyone's work ethic and work style is different.
+10. Everyone's work ethic and work style is different, and judging 'productivity' based on 'time spent in the office' is insane.
 
 It's just kind of a weird conversation to watch play out over and over again.  I joke a lot about having a Puritan work ethic, and I mean it — for better or for worse, I consider my best days to be the ones with productive outputs — but it's hard to project that any further than what makes me tick.
 
