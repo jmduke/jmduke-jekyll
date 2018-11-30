@@ -21,4 +21,6 @@ I think this is a particularly poor discussion to have on Twitter.  Here are thi
 
 It's just kind of a weird conversation to watch play out over and over again.  I joke a lot about having a Puritan work ethic, and I mean it — for better or for worse, I consider my best days to be the ones with productive outputs — but it's hard to project that any further than what makes me tick.
 
+(Also, hustle mindset is terrible. Getting an extra two hours sleep will _always_ improve my total sanity _and_ productivity more than spending an extra two hours at the office.)
+
 [^1]: Obviously nobody said these things exactly or with such uncharitable aims.  But you get my point.
