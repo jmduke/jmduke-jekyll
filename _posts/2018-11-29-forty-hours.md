@@ -9,10 +9,10 @@ This provoked the usual flares — one side saying "hustle 💪 grind 😤 never
 I think this is a particularly poor discussion to have on Twitter.  Here are things that I think to be all true and non-contradictory:
 
 1. The most successful people I read about profess to work very long hours.  (I'm thinking startup-y folks, folks I read in history books, etc.)
-2. The most successful people I know work forty hours a week.
-3. I work around 40-45 hours a week on _work_.
-4. I think I would be miserable in a job where it was expected of me to work sixty hours a week.
-5. I spend another ~15 hours a week doing work-ish stuff: freelancing, side projects, reading about technology, engaging in the zeitgeist.
+2. The most successful people I know in real life work forty hours a week.
+3. I work around 40-45 hours a week.
+4. I think I would be miserable in a job where it was expected of me to work, say, sixty hours a week.
+5. And yet I spend another ~15 hours a week doing work-ish stuff: freelancing, side projects, reading about technology, engaging in the zeitgeist.
 6. I credit that extra time to getting me to where I am today — which is not to say I'm particularly talented or accomplished, but it got me where I am.
 7. I can spend that extra time because I'm single, childless, affluent, and have spent every moment of my life near a computer and a working internet connection.
 8. I don't think I would have any meaningful drop in net productivity if I worked thirty hours a week.
