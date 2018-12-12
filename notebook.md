@@ -51,6 +51,22 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+This is a great trap of the twentieth century: on one side is the logic of the market, where we like to imagine we all start out as individuals who don't owe each other anything. On the other is the logic of the state, where we all begin with a debt we can never truly pay. We are constantly told that they are opposites, and that between them they contain the only real human possibilities. But it's a false dichotomy. States created markets. Markets require states.
+
+...
+
+Even until quite recently, many of the world’s inhabitants were not quite sure of what country they were citizens, or why it should matter. My mother, who was born a Jew in Poland, once told me a joke from her childhood: There was a small town located along the frontier between Russia and Poland; no one was ever quite sure to which it belonged. One day an official treaty was signed and not long after, surveyors arrived to draw a border. Some villagers approached them where they had set up their equipment on a nearby hill. “So where are we, Russia or Poland?” “According to our calculations, your village now begins exactly thirty-seven meters into Poland.” The villagers immediately began dancing for joy. “Why?” the surveyors asked. “What difference does it make?” “Don’t you know what this means?” they replied. “It means we’ll never have to endure another one of those terrible Russian winters!
+
+> *Debt: The First 5,000 Years*
+
+We know nothing of how it all works, / how we end up in one bed or another, / speak one language instead of the others, / what heat draws us to our life's work / or keeps us from a dream until it's nothing / but a blister we scratch in our sleep.
+
+...
+
+Steal something worthless, something small, / every once in a while.  A lighter from the counter. / Call it a gift from the gods of fire. / Call it your due.
+
+> *The Book of Men*, Dorianne Laux
+
 Even under winter’s
 tightest fist some light still slips through
 to you, and isn’t that a miracle?
