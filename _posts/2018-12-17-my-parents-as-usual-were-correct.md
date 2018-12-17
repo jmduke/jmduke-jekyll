@@ -2,7 +2,7 @@
 layout: post
 title: 'My parents, as usual, were correct'
 ---
-All of the things I've 'learned' in the past two years or so about being a better and healthier person are things I rejected when I was an insolent teen:
+All of the things I've 'learned' in the past two years or so about being a better and healthier person are the obvious truths I rejected when I was an insolent teen because that's what you do when you're a suburban teenager with earnest and well-meaning parents:
 
 1. Eight hours of sleep a night.
 2. No screens before bed.
