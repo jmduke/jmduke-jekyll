@@ -51,6 +51,24 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+Humbling women seems to me a chief pastime of poets. As if there can be no story unless we crawl and weep.
+
+...
+
+Yet because I knew nothing, nothing was beneath me.
+
+...
+
+“You are wise,” he said. 
+
+“If it is so,” I said, “it is only because I have been fool enough for a hundred lifetimes.” 
+
+> *Circe*, Madeline Miller
+
+I don’t want to fabricate a perfect love anymore. I just want to live a little better. To not be hurt anymore, and to not hurt others. I don’t like it that there’s so much wounding in the world. If there persists in being so much wounding in the world, I don’t want to live in it. My need for true love isn’t so important now. The important thing is to lead a life where no one can wound me anymore.
+
+> *Last Words From Montmartre*, Qiu Miaojin
+
 This is a great trap of the twentieth century: on one side is the logic of the market, where we like to imagine we all start out as individuals who don't owe each other anything. On the other is the logic of the state, where we all begin with a debt we can never truly pay. We are constantly told that they are opposites, and that between them they contain the only real human possibilities. But it's a false dichotomy. States created markets. Markets require states.
 
 ...
