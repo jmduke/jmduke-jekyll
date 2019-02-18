@@ -13,3 +13,6 @@ permalink: /:categories/:year/:month/:day/:title
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
+
+include:
+  - _redirects
