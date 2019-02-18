@@ -2,6 +2,7 @@
 Title: "A bigger pan"
 Date: 2017-03-09 00:00:00
 Tags: ["development"]
+layout: post
 ---
 
 <p>Here’s an old joke (or story, or fable, or whatever you want to call it) that I’ve heard some variation of a dozen times.</p>
