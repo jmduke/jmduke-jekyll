@@ -3,6 +3,7 @@ Title: Enthusiasm
 Date: 2018-03-03
 Tags: ["development"]
 slug: enthusiasm
+layout: post
 ---
 
 Here's a sentiment with which I strongly agree: 

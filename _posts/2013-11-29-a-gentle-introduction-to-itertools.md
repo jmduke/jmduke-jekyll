@@ -2,7 +2,11 @@
 Title: "A gentle introduction to itertools"
 Date: 2013-11-29 00:00:00
 Tags: ["python"]
+slug: itertools
+layout: post
 ---
+
+<style>.post-content h2 { font-size: 20px !important; font-weight: bold; }</style>
 
 <p><code>itertools</code> is pretty much the coolest thing ever.  Despite a vaguely technical name and a decreased emphasis in most introductory Python materials, it’s the kind of builtin package that makes list comprehensions much less of a syntactical mess.</p>
 
