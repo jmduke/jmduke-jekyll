@@ -16,8 +16,8 @@ Again, I know this may sound silly.  But it works very well, like editing a manu
 
 Two other addendums to this:
 
-1. Open PRs and review your code even for projects for which you are the only contributor.  Any non-trivial \[^1] change gets its own PR; the process of going through a mental feedback loop is valuable, and the ritual of the Pull Request UI is effective in forcing you to stop, step out of your code-hole, and digest your approach.
-2. Commenting on your own PRs before assigning them is also a tremendously ergonomic way to explain particularly complex or conversation-worthy bits of your changes. \[^2]
+1. Open PRs and review your code even for projects for which you are the only contributor.  Any non-trivial [^1] change gets its own PR; the process of going through a mental feedback loop is valuable, and the ritual of the Pull Request UI is effective in forcing you to stop, step out of your code-hole, and digest your approach.
+2. Commenting on your own PRs before assigning them is also a tremendously ergonomic way to explain particularly complex or conversation-worthy bits of your changes. [^2]
 
-\[^1]: Where 'trivial' is, like, ten lines of code, but then again the number of times I've been bitten by not reviewing ten lines of code is too numerous to count.
-\[^2]: Though you should always ask yourself if those comments would be better served in the codebase!
+[^1]: Where 'trivial' is, like, ten lines of code, but then again the number of times I've been bitten by not reviewing ten lines of code is too numerous to count.
+[^2]: Though you should always ask yourself if those comments would be better served in the codebase!
