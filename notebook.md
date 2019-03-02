@@ -51,6 +51,31 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+He was a being created out of some unidentifiable material, iron, glass, nettles, but alive, alive, the hot breath streaming from his nose and mouth.
+
+...
+
+Children don’t know the meaning of yesterday, of the day before yesterday, or even of tomorrow, everything is this, now: the street is this, the doorway is this, the stairs are this, this is Mamma, this is Papa, this is the day, this the night.
+
+...
+
+The conclusion we drew from this convinced us that it was best to do everything on purpose, deliberately, so that you would know what to expect.
+
+...
+
+if love is exiled from cities, their good nature becomes an evil nature.
+
+...
+
+We are flying over a ball of fire. The part that has cooled floats on the lava. On that part we construct the buildings, the bridges, and the streets, and every so often the lava comes out of Vesuvius or causes an earthquake that destroys everything. There are microbes everywhere that make us sick and die. There are wars. There is a poverty that makes us all cruel. Every second something might happen that will cause you such suffering that you’ll never have enough tears. And what are you doing? A theology course in which you struggle to understand what the Holy Spirit is? Forget it, it was the Devil who invented the world, not the Father, the Son, and the Holy Spirit. Do you want to see the string of pearls that Stefano gave me?”
+
+...
+
+The plebs were us. The plebs were that fight for food and wine, that quarrel over who should be served first and better, that dirty floor on which the waiters clattered back and forth, those increasingly vulgar toasts. The plebs were my mother, who had drunk wine and now was leaning against my father’s shoulder, while he, serious, laughed, his mouth gaping, at the sexual allusions of the metal dealer. They were all laughing, even Lila, with the expression of one who has a role and will play it to the utmost.
+
+
+> *My Beautiful Friend*, Elena Ferrante
+
 In an effort to survive the internet age, the Times has stooped to tracking tweets, chasing the sound and fury of never-ending online spectacles that rarely mean anything to anyone, save for an online microculture dedicated to “the discourse.”
 
 > [Why the Left Can’t Stand The New York Times](https://www.cjr.org/special_report/why-the-left-cant-stand-the-new-york-times.php/), Amber A'Lee Frost
