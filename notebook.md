@@ -51,6 +51,16 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+In an effort to survive the internet age, the Times has stooped to tracking tweets, chasing the sound and fury of never-ending online spectacles that rarely mean anything to anyone, save for an online microculture dedicated to “the discourse.”
+
+> [Why the Left Can’t Stand The New York Times](https://www.cjr.org/special_report/why-the-left-cant-stand-the-new-york-times.php/), Amber A'Lee Frost
+
+Better,
+I guess, than the slaughter,
+is the many-handed god.
+
+> *Petting Zoo*, Nicole Homer
+
 Humbling women seems to me a chief pastime of poets. As if there can be no story unless we crawl and weep.
 
 ...
