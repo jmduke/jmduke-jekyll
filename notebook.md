@@ -51,6 +51,14 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+One man's vulgarity is another man's lyric.
+
+> Judge Brent Knazan
+
+Only hands can wash hands.
+
+> Goethe
+
 He was a being created out of some unidentifiable material, iron, glass, nettles, but alive, alive, the hot breath streaming from his nose and mouth.
 
 ...
