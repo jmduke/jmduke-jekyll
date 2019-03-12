@@ -240,7 +240,7 @@
 
     h2 {
         font-size: 24px;
-        font-weight: bold;
+        font-weight: 600;
 
         @include media-query($on-laptop) {
             font-size: 28px;
@@ -249,7 +249,7 @@
 
     h3 {
         font-size: 20px;
-        font-weight: bold;
+        font-weight: 600;
 
         @include media-query($on-laptop) {
             font-size: 22px;
