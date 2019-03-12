@@ -47,18 +47,18 @@ You know the one time it's impossible to get *anything* along these lines?  When
 Seriously.  Everyone loves comments.  It might feel off-brand to write a bunch of comments when you're on the clock and in a tunnel vision of "oh god gotta solve this quick", but *it is worth your time*.  Some genres of comment that I always *love* to see from candidates:
 
 ```
-TODO: handle this edge case
+// TODO: handle this edge case
 ```
 
 ```
-This is inefficient, but I'm going with this approach because <reason>
+// This is inefficient, but I'm going with this approach because <reason>
 ```
 
 ```
-Abstract this out later.
+// Abstract this out later.
 ```
 
-## btw... want a mock interview?
+### btw... want a mock interview?
 
 [Email me.](mailto:me@jmduke.com). I'd be more than happy to spend an hour interviewing you!
 
