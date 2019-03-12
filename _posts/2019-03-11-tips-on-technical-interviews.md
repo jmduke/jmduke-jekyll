@@ -2,13 +2,13 @@
 layout: post
 title: Tips on technical interviews
 ---
-I've done seven mock interviews in the past two weeks.  (I've also done a whole bunch of other mock interviews prior to that, and roughly ~two hundred Actual Interviews.)
+I've done seven mock interviews in the past two weeks.  (I've also done a whole bunch of other mock interviews prior to that, and around two hundred actual interviews.)
 
-Here are some common threads on feedback that I've given candidates.  None of these are prescriptive or exhaustive, but in general candidates who do these things provide more positive signal than those who don't.
+Here are some common trends in feedback that I've given candidates.  None of these are prescriptive or exhaustive, but in general candidates who do these things provide more positive signal than those who don't.
 
 ### Ask clarifying questions before starting implementation.
 
-There is no more common screw-up I see in the first three minutes of an interview than a candidate's first impulse being to write code.  Jumping straight to implementation is almost always a negative signal; just like in real life, you want to spend time sussing out the domain and making sure you understand all the ramifications of the prompt.
+The most common flaw I see in the first three minutes of an interview is a candidate's first impulse being to write code.  Jumping straight to implementation is almost always a negative signal; just like in real life, you want to spend time sussing out the domain and making sure you understand all the ramifications of the prompt.
 
 A really easy tactic for this: restate the problem to your interviewer and ask them to confirm your understanding!  This takes, like, thirty seconds, demonstrates that the two of you are on the same page, and gives you confidence that you understand the problem being asked.
 
@@ -58,9 +58,11 @@ Seriously.  Everyone loves comments.  It might feel off-brand to write a bunch o
 // Abstract this out later.
 ```
 
-### btw... want a mock interview?
+All three of these do a great job of conveying *I understand this isn't ideal, and know that given more time I can improve this, but in the interest of expediency I'm ignoring it for now*.
 
-[Email me.](mailto:me@jmduke.com). I'd be more than happy to spend an hour interviewing you!
+### By the way, want a mock interview?
+
+[Email me](mailto:me@jmduke.com). I'd be more than happy to spend an hour interviewing you!
 
 [^2]: Plus, it makes it easy to write tests.  You're writing tests, right?
 [^3]: This is tech jargon for "our default position on any candidate is not to hire them, and we need to get evidence as to why that would be a mistake."
