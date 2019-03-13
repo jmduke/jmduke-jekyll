@@ -60,7 +60,13 @@ Seriously.  Everyone loves comments.  It might feel off-brand to write a bunch o
 
 All three of these do a great job of conveying *I understand this isn't ideal, and know that given more time I can improve this, but in the interest of expediency I'm ignoring it for now*.
 
-### By the way, want a mock interview?
+### Remember: interviews suck and are different than programming.
+
+I don't mean this glibly!  I have in my entire life not met a single engineer who *likes* the way a conventional tech interview works.  I think [my current employer](https://stripe.com) does a lot of things very well (no whiteboard coding, no algorithmic shibboleths, no manhole-cover questions) and I still think there are tremendous flaws.
+
+**Being good at technical interviews is a different skill than being good at software development**.  It's a very shitty truth, but it is true! And the best way to get better at it is to *practice*.
+
+### Speaking of which, want a mock interview?
 
 [Email me](mailto:me@jmduke.com). I'd be more than happy to spend an hour interviewing you!
 
