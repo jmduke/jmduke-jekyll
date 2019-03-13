@@ -64,7 +64,9 @@ All three of these do a great job of conveying *I understand this isn't ideal, a
 
 I don't mean this glibly!  I have in my entire life not met a single engineer who *likes* the way a conventional tech interview works.  I think [my current employer](https://stripe.com) does a lot of things very well (no whiteboard coding, no algorithmic shibboleths, no manhole-cover questions) and I still think there are tremendous flaws.
 
-**Being good at technical interviews is a different skill than being good at software development**.  It's a very shitty truth, but it is true! And the best way to get better at it is to *practice*.
+**Being good at technical interviews is a different skill than being good at software development**.  This is shitty, but it's true.  So many folks I've talked to have said something along the lines of *I'm a great programmer, I just don't interview well* and that's because those are activities whose Venn diagrams of competence overlap much less than folks assume.
+
+The antidote to this is *practice*.  Go through *Cracking the Coding Interview*; whiteboard some architectures with friends or fellow classmates; it gets more comfortable with time and experience.
 
 ### Speaking of which, want a mock interview?
 
