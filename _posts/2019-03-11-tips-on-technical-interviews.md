@@ -28,11 +28,11 @@ If they do this, *add more example inputs and outputs*.  Pay attention to edge c
 3. What happens if there's a tie?
 4. etc. etc.
 
-If they don't do this: *especially add inputs and outputs*.  Again, it shows that you're thinking about the problem systematically, that you've considered scenarios besides the most obvious, and it gives you a great framework to approach the solution. [^2]
+If they don't do this: *especially add inputs and outputs*.  Again, it shows that you're thinking about the problem systematically, that you've considered scenarios besides the most obvious, and it gives you a great framework to approach the solution. [^1]
 
 ### Avoid radio silence.
 
-As an interviewer, my job is to collect as much positive signal about a candidate as I can. [^3]  Specifically, this means I'm looking for things that you do well: 
+As an interviewer, my job is to collect as much positive signal about a candidate as I can. [^2]  Specifically, this means I'm looking for things that you do well: 
 
 - do you think about problems well?
 - do you have a great understanding of tooling?
@@ -72,5 +72,5 @@ The antidote to this is *practice*.  Go through *Cracking the Coding Interview*;
 
 [Email me](mailto:me@jmduke.com). I'd be more than happy to spend an hour interviewing you!
 
-[^2]: Plus, it makes it easy to write tests.  You're writing tests, right?
-[^3]: This is tech jargon for "our default position on any candidate is not to hire them, and we need to get evidence as to why that would be a mistake."
+[^1]: Plus, it makes it easy to write tests.  You're writing tests, right?
+[^2]: This is tech jargon for "our default position on any candidate is not to hire them, and we need to get evidence as to why that would be a mistake."
