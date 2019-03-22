@@ -51,6 +51,30 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+And this is how I see it today: it’s not the neighborhood that’s sick, it’s not Naples, it’s the entire earth, it’s the universe, or universes. And shrewdness means hiding and hiding from oneself the true state of things.
+
+...
+
+From that moment life began to pound me without respite, the months were rapidly grafted onto one another, there was no day when something good or bad didn’t happen.
+
+...
+
+How clever we were to guess that you were clever.
+
+...
+
+Without these rasping hands, professor, not a chair would exist, or a building, a car, nothing, not even you; if we workers stopped working everything would stop, the sky would fall to earth and the earth would shoot up to the sky, the plants would take over the cities, the Arno would flood your fine houses, and only those who have always worked would know how to survive, and as for you two, you with all your books, the dogs would tear you to pieces.
+
+...
+
+You understand, Lenù, what happens to people: we have too much stuff inside and it swells us, breaks us.
+
+> *Those Who Leave and Those Who Stay*
+
+The core problem with the medicolegal system in Mississippi is that it’s easily manipulated—it serves those in power. Historically, it has served as a means of preserving the state’s white power structure. But that’s only because those in power wanted it that way.
+
+> *The Cadaver King and the Country Dentist*
+
 One man's vulgarity is another man's lyric.
 
 > Judge Brent Knazan
