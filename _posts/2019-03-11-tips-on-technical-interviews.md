@@ -2,13 +2,13 @@
 layout: post
 title: Tips on technical interviews
 ---
-I've done seven mock interviews in the past two weeks.  (I've also done a whole bunch of other mock interviews prior to that, and roughly ~two hundred Actual Interviews.)
+I've done seven mock interviews in the past two weeks.  (I've also done a whole bunch of other mock interviews prior to that, and around two hundred actual interviews.)
 
-Here are some common threads on feedback that I've given candidates.  None of these are prescriptive or exhaustive, but in general candidates who do these things provide more positive signal than those who don't.
+Here are some common trends in feedback that I've given candidates.  None of these are prescriptive or exhaustive, but in general candidates who do these things provide more positive signal than those who don't.
 
 ### Ask clarifying questions before starting implementation.
 
-There is no more common screw-up I see in the first three minutes of an interview than a candidate's first impulse being to write code.  Jumping straight to implementation is almost always a negative signal; just like in real life, you want to spend time sussing out the domain and making sure you understand all the ramifications of the prompt.
+The most common flaw I see in the first three minutes of an interview is a candidate's first impulse being to write code.  Jumping straight to implementation is almost always a negative signal; just like in real life, you want to spend time sussing out the domain and making sure you understand all the ramifications of the prompt.
 
 A really easy tactic for this: restate the problem to your interviewer and ask them to confirm your understanding!  This takes, like, thirty seconds, demonstrates that the two of you are on the same page, and gives you confidence that you understand the problem being asked.
 
@@ -28,11 +28,11 @@ If they do this, *add more example inputs and outputs*.  Pay attention to edge c
 3. What happens if there's a tie?
 4. etc. etc.
 
-If they don't do this: *especially add inputs and outputs*.  Again, it shows that you're thinking about the problem systematically, that you've considered scenarios besides the most obvious, and it gives you a great framework to approach the solution. [^2]
+If they don't do this: *especially add inputs and outputs*.  Again, it shows that you're thinking about the problem systematically, that you've considered scenarios besides the most obvious, and it gives you a great framework to approach the solution. [^1]
 
 ### Avoid radio silence.
 
-As an interviewer, my job is to collect as much positive signal about a candidate as I can. [^3]  Specifically, this means I'm looking for things that you do well: 
+As an interviewer, my job is to collect as much positive signal about a candidate as I can. [^2]  Specifically, this means I'm looking for things that you do well: 
 
 - do you think about problems well?
 - do you have a great understanding of tooling?
@@ -58,9 +58,19 @@ Seriously.  Everyone loves comments.  It might feel off-brand to write a bunch o
 // Abstract this out later.
 ```
 
-### btw... want a mock interview?
+All three of these do a great job of conveying *I understand this isn't ideal, and know that given more time I can improve this, but in the interest of expediency I'm ignoring it for now*.
 
-[Email me.](mailto:me@jmduke.com). I'd be more than happy to spend an hour interviewing you!
+### Remember: interviews suck and are different than programming.
 
-[^2]: Plus, it makes it easy to write tests.  You're writing tests, right?
-[^3]: This is tech jargon for "our default position on any candidate is not to hire them, and we need to get evidence as to why that would be a mistake."
+I don't mean this glibly!  I have in my entire life not met a single engineer who *likes* the way a conventional tech interview works.  I think [my current employer](https://stripe.com) does a lot of things very well (no whiteboard coding, no algorithmic shibboleths, no manhole-cover questions) and I still think there are tremendous flaws.
+
+**Being good at technical interviews is a different skill than being good at software development**.  This is shitty, but it's true.  So many folks I've talked to have said something along the lines of *I'm a great programmer, I just don't interview well* and that's because those are activities whose Venn diagrams of competence overlap much less than folks assume.
+
+The antidote to this is *practice*.  Go through *Cracking the Coding Interview*; whiteboard some architectures with friends or fellow classmates; it gets more comfortable with time and experience.
+
+### Speaking of which, want a mock interview?
+
+[Email me](mailto:me@jmduke.com). I'd be more than happy to spend an hour interviewing you!
+
+[^1]: Plus, it makes it easy to write tests.  You're writing tests, right?
+[^2]: This is tech jargon for "our default position on any candidate is not to hire them, and we need to get evidence as to why that would be a mistake."
