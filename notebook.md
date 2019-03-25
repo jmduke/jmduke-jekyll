@@ -51,6 +51,18 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+Overt catastrophic failure occurs when small, apparently innocuous failures join to create opportunity for a systemic accident. 
+
+...
+
+**Catastrophe is always just around the corner**.
+
+...
+
+Safety is an emergent property of systems; it does not reside in a person, device or department of an organization or system. Safety cannot be purchased or manufactured; it is not a feature that is separate from the other components of the system. This means that safety cannot be manipulated like a feedstock or raw material. The state of safety in any system is always dynamic; continuous systemic change insures that hazard and its management are constantly changing.
+
+> [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
+
 And this is how I see it today: it’s not the neighborhood that’s sick, it’s not Naples, it’s the entire earth, it’s the universe, or universes. And shrewdness means hiding and hiding from oneself the true state of things.
 
 ...
