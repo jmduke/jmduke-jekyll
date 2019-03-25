@@ -51,6 +51,10 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+It sometimes seems to me that if I could persuade everyone to say "systematize" each time he wanted to say "liberate" and to say "mobilization" every time he wanted to say "reform" or "progress" I would not have to write long books about government-peasant interaction in Russia.
+
+> George Yaney, *The Urge to Mobilize*
+
 Overt catastrophic failure occurs when small, apparently innocuous failures join to create opportunity for a systemic accident. 
 
 ...
