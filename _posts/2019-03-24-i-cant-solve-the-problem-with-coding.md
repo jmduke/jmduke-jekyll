@@ -24,7 +24,7 @@ But there’s no way this actually saves me time *and* lets me send a great emai
 - I’m going to inevitably spend more time running into arcane edge cases with this fifty-line script than I’ll spend actually writing the email.
 - What happens when I want to include stuff that isn't in a goddamn git commit?
 
----
+...
 
 One of my biggest foibles is that, deep down, I think I can do anything with enough code.  This is *rarely true* with Buttondown, and a lot of the project’s biggest flaws — unexamined business model, untested marketing funnel, poorly scaled customer support — stem from things that I can’t just fix in an IDE.
 
