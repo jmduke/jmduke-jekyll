@@ -4,12 +4,12 @@ title: I can't solve the problem with coding
 ---
 The process of preparing Buttondown's marketing stuff every month is kind of painful: I need to write an email, send it, convert it into a blog post, publish that, then tweet about it.  All of this takes a bunch of manual pulling from disparate data sources, which is super frustrating ("red" implies "effort"):
 
-![](https://i.imgur.com/2OGtZmZ.jpg)
+![](https://i.imgur.com/Pez7bj7.png)
 
 It recently occurred to me that I could automate a lot of this!  *I could solve the problem with coding*.  I could build out a small tool that grabs relevant commits from the GitHub API — as long as I was judicious about tagging the important feature commits [^1] and populating the commit bodies with marketing-material-level copy about what is being done [^2], I could just run a little script at the start of each month that fetches everything, calls some APIs, and then I'm done.
 Let's give this a shitty name, like "Commithawk", and look at how easy it seems:
 
-![](https://i.imgur.com/ZdHfr5o.jpg)
+![](https://i.imgur.com/Sr78Ii0.png)
 
 This is *so tempting*.  There are so many positives:
 
