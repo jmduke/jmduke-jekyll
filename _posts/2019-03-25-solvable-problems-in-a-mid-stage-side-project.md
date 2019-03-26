@@ -2,7 +2,9 @@
 layout: post
 title: solvable problems in a mid-stage side project
 ---
-A periodically updated list of solvable (but not yet solved) things in Buttondown.  I'll add to this list (and cross off the things that are done) over time.
+I'm interested in the domain of things that we know are bad but don't do anything to improve, due to inertia/friction/inability/cost.  Solutions to these problems tend to be extremely high-return in retrospect, and always come with the feeling of *why didn't we do that sooner?*
+
+As such, here is a periodically updated list of solvable (but not yet solved) things in Buttondown.  I'll add to this list (and cross off the things that are done) over time.
 
 1. Database migrations are painful.  Not even *complex* migrations: "add column `Subscriber.foo`, backfill it based on `Subscriber.bar`, and then delete `Subscriber.bar`" is a genre of Django migration that always ends poorly, because it takes like twenty minutes and then something explodes.
 2. I have ~zero front-end tests because every time I try to figure out how to do component testing in Vue I grow a gray hair.  This results in a lot of silently broken/janky components.
@@ -13,6 +15,7 @@ A periodically updated list of solvable (but not yet solved) things in Buttondow
 6. Buttondown's marketing funnel is non-existent. This hasn't really been that big of a problem, thanks to people just being dope and sharing it, but "hope someone with influence likes the product" isn't a 
 sustainable way of growing.
 7. My approach to CSS within emails is really bad and needs to be entirely overhauled.  Ideally, automatic inlining would be inclusive of this effort.
+8. Costs are too high.  Per-subscriber margin is still good, but not good enough.
 
 An entirely separate — and scarier/more interesting — list would be: all of the things that are wrong with Buttondown that I am unaware of. (If you know of something that may be on this list, please let me know.)
 
