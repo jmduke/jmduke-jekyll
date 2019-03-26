@@ -14,6 +14,8 @@ A periodically updated list of solvable (but not yet solved) things in Buttondow
 sustainable way of growing.
 7. My approach to CSS within emails is really bad and needs to be entirely overhauled.  Ideally, automatic inlining would be inclusive of this effort.
 
+An entirely separate — and scarier/more interesting — list would be: all of the things that are wrong with Buttondown that I am unaware of. (If you know of something that may be on this list, please let me know.)
+
 There are two *really big* features I want to ship in Buttondown (**paid subscriptions** and **multiple newsletters**).  After that, I'd like to really spend the rest of the year just tackling this list, and solving the solvable problems, getting it into a steady state where I can ignore my backlog, error tracker, and inbox for a week and be completely fine.
 
 (Knowing me, I'm not going to do this.  But maybe blogging about it will push me in the right direction.)
