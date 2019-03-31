@@ -49,9 +49,13 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+This is something you do for a billion years or not at all.
+
+> *The Master*
+
 Don’t misunderstand: being a good person requires much more than being a good craftsman. But there is honor among craftsmen, and becoming a good craftsman necessarily entails acquiring certain virtues also essential to becoming a good person.
 
-\> Philip Bess
+> Philip Bess
 
 It sometimes seems to me that if I could persuade everyone to say "systematize" each time he wanted to say "liberate" and to say "mobilization" every time he wanted to say "reform" or "progress" I would not have to write long books about government-peasant interaction in Russia.
 
