@@ -2,8 +2,6 @@
 layout: page
 title: Notebook
 ---
-
-
 <style>
 @media screen and (max-width: 640px){
 }
@@ -51,9 +49,13 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+Don’t misunderstand: being a good person requires much more than being a good craftsman. But there is honor among craftsmen, and becoming a good craftsman necessarily entails acquiring certain virtues also essential to becoming a good person.
+
+\> Philip Bess
+
 It sometimes seems to me that if I could persuade everyone to say "systematize" each time he wanted to say "liberate" and to say "mobilization" every time he wanted to say "reform" or "progress" I would not have to write long books about government-peasant interaction in Russia.
 
-> George Yaney, *The Urge to Mobilize*
+> George Yaney, _The Urge to Mobilize_
 
 Overt catastrophic failure occurs when small, apparently innocuous failures join to create opportunity for a systemic accident. 
 
@@ -85,11 +87,11 @@ Without these rasping hands, professor, not a chair would exist, or a building, 
 
 You understand, Lenù, what happens to people: we have too much stuff inside and it swells us, breaks us.
 
-> *Those Who Leave and Those Who Stay*
+> _Those Who Leave and Those Who Stay_
 
 The core problem with the medicolegal system in Mississippi is that it’s easily manipulated—it serves those in power. Historically, it has served as a means of preserving the state’s white power structure. But that’s only because those in power wanted it that way.
 
-> *The Cadaver King and the Country Dentist*
+> _The Cadaver King and the Country Dentist_
 
 One man's vulgarity is another man's lyric.
 
@@ -121,8 +123,7 @@ We are flying over a ball of fire. The part that has cooled floats on the lava. 
 
 The plebs were us. The plebs were that fight for food and wine, that quarrel over who should be served first and better, that dirty floor on which the waiters clattered back and forth, those increasingly vulgar toasts. The plebs were my mother, who had drunk wine and now was leaning against my father’s shoulder, while he, serious, laughed, his mouth gaping, at the sexual allusions of the metal dealer. They were all laughing, even Lila, with the expression of one who has a role and will play it to the utmost.
 
-
-> *My Beautiful Friend*, Elena Ferrante
+> _My Beautiful Friend_, Elena Ferrante
 
 In an effort to survive the internet age, the Times has stooped to tracking tweets, chasing the sound and fury of never-ending online spectacles that rarely mean anything to anyone, save for an online microculture dedicated to “the discourse.”
 
@@ -132,7 +133,7 @@ Better,
 I guess, than the slaughter,
 is the many-handed god.
 
-> *Petting Zoo*, Nicole Homer
+> _Petting Zoo_, Nicole Homer
 
 Humbling women seems to me a chief pastime of poets. As if there can be no story unless we crawl and weep.
 
@@ -146,11 +147,11 @@ Yet because I knew nothing, nothing was beneath me.
 
 “If it is so,” I said, “it is only because I have been fool enough for a hundred lifetimes.” 
 
-> *Circe*, Madeline Miller
+> _Circe_, Madeline Miller
 
 I don’t want to fabricate a perfect love anymore. I just want to live a little better. To not be hurt anymore, and to not hurt others. I don’t like it that there’s so much wounding in the world. If there persists in being so much wounding in the world, I don’t want to live in it. My need for true love isn’t so important now. The important thing is to lead a life where no one can wound me anymore.
 
-> *Last Words From Montmartre*, Qiu Miaojin
+> _Last Words From Montmartre_, Qiu Miaojin
 
 This is a great trap of the twentieth century: on one side is the logic of the market, where we like to imagine we all start out as individuals who don't owe each other anything. On the other is the logic of the state, where we all begin with a debt we can never truly pay. We are constantly told that they are opposites, and that between them they contain the only real human possibilities. But it's a false dichotomy. States created markets. Markets require states.
 
@@ -158,7 +159,7 @@ This is a great trap of the twentieth century: on one side is the logic of the m
 
 Even until quite recently, many of the world’s inhabitants were not quite sure of what country they were citizens, or why it should matter. My mother, who was born a Jew in Poland, once told me a joke from her childhood: There was a small town located along the frontier between Russia and Poland; no one was ever quite sure to which it belonged. One day an official treaty was signed and not long after, surveyors arrived to draw a border. Some villagers approached them where they had set up their equipment on a nearby hill. “So where are we, Russia or Poland?” “According to our calculations, your village now begins exactly thirty-seven meters into Poland.” The villagers immediately began dancing for joy. “Why?” the surveyors asked. “What difference does it make?” “Don’t you know what this means?” they replied. “It means we’ll never have to endure another one of those terrible Russian winters!
 
-> *Debt: The First 5,000 Years*
+> _Debt: The First 5,000 Years_
 
 We know nothing of how it all works, / how we end up in one bed or another, / speak one language instead of the others, / what heat draws us to our life's work / or keeps us from a dream until it's nothing / but a blister we scratch in our sleep.
 
@@ -166,30 +167,30 @@ We know nothing of how it all works, / how we end up in one bed or another, / sp
 
 Steal something worthless, something small, / every once in a while.  A lighter from the counter. / Call it a gift from the gods of fire. / Call it your due.
 
-> *The Book of Men*, Dorianne Laux
+> _The Book of Men_, Dorianne Laux
 
 Even under winter’s
 tightest fist some light still slips through
 to you, and isn’t that a miracle?
 
-> *I Know You Love Manhattan But You Should Look Up More Often*, Ariel Francisco
+> _I Know You Love Manhattan But You Should Look Up More Often_, Ariel Francisco
 
 You will be fooled by a trick if it involves more time, money and practice than you (or any other sane onlooker) would be willing to invest.
 
-> *Teller*
+> _Teller_
 
 Dance until your bones clatter. What a prize
 you are. What a lucky sack of stars.
 
-> *At last the new arriving*, Gabrielle Calvocoressi
+> _At last the new arriving_, Gabrielle Calvocoressi
 
 You shall find out how salt is the taste of another man's bread, and how hard is the way up and down another man's stairs.
 
-> *Inferno*, Dante
+> _Inferno_, Dante
 
 I want to do what a grass stain does.
 
-> *future somatics to-do list*, Jen Hofer
+> _future somatics to-do list_, Jen Hofer
 
 Words bounce. Words, if you let them, will do what they want to do and what they have to do.
 
@@ -210,7 +211,7 @@ The dog too
 The red world And corresponding red breezes
 Went on Geryon did not
 
-> *Autobiography of Red*, Anne Carson
+> _Autobiography of Red_, Anne Carson
 
 The secret, he pointed out to me, was that the soap was 
 more than soap. It was a behavior-change delivery vehicle.
@@ -221,11 +222,11 @@ ing an operation, taxiing an airplane full of passengers down a
 runway, or building a thousand-foot-tall skyscraper. But in medi- 
 cine, we see it all the time. I've seen it in my own operating room.
 
-> *The Checklist Manifesto*, Atul Gawande
+> _The Checklist Manifesto_, Atul Gawande
 
 I ain’t a doctor, but when you grow up running from gunshots all the time, I think there’s something inside you that never leaves.
 
-> [What the hell happened to Darius Miles?](https://www.theplayerstribune.com/en-us/articles/what-the-hell-happened-to-darius-miles), *Darius Miles*
+> [What the hell happened to Darius Miles?](https://www.theplayerstribune.com/en-us/articles/what-the-hell-happened-to-darius-miles), _Darius Miles_
 
 just write a poem like a secondhand
 store full of dishes & leather jackets. vibrating with the leftovers
@@ -234,26 +235,26 @@ sweater like an ear, wailing in the street one summer night.
 a poem full of peach seeds & lightning bugs. a poem that can
 change the color of the sky.
 
-> *west of philly*, Yoalnda Wisher
+> _west of philly_, Yoalnda Wisher
 
 Write hard and clear about what hurts.
 
-> *Ernest Hemingway*
+> _Ernest Hemingway_
 
 What's written remains.
 
-> *Aaron Burr*
+> _Aaron Burr_
 
 What’s great about this country is that America started the tradition where the richest consumers buy essentially the same things as the poorest. You can be watching TV and see Coca-Cola, and you know that the President drinks Coke, Liz Taylor drinks Coke, and just think, you can drink Coke, too. A Coke is a Coke and no amount of money can get you a better Coke than the one the bum on the corner is drinking. All the Cokes are the same and all the Cokes are good. Liz Taylor knows it, the President knows it, the bum knows it, and you know it.
 
-> *Andy Warhol*
+> _Andy Warhol_
 
 Please Sir, Mr God of Death
 Don't make it my turn today
 Not today
 There is fish curry for dinner.
 
-> *Bakibab Borkar*
+> _Bakibab Borkar_
 
 Every time you meet someone
 it’s hard not to wonder
@@ -272,7 +273,7 @@ unafraid.
 
 In a letter you cannot listen. You must always be speaking.
 
-> *Dept. of Posthumous Letters*
+> _Dept. of Posthumous Letters_
 
 Music brings a warm glow to my vision, thawing mind and muscle from their endless wintering.
 
@@ -280,7 +281,7 @@ Music brings a warm glow to my vision, thawing mind and muscle from their endles
 
 Once, when I was younger, I thought I could be someone else. I'd move to Casablanca, open a bar, and I'd meet Ingrid Bergman. Or more realistically - whether actually more realistic or not - I'd tune in on a better life, something more suited to my true self. Toward that end, I had to undergo training. I read The Greening of America, and I saw Easy Rider three times. But like a boat with a twisted rudder, I kept coming back to the same place. I wasn't anywhere. I was myself, waiting on the shore for me to return.
 
-> *Hard Boiled Wonderland and the End of the World*, Haruki Murakami
+> _Hard Boiled Wonderland and the End of the World_, Haruki Murakami
 
 i guess night is just when the thoughts grow longer
 
@@ -291,44 +292,43 @@ What deeds have sprung from plow and pick!
 No dainty crop of rhetoric
    Can match one of potatoes.
 
-> *Dr. Booker T. Washington to the National Negro Business League*, Joseph Seamon Cotter Sr.
+> _Dr. Booker T. Washington to the National Negro Business League_, Joseph Seamon Cotter Sr.
 
 Wyatt doesn’t have much interest in pressing for a trial or other remedy after all this time. Even if she did, it would be impossible; Lucero’s files indicate that all the physical evidence relating to Wyatt’s case was destroyed — common with no-billed cases — in 2009. All that remains are the urban legends and the memories, the wounds and their scars, a stack of documents in a Texas public safety office, what you know now, and the hope that you will carry it with you into the world.
 
-
-> [What do we owe her now?](https://www.washingtonpost.com/graphics/2018/opinions/arlington-texas/?noredirect=on&utm_term=.81ca801e0ae5), *Elizabeth Bruenig*
+> [What do we owe her now?](https://www.washingtonpost.com/graphics/2018/opinions/arlington-texas/?noredirect=on&utm_term=.81ca801e0ae5), _Elizabeth Bruenig_
 
 **How do mountains?**
 
-> *N.K. Jemisin*
+> _N.K. Jemisin_
 
 "When the weather is settled, and I have recovered my strength," said she, "we will take long walks together every day. We will walk to the farm at the edge of the down, and see how the children go on; we will walk to Sir John's new plantations at Barton Cross, and the Abbeyland; and we will often go to the old ruins of the Priory, and try to trace its foundations as far as we are told they once reached. I know we shall be happy. I know the summer will pass happily away. I mean never to be later in rising than six, and from that time till dinner I shall divide every moment between music and reading. I have formed my plan, and am determined to enter on a course of serious study. Our own library is too well known to me, to be resorted to for anything beyond mere amusement. But there are many works well worth reading, at the Park; and there are others of more modern production which I know I can borrow of Colonel Brandon. By reading only six hours aday, I shall gain in the course of a twelvemonth a great deal of instruction which I now feel myself to want."
 
-> *Sense and Sensibility*, Jane Austen
+> _Sense and Sensibility_, Jane Austen
 
 **IDLENESS POLLUTES.**
 
-> *City of Portland*
+> _City of Portland_
 
 **Decisions are made by those who show up.**
 
-> *The West Wing*
+> _The West Wing_
 
 When I open the door, the brightly lit box awaits me—a dependable, normal world that keeps turning. I have faith in the world inside the light-filled box.
 
-> *Convenience Store Woman*, Sayaka Murata
+> _Convenience Store Woman_, Sayaka Murata
 
 If you’re dumb, surround yourself with smart people. And if you’re smart, surround yourself with smart people who disagree with you.
 
-> *Sports Night*
+> _Sports Night_
 
 As we know a lot of people think of art as something pretty stuffy, but don't let them kid you. True art has something to say to everyone. Great art unites the masses at every age in every country.
 
-> *The Bachelor and the Bobby-Soxer*
+> _The Bachelor and the Bobby-Soxer_
 
 "No reply. It's just a corpse."
 
-> *Dragon Quest*
+> _Dragon Quest_
 
 you can’t tell if the ache
 is bitter or sweet, it returns
@@ -336,7 +336,7 @@ to the melody, rinsed pure and clean of the past,
 you almost can’t bear it, the deliverance,
 the song come home
 
-> *Jazz*, Ellen Bass
+> _Jazz_, Ellen Bass
 
 “Chambers, I think this is the last murder you’ll have a hand in for some time, but if you ever try another, for God’s sake leave insurance companies out of it. They’ll spend five times as much as Los Angeles County will let me put into a case. They’ve got detectives five times as good as any I’ll be able to hire."
 
@@ -344,7 +344,7 @@ the song come home
 
 We’re just two punks, Frank. God kissed us on the brow that night. He gave us all that two people can ever have. And we just weren’t the kind that could have it. We had all that love, and we just cracked up under it. It’s a big airplane engine, that takes you through the sky, right up to the top of the mountain. But when you put it in a Ford, it just shakes it to pieces. That’s what we are, Frank, a couple of Fords.
 
-> *The Postman Always Rings Twice*, James Cain
+> _The Postman Always Rings Twice_, James Cain
 
 We should have a more conscious attitude toward the sounds – other than music —that we listen to. Presently, the levels of sound and music in the environment have clearly exceeded man's capacity to assimilate them, and the audio ecosystem is beginning to fall apart. Background music, which is supposed to create 'atmosphere', is far too excessive. In our present condition, we find that within certain areas and spaces, aspects of visual design are well attended to, but sound design is completely ignored. It is necessary to treat sound and music with the same level of daily need as we treat architecture, interior design, food, or the air we breathe. In any case, the "Wave Notation" series has begun. I hope it will be used and judged for what I had in mind as 'sound design', but of course the listener is free to use it in any way. However, I would hope this music does not become a partner in crime to the flood of sounds and music which inundate us at present.
 
@@ -352,7 +352,7 @@ We should have a more conscious attitude toward the sounds – other than music 
 
 Have you carried that theme in your head these years in the faint hope you might know it when it finds you, in a far-flung café, as you stand to pay, frozen, and the barista has to ask if you’re okay?
 
-> *Guide to Proper Mixtape Assembly*, Kayo Chingonyi
+> _Guide to Proper Mixtape Assembly_, Kayo Chingonyi
 
 I asked him if he could help me understand that better, and he described a letter from Tolkien in response to a priest who had questioned whether Tolkien's mythos was sufficiently doctrinaire, since it treated death not as a punishment for the sin of the fall but as a gift. “Tolkien says, in a letter back: ‘What punishments of God are not gifts?’ ” Colbert knocked his knuckles on the table. “ ‘What punishments of God are not gifts?’ ” he said again. His eyes were filled with tears. “So it would be ungrateful not to take everything with gratitude. It doesn't mean you want it. I can hold both of those ideas in my head.”
 
@@ -378,11 +378,11 @@ The best way to manage people, he thought, was to convince them that you were go
 
 ...
 
-> *Flash Boys*, Michael Lewis
+> _Flash Boys_, Michael Lewis
 
 I may not have gone where I intended to go, but I think I have ended up where I needed to be.
 
-> *Douglas Adams*
+> _Douglas Adams_
 
 don’t be clever
 code is a liability
@@ -406,11 +406,11 @@ If a man does not master his circumstances then he is bound to be mastered by th
 
 “I’ll tell you what is convenient,” he said after a moment. “To sleep until noon and have someone bring you your breakfast on a tray. To cancel an appointment at the very last minute. To keep a carriage waiting at the door of one party, so that on a moment’s notice it can whisk you away to another. To sidestep marriage in your youth and put off having children altogether. These are the greatest of conveniences, Anushka—and at one time, I had them all. But in the end, it has been the inconveniences that have mattered to me most.”
 
-> *A Gentleman in Moscow*
+> _A Gentleman in Moscow_
 
 The most certain sign of wisdom is cheerfulness
 
-> *Michel de Montaigne*
+> _Michel de Montaigne_
 
 All fiction is about prizing the logic of metaphors—which is the logic of narratives in general—over reality, which is irreducibly random and senseless.
 
@@ -426,7 +426,7 @@ Men spoke of the glory of Japan and the weakness of China, that Japan wants the 
 
 We have children because we can’t remember our own first taste of ambrosia.
 
-> *The Paper Menagerie and Other Stories*, Ken Liu
+> _The Paper Menagerie and Other Stories_, Ken Liu
 
 Your gaze scans the streets as if they were written pages: the city says everything you must think, makes you repeat her discourse, and while you believe you are visiting Tamara you are only recording the names with which she defines herself and all her parts.
 
@@ -458,22 +458,22 @@ The emperor did not turn a hair. 'And yet I have never heard you mention that na
 
 And Polo said: 'Every time I describe a city I am saying something about Venice.” 
 
-> *Invisible Cities*, Italo Calvino
+> _Invisible Cities_, Italo Calvino
 
 Philanthropy is the gateway to power.
 
-> *Mad Men*
+> _Mad Men_
 
 But you, Roman, remember, rule with all your power
 the peoples of the earth — these will be your arts:
 to put your stamp on the works and ways of peace,
 to spare the defeated, break the proud in war.
 
-> *The Aeneid*, Virgil
+> _The Aeneid_, Virgil
 
 Here dwell together still two men of note / who never lived and so can never die.
 
-> *221b*, Vincent Starrett
+> _221b_, Vincent Starrett
 
 Now in the cool of evening I catch a hint of the forest, of that taking of sudden breath that pines demand; it's on my skin, a light oil, a sweat born of some forgotten leaning into fire.
 
@@ -481,23 +481,23 @@ Now in the cool of evening I catch a hint of the forest, of that taking of sudde
 
 I stand at the counter slicing cheese, salami, rye bread, spreading mayonnaise, tamping down the lettuce, wrapping the sandwiches carefully in waxed paper for tomorrow's slunch the exact way my grandmother taught me years before, humming one of my grandfather's tunes, one he groans out when he sings himself to sleep, tapping his foot, swinging from side to side as though he were burning.
 
-> *What Work Is*, Philip Levine
+> _What Work Is_, Philip Levine
 
 The houses before us were far from identical.  They were painted every color you could think of, yet in the weak light, reduced to basic shapes, their resemblance was striking.  All were wooden, with prominent picture windows.  All had staircases leading to the beach, **and all had the air of a second home, one devoted to leisure rather than struggle.**
 
-> *Calypso*, David Sedaris
+> _Calypso_, David Sedaris
 
 I disapprove of crying during dinner. Dawn will soon come; weep then.
 
 ...
 
 She gave him two gifts, good and bad: she took his sight away, but gave sweet song.
-                
+\
 ...
 
 It is a rugged land, but good at raising children.
 
-> *The Odyssey*, Emily Wilson
+> _The Odyssey_, Emily Wilson
 
 We pray for ridiculous things, we humans. And so often are indulged.
 
@@ -505,25 +505,25 @@ We pray for ridiculous things, we humans. And so often are indulged.
 
 A good historian can find precedent for everything. But an even better historian knows when these precedents are but curiosities that cloud the big picture.
 
-> *Sapiens*, Yuval Noah Harari
+> _Sapiens_, Yuval Noah Harari
 
 These are all toys from my childhood. They're my fond memories of growing up here. We used to play in this ruin before it got infested by monsters. As a child, I thought every moment would last forever. But as time went by, I grew up, and now I'm an adult. I only have a week left before I go away to a faraway land to work. That means I only have one week left of my childhood. To tell you the truth... I'm scared to death. Would I be able to adapt to an unknown place? Moreover, would I be able to stay true to who I am? I'm scared I won't be myself anymore. That's why I want to take with me the memories of who I am now, so I won't forget.
 
-> *Wild Arms 3*
+> _Wild Arms 3_
 
 love is a burning house we built from
 scratch.
 love keeps us busy while the smoke clears.
 
-> *Ode to Northern Alberta*, Billy-Ray Belcourt
+> _Ode to Northern Alberta_, Billy-Ray Belcourt
 
 **My throat, it still tastes like house fire and salt water**
 
-> *Wooden Heart*, Listener
+> _Wooden Heart_, Listener
 
 Who was it who said, uh, "even if life is forever, each moment of it is a miracle?" I think that's just something we tell ourselves. **We're just ordinary and forever**, I think. There's a leveling out that happens if you live forever and ever without anything to lose.
 
-> *17776*, Jon Bois
+> _17776_, Jon Bois
 
 At first, the boy was made very nervous by the thought that Mister Rogers was visiting him. He was so nervous, in fact, that when Mister Rogers did visit, he got mad at himself and began hating himself and hitting himself, and his mother had to take him to another room and talk to him. Mister Rogers didn't leave, though. He wanted something from the boy, and Mister Rogers never leaves when he wants something from somebody. He just waited patiently, and when the boy came back, Mister Rogers talked to him, and then he made his request. He said, "I would like you to do something for me. Would you do something for me?" On his computer, the boy answered yes, of course, he would do anything for Mister Rogers, so then Mister Rogers said, "I would like you to pray for me. Will you pray for me?" And now the boy didn't know how to respond. He was thunderstruck. Thunderstruck means that you can't talk, because something has happened that's as sudden and as miraculous and maybe as scary as a bolt of lightning, and all you can do is listen to the rumble. The boy was thunderstruck because nobody had ever asked him for something like that, ever. The boy had always been prayed for. The boy had always been the object of prayer, and now he was being asked to pray for Mister Rogers, and although at first he didn't know if he could do it, he said he would, he said he'd try, and ever since then he keeps Mister Rogers in his prayers and doesn't talk about wanting to die anymore, because he figures Mister Rogers is close to God, and if Mister Rogers likes him, that must mean God likes him, too.
 
@@ -532,20 +532,20 @@ As for Mister Rogers himself…well, he doesn't look at the story in the same wa
 > [Can You Say Hero?](https://www.esquire.com/entertainment/tv/a27134/can-you-say-hero-esq1198/), Tom Junod
 
 9. an apartment filled with music,
-    hiss of damp clothes
+   hiss of damp clothes
 10. drying on the radiator,
       a prayer made with a record’s broken needle 
 11. to become beaming
       and undone.
 
-> *Playlist: 11 Weeks*, Kendra DeColo
+> _Playlist: 11 Weeks_, Kendra DeColo
 
 say: that boy he look like a hollowed-out grandfather 
 clock. he look like a million-dollar god with a two-cent 
 heaven. like all it takes is one kiss & before morning, 
 you could scatter his whole mind across a field.
 
-> *How Can Black People Write About Flowers at a Time Like This*, Hanif Abdurraqib
+> _How Can Black People Write About Flowers at a Time Like This_, Hanif Abdurraqib
 
 I myself am probably too washed to pinpoint the moment that “washed”—an existential description that has become ubiquitous in the past few years, as the American empire ebbs and exhaustion sets in—first entered the culture. It's not quite “washed up,” with its connotations of lounge singers in Vegas reflecting on their glory days. It's more about that transitive moment: There you are in the train station of life, waving goodbye to your edge and your youth as they depart. You are Eli Manning, and you are no longer a plausible NFL starter in the eyes of some, but you are not yet ready to go to the bench. **You haven't been to that particular new restaurant yet, but you've heard it's nice.**
 
@@ -553,11 +553,11 @@ I myself am probably too washed to pinpoint the moment that “washed”—an ex
 
 Baking time depends on the fire and your patience.
 
-> *The Little Book of Hygge*
+> _The Little Book of Hygge_
 
 People silently struggle from all kinds of terrible things. They suffer from depression, ambition, substance abuse, and pretension. They suffer from family tragedy, Ivy-League educations, and self-loathing. They suffer from failing marriages, physical pain, and publishing. The good thing about politeness is that you can treat these people exactly the same. And then wait to see what happens. You don’t have to have an opinion. You don’t need to make a judgment. I know that doesn’t sound like liberation, because we live and work in an opinion-based economy. But it is. Not having an opinion means not having an obligation. And not being obligated is one of the sweetest of life’s riches.
 
-> *How To Be Polite*, Paul Ford
+> _How To Be Polite_, Paul Ford
 
 Assume the worst. About everybody. But don't let this poisoned outlook affect your job performance. Let it all roll off your back. Ignore it. Be amused by what you see and suspect. Just because someone you work with is a miserable, treacherous, self-serving, capricious and corrupt asshole shouldn't prevent you from enjoying their company, working with them or finding them entertaining.
 
@@ -565,23 +565,23 @@ Assume the worst. About everybody. But don't let this poisoned outlook affect yo
 
 **Writing anything is a treason of sorts.**  Even the cold recitation of facts is never the thing itself.  And the events described are somehow diminished in the telling.  A perfect bowl of bouillabaisse, that first, all-important oyster, plucked from the Bassin d'Arcachon, both are made cheaper, less distinct in my memory, once I've written about them. Whether I missed a few other things, or described them inadaquately, like the adventures of the Amazing Steven Tempel, or my Day in the Life, are less important. Our movements through time and space seem somehow trivial compared to a heap of boiled meat in broth, the smell of saffron, garlic, fishbones and Pernod.
 
-> *Kitchen Confidential*, Anthony Bourdain
+> _Kitchen Confidential_, Anthony Bourdain
 
 The degree of civilization in a society can be judged by entering its prison.
 
-> *Fyodor Dostoyevsky*
+> _Fyodor Dostoyevsky_
 
 But research still confirms what this Court suggested over a century ago: **Years on end of near-total isolation exacts a terrible price.**
 
-> *Davis v. Ayala*, Anthony Kennedy
+> _Davis v. Ayala_, Anthony Kennedy
 
 When I’m back, I want a body like a slash of lightning.
 
-> *A Memory*, Saeed Jones
+> _A Memory_, Saeed Jones
 
 homo homini lupus
 
-> *Roman adage*
+> _Roman adage_
 
 No, I was not busy when you came!
 I was not preparing to be busy.
@@ -589,12 +589,11 @@ That’s the armor everyone put on
 to pretend they had a purpose
 in the world.
 
-
-> *Red Brocade*, Naomi Shihab Nye
+> _Red Brocade_, Naomi Shihab Nye
 
 Happiness writes white: it doesn't show up on the page.
 
-> *London Fields*, Martin Amis
+> _London Fields_, Martin Amis
 
 With a sufficient number of users of an API,
 it does not matter what you promise in the contract:
@@ -613,22 +612,20 @@ We get ourselves out of the office and into a bar. We have more in common than o
 
 IT’S CHRISTMASTIME; I’m older, I’m elsewhere. On the train to work, I swipe through social media and hit on a post from the start-up’s holiday party, which has its own hashtag. The photograph is of two former teammates, both of them smiling broadly, their teeth as white as I remember. “So grateful to be part of such an amazing team,” the caption reads, and I tap through. **The hashtag unleashes a stream of photographs featuring people I’ve never met — beautiful people, the kind of people who look good in athleisure. They look well rested. They look relaxed and happy. They look nothing like me.** There’s a photograph of what can only be the pre-dinner floor show: an acrobat in a leotard kneeling on a pedestal, her legs contorted, her feet grasping a bow and arrow, poised to release. Her target is a stuffed heart, printed with the company logo. I scroll past animated photo-booth GIFs of strangers, kissing and mugging for the camera, and I recognize their pride, I empathize with their sense of accomplishment — this was one hell of a year, and they have won. I feel gently ill, a callback to the childhood nausea of being left out.
 
-
 > [Uncanny Valley](https://nplusonemag.com/issue-25/on-the-fringe/uncanny-valley/), Anna Weiner
 
 But how shall we educate men to goodness, to a sense of one another, to a love of the truth? And more urgently, how shall we do this in a bad time?
 
-> *Daniel Berrigan*
+> _Daniel Berrigan_
 
 Some people will say that words like scum and rotten are wrong for Objective Journalism -- which is true, but they miss the point. It was the built-in blind spots of the Objective rules and dogma that allowed Nixon to slither into the White House in the first place. He looked so good on paper that you could almost vote for him sight unseen. He seemed so all-American, so much like Horatio Alger, that he was able to slip through the cracks of Objective Journalism. **You had to get Subjective to see Nixon clearly, and the shock of recognition was often painful.**
 
-
-> *He Was a Crook*, Hunter S. Thompson
+> _He Was a Crook_, Hunter S. Thompson
 
 Evil is unspectacular and always human,
 And shares our bed and eats at our own table.
 
-> *Herman Melville*, W.H. Auden
+> _Herman Melville_, W.H. Auden
 
 If research on the 2 sigma problem yields practival methods, it would be an educational contribution of the greatest magnitude.  **It would change popular notions about human potential and have significant effects on what the schools can and should dow ith the educational years each society requires of its young people.**
 
@@ -645,7 +642,7 @@ and sweetly. Let bruise be proof. Let the smell of your hands.**
 
 **We are powered by fear and guile and a contact high and it feels amazing.**
 
-> *Wild Horses*, Allison Gregory
+> _Wild Horses_, Allison Gregory
 
 "Nothing was learned from this," he says. "**A culture not willing to think hard and test itself does not augur well for the future.**" The exercise, he says, was rigged almost from the outset.
 
@@ -653,7 +650,7 @@ and sweetly. Let bruise be proof. Let the smell of your hands.**
 
 We all go way back and I owe you from the thing with the guy in the place.
 
-> *Ocean's Eleven*
+> _Ocean's Eleven_
 
 If the system can be gamed, well then, our ability to game the system has become the new test of merit.
 
@@ -663,7 +660,7 @@ Audrey Rouget: What Jane Austen novels have you read?
 
 Tom Townsend: None. I don't read novels. I prefer good literary criticism. That way you get both the novelists' ideas as well as the critics' thinking. With fiction I can never forget that none of it really happened, that it's all just made up by the author.
 
-> *Metropolitan*, Whit Stilman
+> _Metropolitan_, Whit Stilman
 
 The indiscriminate character of Colve’s brand of justice is captured in a particular case: One man had challenged another to a duel; the second man refused, as dueling had been outlawed. The first man was sentenced to run the gauntlet for proposing the duel; the second man was sentenced to the wooden horse for refusing the duel.
 
@@ -672,7 +669,7 @@ The indiscriminate character of Colve’s brand of justice is captured in a part
 The water is clear all the way down.
 Nothing ever polished it. That is the way it is.
 
-> *Keizan*
+> _Keizan_
 
 Our daily lives are structured by screens and a rational approach to instability, without any semblance of meaning. We shrug off threats like climate change and nuclear war. We check our phone a combined 8 billion times a day. And with rates of depression & anxiety higher than ever before, people are searching for new ways to bond, new ways to interface, new ways to build collectivity.
 
@@ -685,7 +682,6 @@ In a 2011 paper on the medical effects of scurvy, author Jason C. Anthony offers
 In a sense, there is no such thing as healing. **From paper cuts to surgical scars, our bodies are mere catalogs of wounds: imperfectly locked doors quietly waiting, sooner or later, to spring back open.**
 
 > [Infinite Exchange](http://davidmaisel.com/essays/infinite-exchange/), David Maisel
-
 
 When nothing becomes something, it defies death. It puts to rest our fear that all that awaits us is a void. This is the essential appeal of social media, that each of the internet’s billion hashtags is a tiny cri de coeur, a yooooooooooooo into a mirror world that we cannot touch, a door slamming in a draftless room.
 
@@ -707,7 +703,7 @@ In computers, it seems to me that we buy throughput, but feel latency.
 
 “I’m not scared of dying, I’m scared of breaking my mother’s heart”
 
->  *If I Am Alive To*, Charif Shanahan
+>  _If I Am Alive To_, Charif Shanahan
 
 IT IS IN YOUR SELF-INTEREST TO FIND A WAY TO BE VERY TENDER
 
@@ -727,11 +723,11 @@ It gets easier. Every day it gets a little easier. But you got to do it every da
 
 There’s no such thing as bad guys and good guys! We’re all just guys! Who do good stuff, sometimes. And bad stuff, sometimes. And all we can do is try to do less bad stuff and more good stuff. But you’re never going to be good! Because you’re not bad! So you need to stop using that as an excuse.
 
-> *Bojack Horseman*
+> _Bojack Horseman_
 
 Maybe buying in is really the punk rock choice.
 
-> *You're the Worst*
+> _You're the Worst_
 
 For the Vikings, this was the essence of war: it's a mystery that comes out of nowhere and grows for reasons nobody can control, until it shakes the whole world apart.
 
@@ -743,13 +739,11 @@ Voters, activists, and political leaders of the present day are in the position 
 
 The more complicated a theory is, the more ways there are for it to go wrong.
 
-
 > [In Praise of Passivity](http://www.owl232.net/papers/passivity.htm)
 
 “My only closing Janos thoughts are that he’s awesome,” Karalis says. “I just want Janos to exist in this plane where we know it’s kind of a joke, but we’re all going to pretend it’s not, and this is just the perfect zone for Janos. I just hope this stays. I don’t want Janos to be revealed.
 
 **“I just want Janos to be this forever.”**
-
 
 > [Meet Janos](https://www.sbnation.com/nba/2018/5/13/17345068/celtics-twitter-janos-weird-boston-bowl-soup-good), John Karalis
 
@@ -763,11 +757,11 @@ The Virtual Plaza welcomes you, and you will welcome it too.
 
 **Under the pavement, pavement.** Hoaxes, failures, porches, archaeological strata spread out on a continuous thin plane; softness and speed, echoes, spores, tropes, fonts; not identity but incident and the accumulation of air miles; unmarked solitude absorbing time, bloating to become an environment, indexical euphorias, the unraveling of laughter; a brief history of escalators; memory manifest, brindled, loosening; a crumpling of automotive glass; the pornographic, the wrapped; Helvetica's black dust: All doctrine is foreign to us.  Forget the journals, conferences, salons, textbooks and media of dissemination.  We say thought's object is not knowledge but living.  **We do not like it elsewhere.**
 
-> *Soft Architecture*, Lisa Robertson
+> _Soft Architecture_, Lisa Robertson
 
 **I am sorry / to hold you again / for so long / I am in the mood / to be forgotten.**
 
-> *For the Dogs Who Barked at Me on the Sidewalks in Connecticut*, Hanif Abdurraqib
+> _For the Dogs Who Barked at Me on the Sidewalks in Connecticut_, Hanif Abdurraqib
 
 Battier’s game is a weird combination of obvious weaknesses and nearly invisible strengths. When he is on the court, his teammates get better, often a lot better, and his opponents get worse — often a lot worse. He may not grab huge numbers of rebounds, but he has an uncanny ability to improve his teammates’ rebounding. He doesn’t shoot much, but when he does, he takes only the most efficient shots. He also has a knack for getting the ball to teammates who are in a position to do the same, and he commits few turnovers. On defense, although he routinely guards the N.B.A.’s most prolific scorers, he significantly ­reduces their shooting percentages. At the same time he somehow improves the defensive efficiency of his teammates — probably, Morey surmises, by helping them out in all sorts of subtle ways. “I call him Lego,” Morey says. “When he’s on the court, all the pieces start to fit together. And everything that leads to winning that you can get to through intellect instead of innate ability, Shane excels in. I’ll bet he’s in the hundredth percentile of every category.”
 
@@ -779,7 +773,7 @@ Knowing the odds, Battier can pursue an inherently uncertain strategy with total
 
 opsec will get you through times of no crypto better than crypto will get you through times of no opsec.
 
-> [https://twitter.com/thegrugq/status/992839194870300672](the grugq)
+> \[https://twitter.com/thegrugq/status/992839194870300672](the grugq)
 
 Besides privacy, another thing people are said to luxuriate in is hot water – a bath, a shower, a hot springs. Part of this is the pleasure of not having to expend energy maintaining temperature homeostasis. The pleasure of privacy is similar: freedom from having to expend cognitive energy in modeling others and conforming one’s behavior to the standards of public self-presentation, in order to maintain status homeostasis. **Privacy is a form of rest.**
 
@@ -799,11 +793,11 @@ When the queen was newly crowned we wore pink hats and the city was small; when 
 
 A good watch celebrates time.
 
-> *Twelve Timeframes*, Paul Ford
+> _Twelve Timeframes_, Paul Ford
 
 **boring and grateful**, same as always
 
-> [https://twitter.com/lrsphm/status/967200571970039808](Larissa Pham)
+> \[https://twitter.com/lrsphm/status/967200571970039808](Larissa Pham)
 
 On its own, when you see one person slip, you automatically assume that person slipped, was clumsy or not playing attention. But when you look at the aggregate, you realize that the failure isn't on the individual at all, rather the structures that cause certain people to fail with almost no fault of their own. And yet, without this data, they will very quickly ascribe the mistake to themselves.  
 
@@ -817,11 +811,11 @@ For a hundred miles through the desert, repenting. /
 You only have to let the soft animal of your body /
 love what it loves.
 
-> *Wild Geese*, Mary Oliver
+> _Wild Geese_, Mary Oliver
 
 You see, Wally, the trouble with always being active and doing things is that it’s quite possible to do all sorts of things and at the same time be completely dead inside. I mean, you’re doing all these things, but are you doing them because you really feel an impulse to do them, or are you doing them mechanically, as we were saying before? Because I do believe that if you’re just living mechanically, then you have to change your life.
 
-> *My Dinner with Andre*
+> _My Dinner with Andre_
 
 You can’t be dead if you have a sequel coming.
 
@@ -829,17 +823,17 @@ You can’t be dead if you have a sequel coming.
 
 "It's hard not to become self-satisfied," he said, "with so much self-satisfaction around you."
 
-> *Transit*, Rachel Cusk
+> _Transit_, Rachel Cusk
 
 We know Lilith ate /
 the bones of her enemies. We know /
 a bitch learns to love her own ghost.
 
-> *All of Us*, Erika L. Sanchez
+> _All of Us_, Erika L. Sanchez
 
 A book I read when I was young recommended an easy way to find caterpillars to rear: you simply find some fresh caterpillar droppings, look up, and there's your caterpillar.
 
-> *Seeing*, Annie Dillard
+> _Seeing_, Annie Dillard
 
 oh god it's wonderful /
 to get out of bed /
@@ -847,7 +841,7 @@ and drink too much coffee /
 and smoke too many cigarettes /
 and love you so much 
 
-> *Steps*, Frank O'Hara
+> _Steps_, Frank O'Hara
 
 Like the starlight that travels millions of years before we see it, the four little boys stand in their underpants at Coney Island on an August day in 1978, and it is only now, in a found photograph, that we behold them.
 
@@ -866,10 +860,9 @@ I’ll dig with it.**
 
 > [Digging](https://www.poetryfoundation.org/poems/47555/digging), Seamus Heaney
 
-
 Make it a rule never to rise from the table without an unsatisfied longing for just one little thing more.
 
-> *Claudius the God*, Robert Graves
+> _Claudius the God_, Robert Graves
 
 It's not easy: they teach us to read as children, and for the rest of our lives we remain the slaves of all the written stuff they fling in front of us. I may have had to make some effort myself, at first, to learn not to read, but now it comes quite naturally to me. The secret is not refusing to look at the written words. On the contrary, you must look at them, intensely, until they disappear.
 
@@ -885,7 +878,7 @@ The past is like a tapeworm, constantly growing, which I carry curled up inside 
 
 Renouncing things is less difficult than people believe: it's all a matter of getting started. Once you've succeeded in dispensing with something you thought essential, you realize you can also do without something else, then without many other things.
 
-> *If On A Winter's Night A Traveler*, Italo Calvino
+> _If On A Winter's Night A Traveler_, Italo Calvino
 
 It's true what they say, that a baby gives you a reason to live. But also, a baby is a reason that it is not permissible to die. There are days when this does not feel good.
 
@@ -893,7 +886,7 @@ It's true what they say, that a baby gives you a reason to live. But also, a bab
 
 Oh, I thought, for the first time: children are pregnant with themselves.
 
-> *Little Labors*, Rivka Galchen
+> _Little Labors_, Rivka Galchen
 
 Take a shower. Use nice-smelling soap. Put on a clean, soft bathrobe. I suggest slipper socks as well - the ones with little rubber dots on the bottom. Make another breakfast Maybe a poached egg, or slice of quiche. Brew a fresh pot of tea. Read the news or twitter or the next chapter in a book.
 
@@ -902,14 +895,14 @@ Take a shower. Use nice-smelling soap. Put on a clean, soft bathrobe. I suggest 
 Death
     is not dark
 but a red siren
- 
+
 who will not blow
     breath into your open
 mouth, arrested
- 
+
 like a heart
 
-> *Nightstick [A Mural for Michael Brown]*, Kevin Young
+> _Nightstick \[A Mural for Michael Brown]_, Kevin Young
 
 A garden is not an object but a process.
 
@@ -930,7 +923,6 @@ we are saying thank you faster and faster
 we are saying thank you and waving 
 dark though it is**
 
-
 > [Thanks](https://www.poets.org/poetsorg/poem/thanks), W.S. Merwin
 
 Get better every day through fast, frequent improvements. Optimize for performance. Features are the enemy. Design is code/code is design. Assume all users are smart. Constrain scope, except when you shouldn’t. Minimalism. Ship.
@@ -947,7 +939,7 @@ In all jazz, and especially the blues, there is something tart and ironic, autho
 
 It is rare indeed that people give. Most people guard and keep; they suppose that it is they themselves that they are guarding and keeping, whereas what they are actually guarding and keeping is their system of reality and what they assume themselves to be. One can give nothing whatever without giving oneself–that is to say, risking oneself. If one cannot risk oneself, then one is simply incapable of giving.
 
-> *The Fire Next Time*, James Baldwin
+> _The Fire Next Time_, James Baldwin
 
 Thinking about what I should say to you made me think about what we learn in college; and what we unlearn in college; and then how we learn to unlearn what we learned in college and relearn what we unlearned in college, and so on. And I thought how I have learned, more or less well, three languages, all of them English; and how one of these languages is the one I went to college to learn
 ...
@@ -961,7 +953,7 @@ There are two fundamental rules of taxes:
 1. It is always better to have more money than less money.
 2. It is always better to die later than sooner.
 
-> *Michael Graetz*
+> _Michael Graetz_
 
 SEA BEARS FOAM,
        SLEEP BEARS
@@ -969,7 +961,7 @@ SEA BEARS FOAM,
        IN THE SAME WAY
        CRASSSH!
 
-> *Link's Awakening*, Nintendo
+> _Link's Awakening_, Nintendo
 
 The majority of VCs deserve neither criticism or praise, but the majority want praise without exposure to criticism.
 
@@ -999,15 +991,15 @@ highlighting, writing in the margins, **I was here.**
 
 She was the first “nice” girl he had ever known. In various unrevealed capacities he had come in contact with such people, but always with indiscernible barbed wire between. He found her excitingly desirable. He went to her house, at first with other officers from Camp Taylor, then alone. It amazed him — he had never been in such a beautiful house before, but what gave it an air of breathless intensity, was that Daisy lived there — it was as casual a thing to her as his tent out at camp was to him. There was a ripe mystery about it, a hint of bedrooms up-stairs more beautiful and cool than other bedrooms, of gay and radiant activities taking place through its corridors, and of romances that were not musty and laid away already in lavender but fresh and breathing and redolent of this year’s shining motor-cars and of dances whose flowers were scarcely withered. 
 
-> *Great Gatsby*, F. Scott Fitzgerald
+> _Great Gatsby_, F. Scott Fitzgerald
 
 Make sure that by the time the fisherman returns you are gone.
 
-> *Shake the Dust*, Anis Mojgani
+> _Shake the Dust_, Anis Mojgani
 
 I saw my life branching out before me like the green fig tree in the story. From the tip of every branch, like a fat purple fig, a wonderful future beckoned and winked. One fig was a husband and a happy home and children, and another fig was a famous poet and another fig was a brilliant professor, and another fig was Ee Gee, the amazing editor, and another fig was Europe and Africa and South America, and another fig was Constantin and Socrates and Attila and a pack of other lovers with queer names and offbeat professions, and another fig was an Olympic lady crew champion, and beyond and above these figs were many more figs I couldn't quite make out. I saw myself sitting in the crotch of this fig tree, starving to death, just because I couldn't make up my mind which of the figs I would choose. **I wanted each and every one of them, but choosing one meant losing all the rest, and, as I sat there, unable to decide, the figs began to wrinkle and go black, and, one by one, they plopped to the ground at my feet.**
 
-> *The Bell Jar*, Sylvia Plath
+> _The Bell Jar_, Sylvia Plath
 
 **All labor has dignity.**
 
@@ -1031,12 +1023,11 @@ The past was a vine hanging on by just these five tendrils and it tore away easi
 
 He feels the truth: the thing that has left his life has left irrevocably; no search would recover it. No flight would reach it. It was here, beneath the town, in these smells and these voices, forever behind him. The fullness ends when we give Nature her ransom, when we make children for her. Then she is through with us, and we become, first inside, and then outside, junk.
 
-> *Rabbit, Run*, John Updike
+> _Rabbit, Run_, John Updike
 
 This question—“Does it hold up?”—permeates our cultural discourse these days. I don’t say that judgmentally. It’s a question we ask ourselves and each other because we’re self-conscious. En route to a screening of When Harry Met Sally last Valentine’s Day, an old friend told me she thought the gender politics of the movie aged horribly. To watch it made her uncomfortable and sad. It didn’t hold up. I felt my cheeks flush with anger. Of course it didn’t hold up. **It wasn’t made to hold up. It was made as it was, with care and concern and whip-smart jokes.**
 
 > [Hold Up, They Don't Love You Like I Love You](http://www.brightwalldarkroom.com/2018/03/23/hold-dont-love-like-love/), Fran Hoephner
-
 
 Every time I'm in an airport,
 I think I should drastically
@@ -1056,7 +1047,7 @@ flawed, but I want to be
 who I am, going where
 I'm going, all over again.**
 
-> *The Problem with Travel*, Ada Limon
+> _The Problem with Travel_, Ada Limon
 
 **You don’t realize how much of your sense of self is bound up in how you use your time until you have a lot of it.** An important part of myself had been propped up not on a title or a vocation but on a hundred quiet daily rites from which I was now an apostate: Slack chats, email exchanges, mid-afternoon coffees, bags of Haribo, glasses of warm vodka drunk after work at a friend’s desk
 
@@ -1064,11 +1055,11 @@ I'm going, all over again.**
 
 "It’s not disillusion, sir. I see now, though I hadn’t considered the matter before, that there are two different ways of writing history: one is to persuade men to virtue and the other is to compel men to truth. The first is Livy’s way and the other is yours: and perhaps they are not irreconcilable."
 
-> *I, Claudius*
+> _I, Claudius_
 
 I feel: the grass is sad everywhere, but at least we can kiss?
 
-> *So Sad Today*, Melissa Broder
+> _So Sad Today_, Melissa Broder
 
 Recently, a friend observed that watching this show, often enough, we do not laugh anymore. I supposed that was right, and we wondered why, agreeing that its humor had not diminished with age. “It’s like being with an old friend,” I ventured. “With whom you can be comfortable in silence.”
 
@@ -1092,16 +1083,13 @@ I never reflected on why this unremarkable suburban library existed, who funded 
 
 But it taught me that like everyone else, I had a right to learn and was welcome. That I could ask questions, and learn how to find my way to the answers. It taught me the importance of being quiet in public places.
 
-
 ...
 
 My dream for the web is for it to feel like big city. A place where you rub elbows with people who are not like you. Somewhere a little bit scary, a little chaotic, full of everything you can imagine and a lot of things that you can't. A place where there’s room for chain stores, room for entertainment conglomerates, but also room for people to be themselves, to create their own spaces, and to learn from one another.
 
-
 > [Deep Fried Data](http://idlewords.com/talks/deep_fried_data.htm)
 
 The easiest response to all this, to the yelling and the lying and the pain, the natural response, is apathy. To lie down in a pastel heap of heavy blankets and sleep this whole thing away like Rip Van Winkle. But you remember what happens to Rip Van Winkle. **He comes home to find his house in ruins.** So we don't get to sleep. We have to fight to keep our eyes open, and we have to take small victories, and we have to stay engaged in making society function.
-
 
 > [How I Spent My Summer Vacation](http://www.mtv.com/news/2937584/how-i-spent-my-summer-vacation/), Kaleb Horton
 
@@ -1109,7 +1097,7 @@ Romance is a grotto of eager stones /
 anticipating light, or a girl whose teeth /
 you can always see.
 
-> *And Then It Was Less Bleak Because We Said So*, Wendy Xu
+> _And Then It Was Less Bleak Because We Said So_, Wendy Xu
 
 The abnormality of our time, that which makes it contrary to nature, is its deliberate and stated determination to make the working life of men & the product of their working hours mechanically perfect, and to relegate all the humanities, all that is of its nature humane, to their spare time, to the time when they are not at work.
 
@@ -1117,7 +1105,7 @@ The abnormality of our time, that which makes it contrary to nature, is its deli
 
 Now the chief and, though we betray our personal predilection by saying so, the most monstrous characteristic of our time is that the methods of manufacture which we employ and of which we are proud are such as make it impossible for the ordinary workman to be an artist, that is to say a responsible workman, a man responsible not merely for doing what he is told but responsible also for the intellectual quality of what his deeds effect
 
-> *An Essay on Typography*, Eric Gill
+> _An Essay on Typography_, Eric Gill
 
 Now, I /
 demand a love that is stupid and beautiful /
@@ -1132,7 +1120,7 @@ We know what we are, that we walk like we are not long for this world, that this
 
 I  did not know then that this is what life is - just when you master the geometry of one world, it slips away, and suddenly again, you're swarmed by strange shapes and impossible angles.
 
-> *The Beautiful Struggle*, Ta-Nehisi Coates
+> _The Beautiful Struggle_, Ta-Nehisi Coates
 
 As a minority, no sooner do you learn to polish and cherish one chip on your shoulder than it’s taken off you and swapped for another. The jewellery of your struggles is forever on loan.
 
@@ -1140,9 +1128,7 @@ As a minority, no sooner do you learn to polish and cherish one chip on your sho
 
 Be patient, don't give up, and always be learning. You can turn even the most crappy situation into valuable lessons. Teach them to others. Be happy with what you have yet always strive to improve things. Don't let people flatter you into playing their games. When things get weird, keep a log. Love and respect good people. Learn to keep the assholes at a distance. Don't get hung-up on the past. Be nice to people, even those trying to hurt you. Speak up when things are bad, and tell the truth. Trust your emotions yet check where they come from. Don't be afraid of taking risks, and learn to identify and manage risks. Solve one problem at a time. Be generous. Teach others whenever you can. Remember Sturgeon's Law.
 
-
 > [Confessions of a Necromancer](http://hintjens.com/blog:125), Pieter Hintjens
-
 
 “What if the cat wants in when we’re gone?” he asks. There is no cat, like there is no raven, like there is no one-eyed dog. But she knows the right answer.
 
@@ -1160,8 +1146,7 @@ He knows the name of the moment to come, like the baby knew the name of the crow
 
 Meaning is like music; it catches and is carried. It returns. Refrains, phrases, the names of passing boats. Stuck in my head, it’s stuck in my head. The way stories fasten themselves to words, words fasten themselves to vulnerable rhythms, impressionable tunes. Ann is skilled in the archaeology of carried music. It holds on like fear, like love.
 
-
-> *Idaho*, Emily Ruskovich
+> _Idaho_, Emily Ruskovich
 
 This is about hope, sure, but not in the way that it is often packaged as an antithesis to that which is burning.
 
@@ -1177,7 +1162,7 @@ First leave nothing to the imagination, and then leave everything to the imagina
 
 It is a luxury to see some violence as terror and other violence as necessary.
 
-> *They Can't Kill Us Until They Kill Us*, Hanif Abdurraqib
+> _They Can't Kill Us Until They Kill Us_, Hanif Abdurraqib
 
 I am now 33 years old, and it feels like much time has passed and is passing faster and faster every day. **Day to day I have to make all sorts of choices about what is good and important and fun, and then I have to live with the forfeiture of all the other options those choices foreclose.** And I’m starting to see how as time gains momentum my choices will narrow and their foreclosures multiply exponentially until I arrive at some point on some branch of all life’s sumptuous branching complexity at which I am finally locked in and stuck on one path and time speeds me through stages of stasis and atrophy and decay until I go down for the third time, all struggle for naught, drowned by time. It is dreadful. But since it’s my own choices that’ll lock me in, it seems unavoidable—if I want to be any kind of grownup, I have to make choices and regret foreclosures and try to live with them.
 
@@ -1185,8 +1170,7 @@ I am now 33 years old, and it feels like much time has passed and is passing fas
 
 An ad that pretends to be art is—at absolute best—like somebody who smiles warmly at you only because he wants something from you. This is dishonest, but what’s sinister is the cumulative effect that such dishonesty has on us: since it offers a perfect facsimile or simulacrum of goodwill without goodwill’s real spirit, it messes with our heads and eventually starts upping our defenses even in cases of genuine smiles and real art and true goodwill. It makes us feel confused and lonely and impotent and angry and scared. It causes despair.
 
-> *A Supposedly Fun Thing That I'll Never Do Again*, David Foster Wallace
-
+> _A Supposedly Fun Thing That I'll Never Do Again_, David Foster Wallace
 
 War is conducted with a fury that requires abstraction—that turns a planeful of peaceful passengers, children included, into a missile the faceless enemy deserves.
 
@@ -1196,14 +1180,13 @@ The stories Chance tells, they all suggest he understands his unique position, h
 
 > [Listening to Chance's Mixtape About Home at Home](http://www.vulture.com/2016/05/listening-to-chances-mixtape-about-home-at-home.html), Rembert Browne
 
-
 Writing has so much to give, so much to teach, so many surprises. That thing you had to force yourself to do—the actual act of writing—turns out to be the best part. It’s like discovering that while you thought you needed the tea ceremony for the caffeine, what you really needed was the tea ceremony. The act of writing turns out to be its own reward.
 
-> *Bird by Bird*, Anne Larnott
+> _Bird by Bird_, Anne Larnott
 
 I drove away from the house of Mable Jones thinking of all of this. I drove away, as always, thinking of you. I do not belive that we can stop them, Samori, because they must ultimately stop themselves. And still I urge you to struggle. Struggle for the memory of your ancestors. Struggle for wisdom. Struggle for the warmth of The Mecca. Struggle for your grandmother and grandfather, for your name. **But do not struggle for the Dreamers. Hope for them. Pray for them, if you are so moved. But do not pin your struggle on their conversion. The Dreamers will have to learn to struggle themselves, to understand that the field for their Dream, the stage where they have painted themselves white, is the deathbed of us all.** The Dream is the same habit that endangers the planet, the same habit that sees our bodies stowed away in prisons and ghettos. I saw these ghettos driving back from Dr. Jones’s home. They were the same ghettos I had seen in Chicago all those years ago, the same ghettos where my mother was raised, where my father was raised. Through the windshield I saw the marks of the ghettos—the abundance of beauty shops, churches, liquor stores, and crumbling houses—and I felt the old fear. **Through the windshield I saw the rain coming down in sheets.**
 
-> *Between the World and Me*, Ta-Nehisi Coates
+> _Between the World and Me_, Ta-Nehisi Coates
 
 I think it's one of the most beautiful pieces of jazz ever composed. Listening to it is like watching snow through a window. The room is warm, something is roasting in the oven, and outside the flakes are falling faintly through the universe and upon the trees, the hedges, the rain gutters, the telephone poles, and the rooftops of a thousand apartment buildings in a very big city. **This is where you want to be forever.** This is Vince Guaraldi's "Christmas Time Is Here." It opens with a trembling bass, like someone coming out of the cold, stamping their feet, brushing the snow off their shoulders, hanging up their winter coat, rubbing and blowing on numb fingers, and entering the living room where there is a window for watching the flakes falling faintly upon all the buildings of the living.
 
@@ -1213,21 +1196,20 @@ I think it's one of the most beautiful pieces of jazz ever composed. Listening t
 
 > [Letter to John Adams](https://founders.archives.gov/documents/Washington/05-02-02-0182), George Washington
 
-
 Early malaria cures included:
 
-- Bloodletting and blood drinking
-- Limb amputation
-- Amulet wearing
-- Application of split pickled herrings to the feet
-- Consumption of viper’s broth, crab’s eyes mixed with radishes, wolf’s eyes, cabbage, or brandy mixed with cat blood and pepper
-- Throwing a patient headfirst into a bush
-- The embrace of a bald-headed Brahmin widow at dawn
-- Sucking on cobwebs
-- Reciting Homer’s Iliad to the patient
-- Mixing the patient’s urine with flour and throwing that on an anthill
+* Bloodletting and blood drinking
+* Limb amputation
+* Amulet wearing
+* Application of split pickled herrings to the feet
+* Consumption of viper’s broth, crab’s eyes mixed with radishes, wolf’s eyes, cabbage, or brandy mixed with cat blood and pepper
+* Throwing a patient headfirst into a bush
+* The embrace of a bald-headed Brahmin widow at dawn
+* Sucking on cobwebs
+* Reciting Homer’s Iliad to the patient
+* Mixing the patient’s urine with flour and throwing that on an anthill
 
-> *Tonic Water*, Camper English
+> _Tonic Water_, Camper English
 
 Nowadays, companies hang flat screen TVs hanging on the walls, all them running 24/7 to display a variety of charts. Most everyone ignores them. **The spirit is right, to be transparent all the time, but the understanding of human nature is not.** We ignore things that are shown to us all the time. However, if once a month, a huge packet of charts dropped on your desk, with a cover letter summarizing the results, and if the CEO and your peers received the same package the same day, and that piece of work included charts on how your part of the business was running, you damn well paid attention, like any person turning to the index of a book on their company to see if they were mentioned. **Ritual matters.**
 
@@ -1236,7 +1218,6 @@ Nowadays, companies hang flat screen TVs hanging on the walls, all them running 
 A good line graph is a fusion of right and left brain, of literacy and numeracy. Just numbers alone aren't enough to explain the truth, but accurate numbers, represented truthfully, are a check on our anecdotal excesses, confirmation biases, tribal affiliations.
 
 > [Remove the Legend to Become One](http://www.eugenewei.com/blog/2017/11/13/remove-the-legend), Eugene Wei
-
 
 But flippancy is the best of all. In the first place it is very economical. Only a clever human can make a real Joke about virtue, or indeed about anything else; any of them can be trained to talk as if virtue were funny. Among flippant people the Joke is always assumed to have been made. No one actually makes it; but every serious subject is discussed in a manner which implies that they have already found a ridiculous side to it. If prolonged, the habit of Flippancy builds up around a man the finest armour-plating against the Enemy that I know, and it is quite free from the dangers inherent in the other sources of laughter. **It is a thousand miles away from joy: it deadens, instead of sharpening, the intellect; and it excites no affection between those who practise it.**
 
@@ -1248,15 +1229,13 @@ We have trained them to think of the Future as a promised land which favoured he
 
 The Historical Point of View, put briefly, means that when a learned man is presented with any statement in an ancient author, the one question he never asks is whether it is true. He asks who influenced the ancient writer, and how far the statement is consistent with what he said in other books, and what phase in the writer’s development, or in the general history of thought, it illustrates, and how it affected later writers, and how often it has been misunderstood (specially by the learned man’s own colleagues) and what the general course of criticism on it has been for the last ten years, and what is the ‘present state of the question’. To regard the ancient writer as a possible source of knowledge—to anticipate that what he said could possibly modify your thoughts or your behaviour—this would be rejected as unutterably simple-minded.
 
-
-> *The Screwtape Letters*, C.S. Lewis
-
+> _The Screwtape Letters_, C.S. Lewis
 
 If she asks you, you will tell her what you know. You do not lie. But do not say he was murdered or he was killed. Yes, I know that he was, but that is not what you say. You say that he died; that is the part that you saw and that you know. When she asks if he felt any pain, you must be very careful. If he did not, you assure her quickly. If he did, you do not lie. But his pain is over now. **Do not ever say he was lucky that he did not feel pain. He was not lucky. She is not lucky. Don’t make that face. The depth of the stupidity of the things you will say sometimes is unimaginable.**
 
 > [How To Tell A Mother Than Her Child Is Dead](https://mobile.nytimes.com/2016/09/04/opinion/sunday/how-to-tell-a-mother-her-child-is-dead.html?referer=), Naomi Rosenberg
 
-*Pale Fire* is a Jack-in-the-box, a Faberge gem, a clockwork toy, a chess problem, an infernal machine, a trap to catch reviewers, a cat-and-mouse game, a do-it-yourself novel. It consists of a 999-line poem of four cantos in heroic couplets together with an editor's preface, notes, index, and proof-corrections. When the separate parts are assembled, according to the manufacturer's directions, and fitted together with the help of clues and cross-references, which must be hunted down as in a paper-chase, a novel on several levels is revealed, and these "levels" are not the customary "levels of meaning" of modernist criticism but planes in a fictive space, rather like those houses of memory in medieval mnemonic science, where words, facts, and numbers were stored till wanted in various rooms and attics, or like the Houses of astrology into which the heavens are divided.
+_Pale Fire_ is a Jack-in-the-box, a Faberge gem, a clockwork toy, a chess problem, an infernal machine, a trap to catch reviewers, a cat-and-mouse game, a do-it-yourself novel. It consists of a 999-line poem of four cantos in heroic couplets together with an editor's preface, notes, index, and proof-corrections. When the separate parts are assembled, according to the manufacturer's directions, and fitted together with the help of clues and cross-references, which must be hunted down as in a paper-chase, a novel on several levels is revealed, and these "levels" are not the customary "levels of meaning" of modernist criticism but planes in a fictive space, rather like those houses of memory in medieval mnemonic science, where words, facts, and numbers were stored till wanted in various rooms and attics, or like the Houses of astrology into which the heavens are divided.
 
 > [Bolt from the Blue](https://newrepublic.com/article/63440/bolt-the-blue), Mary McCarthy
 
@@ -1264,9 +1243,9 @@ We are absurdly accustomed to the miracle of a few written signs being able to c
 
 ...
 
-*Zembla*, a distant northern land.
+_Zembla_, a distant northern land.
 
-> *Pale Fire*, Vladimir Nabokov
+> _Pale Fire_, Vladimir Nabokov
 
 I asked her whether she would mind telling me about the incident, and her face took on a look of alarm. She put her hands to her throat, where two blue veins stood out. 
 
@@ -1274,44 +1253,43 @@ I asked her whether she would mind telling me about the incident, and her face t
 
 She hoped I would understand, she added, but despite what she’d said earlier she was in fact trying not to talk about it any more. She was trying her very best to sum it up. **Let’s just say that drama became something real to me that day, she said. It ceased to be theoretical, was no longer an internal structure in which she could hide and look out at the world.** In a sense, her work had jumped out of a bush and attacked her.
 
-> *Outline*, Rachel Cusk
-
+> _Outline_, Rachel Cusk
 
 Language is what eases the pain of living with other people, language is what makes the wounds come open again. I have heard that anthropologists prize those moments when a word or bit of language opens like a keyhole into another person, a whole alien world roars past in some unarranged phrase. You remember Proust so appalled when Albertine lets fall “get her pot broken.” **Or you hear a Berliner say “squat town”—and suddenly see sunset, winter, lovers cooking eggs in a grimy kitchen with the windows steaming up, river runs coldly by, little cats go clicking over the snow.** You can fill your district notebook with these jottings, exciting as the unwary use of a kinship term.
 
-> *Plainwater*, Anne Carson
+> _Plainwater_, Anne Carson
 
 The men stood and watched the spectacle, eyes bright. When the geese had all departed, they saw the reason they had left; a herd of giant deer had come to the lake to drink. The stags had huge racks of antlers. They stared across the water at the men, vigilant but undeterred. For a moment, all was still. In the end the giant deer stepped away. Reality awoke again. “All sentient beings,” said I-Chin, who had been muttering his Buddhist sutras all along. Kheim normally had no time for such claptrap, but now, as the day continued, and they hiked over the hills on their hunt, seeing great numbers of peaceful beaver, quail, rabbits, foxes, seagulls and crows, ordinary deer, a bear and two cubs, a slinky long-tailed gray hunting creature, like a fox crossed with a squirrel—on and on—simply a whole country of animals, living together under a silent blue sky—nothing disturbed, the land flourishing on its own, the people there just a small part of it—Kheim began to feel odd. **He realized that he had taken China for reality itself.** Taiwan and the Mindanaos and the other islands he had seen were like scraps of land, leftovers; China had seemed to him the world. And China meant people. Built up, cultivated, parceled off ha by ha, it was so completely a human world that Kheim had never considered that there might once have been a natural world different to it. But here was natural land, right before his eyes, full as could be with animals of every kind, and obviously very much bigger than Taiwan; bigger than China; bigger than the world he had known before. “Where on Earth are we?” he said to I-Chin. I-Chin said, “We have found the source of the peach-blossom stream.”
 
-> *The Years of Rice and Salt*, Kim Stanley Robinson
+> _The Years of Rice and Salt_, Kim Stanley Robinson
 
 The Soviets set out to find evidence that did not exist and, when they failed to find it, assumed this must be proof of how well that evidence had been hidden.
 
-> *A Spy Among Friends*, Ben Macintyre and John le Carré
+> _A Spy Among Friends_, Ben Macintyre and John le Carré
 
 What can you expect from a pyre but a pyre?
 
-> *When My Brother Was an Aztec*, Natalie Diaz
+> _When My Brother Was an Aztec_, Natalie Diaz
 
 And though your joined personal histories are supposed to save you from misunderstandings, they usually cause you to understand all too well what is meant.
 
-> *Citizen: An American Lyric*, Claudia Rankine
+> _Citizen: An American Lyric_, Claudia Rankine
 
 As a writer, I have mistaken how to use words. I write too much. I write like some people talk to fill silence. When I write, I am trying through the movement of my fingers to reach my head. I’m trying to build a word ladder up to my brain. Eventually these words help me come to an idea, and then I rewrite and rewrite and rewrite what I’d already written (when I had no idea what I was writing about) until the path of thinking, in retrospect, feels immediate. What’s on the page appears to have busted out of my head and traveled down my arms and through my fingers and my keyboard and coalesced on the screen. **But it didn’t happen like that; it never happens like that.**
 
-> *The Folded Clock: A Diary*, Heidi Julavitz
+> _The Folded Clock: A Diary_, Heidi Julavitz
 
 With great and solemn portent, my teacher announced she would tell us something that her teacher had told her, and that her teacher’s teacher had told him, and so on, back to Yeats: The thing to remember is that no one ever finds out that you don’t know what you’re doing.
 
-> *300 Arguments*, Sarah Manguso
+> _300 Arguments_, Sarah Manguso
 
 Please do not misunderstand. We had been mothers, fathers. Had been husbands of many years, men of import, who had come here, that first day, accompanied by crowds so vast and sorrowful that, surging forward to hear the oration, they had damaged fences beyond repair. Had been young wives, diverted here during childbirth, our gentle qualities stripped from us by the naked pain of that circumstance, who left behind husbands so enamored of us, so tormented by the horror of those last moments (the notion that we had gone down that awful black hole pain-sundered from ourselves) that they had never loved again. Had been bulky men, quietly content, who, in our first youth, had come to grasp our own unremarkableness and had, cheerfully (as if bemusedly accepting a heavy burden), shifted our life’s focus; if we would not be great, we would be useful; would be rich, and kind, and thereby able to effect good: smiling, hands in pockets, watching the world we had subtly improved walking past (this empty dowry filled; that education secretly funded). Had been affable, joking servants, of whom our masters had grown fond for the cheering words we managed as they launched forth on days full of import. Had been grandmothers, tolerant and frank, recipients of certain dark secrets,who, by the quality of their unjudging listening, granted tacit forgiveness, and thus let in the sun. **What I mean to say is, we had been considerable. Had been loved. Not lonely, not lost, not freakish, but wise, each in his or her own way. Our departures caused pain.** Those who had loved us sat upon their beds, heads in hand; lowered their faces to tabletops, making animal noises. We had been loved, I say, and remembering us, even many years later, people would smile, briefly gladdened at the memory.
 
-> *Lincoln in the Bardo*, George Saunders.
+> _Lincoln in the Bardo_, George Saunders.
 
 It smelled of coffee—of the striving toward consciousness.
 
-> *The Idiot*, Elf Batuman
+> _The Idiot_, Elf Batuman
 
 “Ah!” said Lee. “I’ve wanted to tell you this for a long time. I even anticipated your questions and I am well prepared. Any writing which has influenced the thinking and the lives of innumerable people is important. Now, there are many millions in their sects and churches who feel the order, ‘Do thou,’ and throw their weight into obedience. And there are millions more who feel predestination in ‘Thou shalt.’ Nothing they may do can interfere with what will be. **But ‘Thou mayest’! Why, that makes a man great, that gives him stature with the gods, for in his weakness and his filth and his murder of his brother he has still the great choice. He can choose his course and fight it through and win.”** Lee’s voice was a chant of triumph.
 
@@ -1327,21 +1305,21 @@ Adam said, “I don’t see how you could cook and raise the boys and take care 
 
 “Neither do I,” said Lee. “**But I take my two pipes in the afternoon, no more and no less, like the elders. And I feel that I am a man. And I feel that a man is a very important thing—maybe more important than a star.** This is not theology. I have no bent toward gods. But I have a new love for that glittering instrument, the human soul. It is a lovely and unique thing in the universe. It is always attacked and never destroyed— because ‘Thou mayest.’”
 
-> *East of Eden*, John Stenbeck
+> _East of Eden_, John Stenbeck
 
 We are healthy only to the extent that our ideas are humane.
 
-> *Breakfast of Champions*, Kurt Vonnegut
+> _Breakfast of Champions_, Kurt Vonnegut
 
 The willow branches swayed in the early-summer breeze. In a small dark room, somewhere inside Kino, a warm hand was reaching out to him. Eyes shut, he felt that hand on his, soft and substantial. He’d forgotten this, had been apart from it for far too long. Yes, I am hurt. Very, very deeply. He said this to himself. And he wept.
 
 All the while the rain did not let up, drenching the world in a cold chill.
 
-> *Kino*, Haruki Murakami
+> _Kino_, Haruki Murakami
 
 Do not wander. We are all apportioned a certain measure of stillness.
 
-> *Bestiary: Poems*, Donika Kelly
+> _Bestiary: Poems_, Donika Kelly
 
 And suddenly his soul was filled with joy, and for a moment he had to pause to recover his breath. “The past,” he thought, “is linked to the present by an unbroken chain of events all flowing from one to the other.” And it seemed to him that he had just seen both ends of the chain, and when he touched one end the other trembled.
 
@@ -1351,7 +1329,7 @@ You found yourself breathing deeply, and you imagined that somewhere else, somew
 
 **And for some reason you found yourself wanting to cry.**
 
-> *Forty Stories*, Anton Chekhov
+> _Forty Stories_, Anton Chekhov
 
 I want you to know, if you ever read this, there was a time when I would rather have had you by my side than any one of these words; I would rather have had you by my side than all the blue in the world.
 
@@ -1359,7 +1337,7 @@ But now you are talking as if love were a consolation. Simone Weil warned otherw
 
 All right then, let me try to rephrase. When I was alive, I aimed to be a student not of longing but of light.” 
 
-> *Bluets*, Maggie Nelson
+> _Bluets_, Maggie Nelson
 
 This is another way in which he is an admirable person. If he notices something is broken, he will try to fix it. He won’t just think about how unbearable it is that things keep breaking, that **you can never fucking outrun entropy**.
 
@@ -1367,7 +1345,7 @@ This is another way in which he is an admirable person. If he notices something 
 
 But now it seems possible that the truth about getting older is that there are fewer and fewer things to make fun of until finally there is nothing you are sure you will never be.
 
-> *Dept. of Speculation*, Jenny Offill
+> _Dept. of Speculation_, Jenny Offill
 
 The body was made soft / to keep us / from loneliness. / You said that / as if the car were filling / with river water.
 
@@ -1375,7 +1353,7 @@ The body was made soft / to keep us / from loneliness. / You said that / as if t
 
 Say surrender. Say alabaster. Switchblade. / Honeysuckle. Goldenrod. Say autumn. / Say autumn despite the green / in your eyes. Beauty despite / daylight. Say you’d kill for it. Unbreakable dawn /  mounting in your throat. / My thrashing beneath you / like a sparrow stunned / with falling.
 
-> *Night Sky with Exit Wounds*, Ocean Vuong
+> _Night Sky with Exit Wounds_, Ocean Vuong
 
 If I should ever die, God forbid, let this be my epitaph:
 
@@ -1387,7 +1365,7 @@ The wonderful writer Albert Murray, who is a jazz historian among other things, 
 
 He says something else which also sounds right to me. He says **the blues can’t drive depression clear out of a house, but they can drive it into the corners of any room where they are being played.**
 
-> *Graduation Speech*, Kurt Vonnegut
+> _Graduation Speech_, Kurt Vonnegut
 
 All visible objects, man, are but as pasteboard masks. But in each event — in the living act, the undoubted deed — there, some unknown but still reasoning thing puts forth the mouldings of its features from behind the unreasoning mask. If man will strike, strike through the mask! How can the prisoner reach outside except by thrusting through the wall? To me, the white whale is that wall, shoved near to me. **Sometimes I think there's naught beyond. But 'tis enough.** He tasks me; he heaps me; I see in him outrageous strength, with an inscrutable malice sinewing it. That inscrutable thing is chiefly what I hate; and be the white whale agent, or be the white whale principal, I will wreak that hate upon him. Talk not to me of blasphemy, man; I'd strike the sun if it insulted me. For could the sun do that, then could I do the other; since there is ever a sort of fair play herein, jealousy presiding over all creations. But not my master, man, is even that fair play. Who's over me? Truth hath no confines.
 
@@ -1395,7 +1373,7 @@ All visible objects, man, are but as pasteboard masks. But in each event — in 
 
 **The whole he can endure; at the parts he baulks.**
 
-> *Moby Dick*, Herman Melville
+> _Moby Dick_, Herman Melville
 
 The really important kind of freedom involves attention, and awareness, and discipline, and effort, and being able truly to care about other people and to sacrifice for them, over and over, in myriad petty little unsexy ways, every day.
 
@@ -1407,7 +1385,6 @@ Last night the old man who sells papers by day and flowers by night /
 sold us roses, five for a dollar. **And the world /
 sways a little on its stem at how people have to shuffle /
 to survive.**
-
 
 > [The History of Roses](http://www.sleetmagazine.com/selected/moore_v3n1.5.html#Title5), Jim Moore
 
