@@ -46,7 +46,7 @@ i have no great moral outrage against advertising; I think there are a lot of co
 
 rather, i don’t want Buttondown to mess around with advertising stuff too much because it’s a lot of effort and it muddies how i provide (and extract) value.  building out relationships with advertisers and publishers is difficult, onerous, and requires a lot of tooling and knowledge.
 
-- - -
+...
 
 buttondown is a tool; the goal is to do a very specific thing as best as possible, and it’s helpful for me to remember that whenever i browse my comically large list of (331, at the time of writing) github issues.
 
