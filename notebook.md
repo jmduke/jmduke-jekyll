@@ -49,6 +49,35 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+I’m a scribble on a scribble, completely unsuitable for one of your books; forget it, Lenù, one doesn’t tell the story of an erasure.
+
+...
+
+love and sex are unreasonable and brutal.
+
+...
+
+"Things are told or not told: you remained in the middle."
+
+...
+
+To be born in that city—I went so far as to write once, thinking not of myself but of Lila’s pessimism—is useful for only one thing: to have always known, almost instinctively, what today, with endless fine distinctions, everyone is beginning to claim: that the dream of unlimited progress is in reality a nightmare of savagery and death.
+
+...
+
+To write, you have to want something to survive you.
+
+...
+
+One can’t go on anymore, she said, electronics seems so clean and yet it dirties, dirties tremendously, and it obliges you to leave traces of yourself everywhere as if you were shitting and peeing on yourself continuously: I want to leave nothing, my favorite key is the one that deletes.
+
+...
+
+**Unlike stories, real life, when it has passed, inclines toward obscurity, not clarity.**
+
+> Elena Ferrante, *The Story of the Lost Child*
+
+
 This is something you do for a billion years or not at all.
 
 > *The Master*
