@@ -32,7 +32,7 @@ email automation is really powerful.  it is stuff like:
 - send a subscriber that looked at but did not purchase a specific product a given email
 - branching logic to send a given subscriber a given email depending on if they clicked a link in a previous email
 
-there are [really powerful tools]() that do things like this, and whenever someone asks if buttondown will support this I point them to those tools.  
+there are [really powerful tools](https://drip.co) that do things like this, and whenever someone asks if buttondown will support this I point them to those tools.  
 
 a lot of this is about laziness, frankly: automation is a pandora’s box, and as soon as i start trying to build it out i will inevitably fall into a rabbit hole of arcana.
 
