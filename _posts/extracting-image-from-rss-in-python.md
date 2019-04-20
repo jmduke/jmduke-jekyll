@@ -1,7 +1,8 @@
 ---
-Title: "Extracting an image from an RSS feed in Python"
+title: "Extracting an image from an RSS feed in Python"
 Date: 2016-02-11 00:00:00
 Tags: ["python"]
+layout: post
 ---
 
 <p>I have a bit of a social media automation thing set up for Barback, in which I tweet articles from some of my favorite cocktail and liquor blogs.  I’m pretty new to the whole social media shtick, but a lot of places recommend adding images and other media to increase engagement, so I set out looking for a way to grab images from the RSS feeds where I get articles.</p>

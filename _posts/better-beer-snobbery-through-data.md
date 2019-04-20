@@ -1,7 +1,8 @@
 ---
-Title: "Better beer snobbery through data"
+title: "Better beer snobbery through data"
 Date: 2014-05-17 00:00:00
 Tags: ["data"]
+layout: post
 ---
 
 <p>Ever since moving to Seattle, I’ve felt that I needed to step my beer game up in a very serious way: gone are the magical, innocent days of my youth where I could feel dignified drinking a PBR and waxing poetic about the differences between Natural and Keystone Light.  I’ve been very quickly introduced to the rabbit-hole of microbreweries, which has resulted in some very happy, very hoppy experiences <sup class="footnote-ref" id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> – but the dizzying array of selections in your average Seattle beer shop left me feeling as though there should be an easy way to streamline the entire process.</p>

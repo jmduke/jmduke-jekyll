@@ -1,7 +1,8 @@
 ---
-Title: "App sizes are under control, they just aren't under scrutiny"
+title: "App sizes are under control, they just aren't under scrutiny"
 Date: 2017-08-01 00:00:00
 Tags: ["development"]
+layout: post
 ---
 
 <p>I wrote at the first of last month <a href="http://jmduke.com/posts/in-praise-of-bloat/">about bloat in apps</a>, in response to a <a href="https://blog.halide.cam/one-weird-trick-to-lose-size-c0a4013de331">thoughtful piece by Ben Sandofsky</a> about how he minimized bloat in Halide.</p>

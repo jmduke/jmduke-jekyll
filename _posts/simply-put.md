@@ -1,7 +1,8 @@
 ---
-Title: "Simply put"
+title: "Simply put"
 Date: 2017-07-14 00:00:00
 Tags: ["random"]
+layout: post
 ---
 
 <p>Chris Eidhof tweeted a <a href="https://twitter.com/chriseidhof/status/885414319231512576">good thing</a>:</p>

@@ -1,7 +1,8 @@
 ---
-Title: "Your week in an Irish cottage"
+title: "Your week in an Irish cottage"
 Date: 2015-11-07 00:00:00
 Tags: ["travel"]
+layout: post
 ---
 
 <p>You will be in this remote Irish cottage for seven days.</p>

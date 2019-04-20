@@ -1,7 +1,8 @@
 ---
-Title: "The state of tech recruiting in 2013"
+title: "The state of tech recruiting in 2013"
 Date: 2013-11-15 00:00:00
 Tags: ["data"]
+layout: post
 ---
 
 <p><img alt="Tech demand for riffs and ninjutsu is nearing an all-time low.  But will it last?" src="https://d262ilb51hltx0.cloudfront.net/max/700/1*Cpqe-ktuU8vJj22T9i1gxQ.jpeg"/></p>

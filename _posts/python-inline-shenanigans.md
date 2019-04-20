@@ -1,7 +1,8 @@
 ---
-Title: "Python inline shenanigans"
+title: "Python inline shenanigans"
 Date: 2014-07-10 00:00:00
 Tags: ["python","development"]
+layout: post
 ---
 
 <p>You are likely already aware of most of Python’s inline greatness, like ternaries:</p>

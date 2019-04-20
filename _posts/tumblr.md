@@ -1,7 +1,8 @@
 ---
-Title: "Tumblr"
+title: "Tumblr"
 Date: 2015-02-10 00:00:00
 Tags: ["technology"]
+layout: post
 ---
 
 <p>I’ve been using Tumblr a lot lately – or, at least, more than I have have before. <sup class="footnote-ref" id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>  It’s been pleasant, and kind of weird, and as solipsist as it is I figure it’s worth gathering my thoughts about a random internet thing that I spend a couple hours a week using.</p>

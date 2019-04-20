@@ -1,7 +1,8 @@
 ---
-Title: "A nice little list of valid and invalid email addresses"
+title: "A nice little list of valid and invalid email addresses"
 Date: 2017-07-21 00:00:00
 Tags: ["development","email me"]
+layout: post
 ---
 
 <p>I’ve been spending a lot of time working on <a href="https://buttondown.email">Buttondown</a> lately and, as you might expect for a newsletter app, lots of this work revolves around dealing with email addresses.</p>

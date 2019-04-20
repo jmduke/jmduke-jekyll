@@ -1,7 +1,8 @@
 ---
-Title: "Migrating from moment to date-fns"
+title: "Migrating from moment to date-fns"
 Date: 2017-10-07 00:00:00
 Tags: ["development"]
+layout: post
 ---
 
 				<style>

@@ -1,7 +1,8 @@
 ---
-Title: "Having written"
+title: "Having written"
 Date: 2016-03-02 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>I remember the first time I wrote for pleasure.  It was the second grade – we had a bunch of vocab words and could choose between writing out all the definitions and using them in the short story.  I, being a massive nerd, chose the latter, and wrote some sort of ‘wanted poster’ (think something like <a href="http://image.shutterstock.com/z/stock-vector-a-old-wanted-posters-vector-wanted-poster-image-117628360.jpg">this</a>, with words) for an unruly cat.  It was dumb, but I didn’t really know it was dumb, and my teacher was super pleased and so were my parents.  I did good!</p>

@@ -1,7 +1,8 @@
 ---
-Title: "Burnin"
+title: "Burnin"
 Date: 2017-02-11 00:00:00
 Tags: ["personal","productivity"]
+layout: post
 ---
 
 <p>Of all the talk of burnout in the technology industry, sometimes I feel like the opposite is a more apt descriptor:</p>

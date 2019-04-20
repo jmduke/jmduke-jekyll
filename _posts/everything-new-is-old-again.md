@@ -1,7 +1,8 @@
 ---
-Title: "Everything new is old again"
+title: "Everything new is old again"
 Date: 2014-09-10 00:00:00
 Tags: ["personal","1"]
+layout: post
 ---
 
 <p>If you’re reading this and you’ve read something on this site before you might notice <sup class="footnote-ref" id="fnref:1"><a href="#fn:1" rel="footnote">2</a></sup> that I have – yet again – chaanged the design of my site.  (I blame Pelican for making it so painless.)  This most recent tinkering brings the tally up to around seventy bajillion in the past eight months, if the <a href="https://github.com/jmduke/terrace">theme commits</a> are any indication.</p>

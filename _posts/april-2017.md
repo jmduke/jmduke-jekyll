@@ -1,7 +1,8 @@
 ---
-Title: "Update: April 2017"
+title: "Update: April 2017"
 Date: 2017-05-17 00:00:00
 Tags: ["projects"]
+layout: post
 ---
 
 <p>Okay, so this is <em>comically</em> overdue.  This is for two reasons:</p>

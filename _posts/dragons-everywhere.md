@@ -1,7 +1,8 @@
 ---
-Title: "There are still dragons everywhere"
+title: "There are still dragons everywhere"
 Date: 2017-08-02 00:00:00
 Tags: ["development"]
+layout: post
 ---
 
 <p>I’ve been programming for the better part of a decade, and I’ve been programming in Python for the better part of that better part.</p>

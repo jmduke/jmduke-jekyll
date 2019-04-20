@@ -1,7 +1,8 @@
 ---
-Title: "Analyzing the price of Legos with Python"
+title: "Analyzing the price of Legos with Python"
 Date: 2014-04-10 00:00:00
 Tags: ["data"]
+layout: post
 ---
 
 <p><link href="/static/bower_components/nvd3/src/nv.d3.css" media="all" rel="stylesheet" type="text/css"/>

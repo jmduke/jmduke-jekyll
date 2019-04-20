@@ -1,7 +1,8 @@
 ---
-Title: "How to make $10 on the App Store"
+title: "How to make $10 on the App Store"
 Date: 2014-04-21 00:00:00
 Tags: ["marketing","development"]
+layout: post
 ---
 
 <p>One of my New Years’ resolutions was to make $10 on the App Store – and, as of last month, I’m happy to say I can check it off my list – <a href="http://getbarback.com">Barback</a> is now available to curious alcoholics everywhere!  This post, more than anything else, is a braindump of all the random thoughts and resources I had between deciding to make an app and proudly seeing it show up in the App Store.</p>

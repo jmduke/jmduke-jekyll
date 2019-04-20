@@ -1,7 +1,8 @@
 ---
-Title: "Small tools"
+title: "Small tools"
 Date: 2016-06-19 00:00:00
 Tags: ["technology"]
+layout: post
 ---
 
 <p>Technological gravitas is at an all time high. So many new startups and apps try to be revolutionary, promising dramatic lifestyle changes or mindblowing productivity gains.  This is mostly marketing — but products exist as a reflection of their marketing.</p>

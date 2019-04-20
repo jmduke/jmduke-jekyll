@@ -1,7 +1,8 @@
 ---
-Title: "Snippets from Virginia"
+title: "Snippets from Virginia"
 Date: 2015-11-30 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>I spent the week in Virginia with my family.  I’m writing this as I fly back, which has become something of an informal tradition for my trips lately.  I think it helps me clear my head.</p>

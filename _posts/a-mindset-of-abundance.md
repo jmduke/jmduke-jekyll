@@ -1,7 +1,8 @@
 ---
-Title: "A mindset of abundance"
+title: "A mindset of abundance"
 Date: 2013-10-11 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>I woke up early this morning thinking about a <a href="http://jackcheng.com/post/63340975983/the-questions-we-ask">great piece</a> by Jack Cheng.  He describes his reading of <a href="http://www.amazon.com/The-Miracle-Mindfulness-Introduction-Meditation/dp/0807012394/ref=lh_ni_t?ie=UTF8&amp;psc=1&amp;smid=ATVPDKIKX0DER">The Miracle of Mindfulness</a>:</p>

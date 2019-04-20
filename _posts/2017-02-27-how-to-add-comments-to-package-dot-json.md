@@ -1,7 +1,8 @@
 ---
-Title: "Adding comments to package.json"
+title: "Adding comments to package.json"
 Date: 2017-02-27 00:00:00
 Tags: ["javascript"]
+layout: post
 ---
 
 <p>Comments are good.</p>

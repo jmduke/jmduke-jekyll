@@ -1,7 +1,8 @@
 ---
-Title: "Namedtuple"
+title: "Namedtuple"
 Date: 2013-12-20 00:00:00
 Tags: ["python","development"]
+layout: post
 ---
 
 <p>We’ve all been there - working on a one-off script or personal project where you deal with lots of tuples: maybe points on a coordinate grid or time-series data, or anything imported from a <code>csv</code>.  You do the lazy thing and keep track of everything in a list of tuples, shrugging off that object-oriented nagging in the back of your head.</p>

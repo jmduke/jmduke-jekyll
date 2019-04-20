@@ -1,7 +1,8 @@
 ---
-Title: "Why podcasts feel good"
+title: "Why podcasts feel good"
 Date: 2015-11-15 00:00:00
 Tags: ["technology"]
+layout: post
 ---
 
 <p>So I got into podcasts.</p>

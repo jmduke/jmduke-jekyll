@@ -1,7 +1,8 @@
 ---
-Title: "Waking up early"
+title: "Waking up early"
 Date: 2017-02-15 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>Ever since I got back to Seattle after Christmas, I’ve been waking up early.</p>

@@ -1,7 +1,8 @@
 ---
-Title: "Time is money, friend"
+title: "Time is money, friend"
 Date: 2017-02-23 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p><a href="https://cushionapp.com/running-costs/">Cushion, a SaaS for freelancers</a>, has a transparent log of its running costs and expenses that recently got posted to HN and spun up a lot of <a href="https://news.ycombinator.com/item?id=13688844">positive discussion</a>.</p>

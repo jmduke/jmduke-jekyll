@@ -1,7 +1,8 @@
 ---
-Title: "What Vue needs next"
+title: "What Vue needs next"
 Date: 2017-07-01 00:00:00
 Tags: ["development","vue"]
+layout: post
 ---
 
 <p>I’ve been using Vue a lot recently on a few test projects, and most notably on <a href="http://buttondown.email">Buttondown</a>.</p>

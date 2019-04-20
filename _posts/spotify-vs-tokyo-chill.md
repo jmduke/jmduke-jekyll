@@ -1,7 +1,8 @@
 ---
-Title: "Spotify vs Tokyo Chill"
+title: "Spotify vs Tokyo Chill"
 Date: 2015-02-07 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>The way I’ve listened to music has changed a lot in the past year. While I’m as addicted as ever to Hypem, I’ve forever ditched the idea of non-cloud listening: after re-imaging my laptop back in September, I never got around to restoring my iTunes collection, and since then my laptop has been pleasantly devoid of mp3s and flacs.  It feels nice and quiet, like a clean kitchen sink.</p>

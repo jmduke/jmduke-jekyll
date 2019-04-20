@@ -1,7 +1,8 @@
 ---
-Title: "An average day"
+title: "An average day"
 Date: 2015-01-24 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>(Originally prompted by <a href="https://news.ycombinator.com/item?id=8938915">this HN thread</a>.  I didn’t get enough magical internet points to sate my positive feedback mechanisms, so I decided to elaborate a bit and post it here as well.)</p>

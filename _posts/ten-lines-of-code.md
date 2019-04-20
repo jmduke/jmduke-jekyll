@@ -1,7 +1,8 @@
 ---
-Title: "Ten lines of code"
+title: "Ten lines of code"
 Date: 2014-10-01 00:00:00
 Tags: ["development","personal"]
+layout: post
 ---
 
 <p>Working in a big company is about depth.  It’s inevitable, given the math: given X thousand programmers, your individual work as a programming generally averages out to some multiple of one thousandth of the entire surface area of the company.</p>

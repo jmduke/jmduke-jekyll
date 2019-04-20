@@ -1,7 +1,8 @@
 ---
-Title: "Singletons in Swift"
+title: "Singletons in Swift"
 Date: 2014-07-05 00:00:00
 Tags: ["development","swift"]
+layout: post
 ---
 
 <p>A quick, relatively boring post about how to handle singletons in Swift in case you’re like me and spent an inordinate amount of time deliberating between the various approaches:</p>

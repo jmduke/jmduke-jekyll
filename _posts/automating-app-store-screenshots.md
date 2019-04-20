@@ -1,7 +1,8 @@
 ---
-Title: "Automating App Store screenshots"
+title: "Automating App Store screenshots"
 Date: 2014-12-09 00:00:00
 Tags: ["ios","development"]
+layout: post
 ---
 
 <p>Things I knew would be bad about iOS development, going in:</p>

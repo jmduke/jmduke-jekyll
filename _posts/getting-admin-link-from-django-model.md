@@ -1,7 +1,8 @@
 ---
-Title: "Getting the admin link for an object in Django"
+title: "Getting the admin link for an object in Django"
 Date: 2017-03-09 00:00:00
 Tags: ["django"]
+layout: post
 ---
 
 <p>You’re probably familiar with Django’s <code>get_absolute_url</code> method (docs <a href="https://docs.djangoproject.com/en/1.10/ref/models/instances/#get-absolute-url">here</a>)

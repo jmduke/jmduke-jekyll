@@ -1,7 +1,8 @@
 ---
-Title: "In defense of keys"
+title: "In defense of keys"
 Date: 2015-08-01 00:00:00
 Tags: ["design"]
+layout: post
 ---
 
 <p>I’ve been going through <a href="http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123">The Design of Everyday Things</a> by Donald Norman over the past couple days, which has been an absolute revelation and transformed the way I’ve been looking at technology. <sup class="footnote-ref" id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>  Some great highlights, though if you define your career in any proximity to technology you owe it to yourself to read the entire book.</p>

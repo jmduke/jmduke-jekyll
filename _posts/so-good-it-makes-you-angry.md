@@ -1,7 +1,8 @@
 ---
-Title: "So good it makes you angry"
+title: "So good it makes you angry"
 Date: 2017-07-18 00:00:00
 Tags: ["design"]
+layout: post
 ---
 
 <p>Sometimes there are things that are so good it actively makes me angry, because it presents a version of the form that seems unimpeachable.</p>

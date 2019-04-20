@@ -1,7 +1,8 @@
 ---
-Title: "A regular expression to detect Markdown ordered lists"
+title: "A regular expression to detect Markdown ordered lists"
 Date: 2016-02-12 00:00:00
 Tags: ["markdown"]
+layout: post
 ---
 
 <p>I’m in the process of converting all of Barback’s recipes’ into directions that have ordered lists.</p>

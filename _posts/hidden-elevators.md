@@ -1,7 +1,8 @@
 ---
-Title: "Hidden elevators"
+title: "Hidden elevators"
 Date: 2016-11-03 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>A couple months ago, Seattle expanded their light rail to Capitol Hill.</p>

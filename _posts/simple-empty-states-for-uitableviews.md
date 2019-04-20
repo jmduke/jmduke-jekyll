@@ -1,7 +1,8 @@
 ---
-Title: "Simple empty states for UITableViews"
+title: "Simple empty states for UITableViews"
 Date: 2014-10-21 00:00:00
 Tags: ["development","ios"]
+layout: post
 ---
 
 <p>Even if you’re not familiar with the term, you’ve probably run into empty states before in apps you’ve used:</p>

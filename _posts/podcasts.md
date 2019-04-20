@@ -1,7 +1,8 @@
 ---
-Title: "The best podcasts"
+title: "The best podcasts"
 Date: 2017-08-01 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>First, some background and context, because I’m a super persnickety podcast listener:</p>

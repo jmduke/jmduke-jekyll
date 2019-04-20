@@ -1,7 +1,8 @@
 ---
-Title: "Basic linear regressions in Python"
+title: "Basic linear regressions in Python"
 Date: 2014-03-11 00:00:00
 Tags: ["python","development"]
+layout: post
 ---
 
 <p>Linear regressions are a great tool for any level of data exploration: chances are, if you’re looking to investigate the relationship between two variables, somewhere along the line you’re going to want to conjure a regression.  So how do you accomplish that in Python?</p>

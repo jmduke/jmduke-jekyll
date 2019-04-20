@@ -1,7 +1,8 @@
 ---
-Title: "Creating Hacker News Share Links Seeded with a URL and Title"
+title: "Creating Hacker News Share Links Seeded with a URL and Title"
 Date: 2017-02-11 00:00:00
 Tags: ["development"]
+layout: post
 ---
 
 <p>I was building out simple share links for a client a while back; they’re a technical client, so a lot of their content makes more sense on Twitter and Hacker News than say, Facebook.  Hacker News is a great source of traffic and engagement from a hyper-technical audience, but its sharing ecosystem isn’t super baked out: we wanted a way to pre-seed a link submission with a URL and title, but couldn’t find an obvious way.</p>

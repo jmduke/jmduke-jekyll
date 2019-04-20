@@ -1,7 +1,8 @@
 ---
-Title: "Two weeks with the Apple Watch"
+title: "Two weeks with the Apple Watch"
 Date: 2015-05-23 00:00:00
 Tags: ["technology"]
+layout: post
 ---
 
 <p>I am a white male too obsessed with technology, so I have purchased an Apple Watch and I am about to write about my experience with the Apple Watch.</p>

@@ -1,7 +1,8 @@
 ---
-Title: "Everything I got wrong with Buttondown's launch"
+title: "Everything I got wrong with Buttondown's launch"
 Date: 2017-07-20 00:00:00
 Tags: ["buttondown","projects"]
+layout: post
 ---
 
 <p>I want to do an earnest, thorough analysis of <a href="https://buttondown.email">Buttondown’s</a> launch at some point in the future: what the traffic was like, conversion rates, et cetera.  (Truth be told, I haven’t even looked at those numbers yet — there were a bunch of visitors, there were a bunch of signups, and that’s pretty much all I know because I’ve been so in the weeds with work the past week and a half.)</p>

@@ -1,7 +1,8 @@
 ---
-Title: "Everything you need to know about :nth-child"
+title: "Everything you need to know about :nth-child"
 Date: 2014-01-27 00:00:00
 Tags: ["development","web"]
+layout: post
 ---
 
 <p>Let’s talk about <code>nth-child</code>.  You can do a lot of things with it, but most people don’t know most of them.</p>

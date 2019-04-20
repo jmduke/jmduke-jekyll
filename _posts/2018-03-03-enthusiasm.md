@@ -1,5 +1,5 @@
 ---
-Title: Enthusiasm
+title: Enthusiasm
 Date: 2018-03-03
 Tags: ["development"]
 slug: enthusiasm

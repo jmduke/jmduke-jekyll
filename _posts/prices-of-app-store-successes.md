@@ -1,7 +1,8 @@
 ---
-Title: "Prices of App Store successes"
+title: "Prices of App Store successes"
 Date: 2014-01-25 00:00:00
 Tags: ["data"]
+layout: post
 ---
 
 <p>There’s a growing mythos – fueled by the massive IAP-backed successes of <em>Clash of Clans</em> and <em>Candy Crush</em> – that App Store economics (and the consumers who buy into it) dictate that the road to success is paved with upselling; put more simply, that the best way to make money on the App Store is to release your app for free and then make your moolah via in-app purchases.</p>

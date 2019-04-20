@@ -1,7 +1,8 @@
 ---
-Title: "Setting up Twitter Cards in Hugo"
+title: "Setting up Twitter Cards in Hugo"
 Date: 2017-01-17 00:00:00
 Tags: ["hugo"]
+layout: post
 ---
 
 <p>Okay, brief primer for those unaware (and, tbh, if you don’t know what Hugo is this post is probably not for you): Hugo is a super-fast static site generator (like Jekyll or Pelican) built in Go.  It’s persnickety but powerful.</p>
@@ -93,7 +94,7 @@ Tags: ["hugo"]
 
 <p>Here’s what Village Blacksmith’s meta tags <em>really</em> look like, using Hugo variables instead of actual values:</p>
 
-
+{% raw %}
 <pre><code>&lt;meta name="twitter:site" content="@justinmduke"&gt;
 &lt;meta name="twitter:creator" content="@justinmduke"&gt;
 {{ if .IsPage }}
@@ -151,9 +152,10 @@ Tags: ["hugo"]
 </tbody>
 </table>
 
-
 <p>The only super interesting thing here is that <code>{{ .Params.image }}</code> piece, since it’s not a builtin Hugo variable – but it’s super easy to set up!  All you need to do is specify the <code>image</code> in your Hugo post’s front matter, like so:</p>
 
+
+{% endraw %}
 
 <pre><code>---
 title: "Update: December 2016"

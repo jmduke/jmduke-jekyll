@@ -1,7 +1,8 @@
 ---
-Title: "Vine Street Market"
+title: "Vine Street Market"
 Date: 2015-02-27 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>I have an awful confession: I don’t really care about buying local.</p>

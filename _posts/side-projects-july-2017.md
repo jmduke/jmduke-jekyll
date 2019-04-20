@@ -1,7 +1,8 @@
 ---
-Title: "Side Projects: July 2017"
+title: "Side Projects: July 2017"
 Date: 2017-08-08 00:00:00
 Tags: ["projects","Village Blacksmith","https://coinmarketcap.com/"]
+layout: post
 ---
 
 <!--more-->

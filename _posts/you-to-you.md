@@ -1,7 +1,8 @@
 ---
-Title: "Only compare you to you"
+title: "Only compare you to you"
 Date: 2016-03-08 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>I’ve spent a lot of time feeling like an imposter:</p>

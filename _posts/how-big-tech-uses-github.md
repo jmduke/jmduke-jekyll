@@ -1,7 +1,8 @@
 ---
-Title: "How Big Tech uses GitHub"
+title: "How Big Tech uses GitHub"
 Date: 2013-11-07 00:00:00
 Tags: ["data"]
+layout: post
 ---
 
 <p>PayPal recently released <a href="https://github.com/paypal/kraken-js">Kraken, an open source Node.js framework</a>, on GitHub, which got me thinking about the various ways different large technology companies (particularly those which we don’t really associate with OSS) use GitHub and engage in Open Source.</p>

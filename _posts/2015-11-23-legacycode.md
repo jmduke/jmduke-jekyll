@@ -1,7 +1,8 @@
 ---
-Title: "Your legacy code matters"
+title: "Your legacy code matters"
 Date: 2015-11-23 00:00:00
 Tags: ["development"]
+layout: post
 ---
 
 <p>Craig Hockenberry tweeted about some stuff a couple nights ago:</p>

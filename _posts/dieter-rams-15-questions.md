@@ -1,7 +1,8 @@
 ---
-Title: "Dieter Rams’ 15 questions"
+title: "Dieter Rams’ 15 questions"
 Date: 2015-01-11 00:00:00
 Tags: ["design"]
+layout: post
 ---
 
 <p><img alt="" src="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/141/crops/350_2x.jpg"/></p>

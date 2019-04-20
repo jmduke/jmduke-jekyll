@@ -1,7 +1,8 @@
 ---
-Title: "Apps with embedded frameworks are broken"
+title: "Apps with embedded frameworks are broken"
 Date: 2014-10-03 00:00:00
 Tags: ["development","gripe","ios"]
+layout: post
 ---
 
 <p>Me, 6.30pm, last night:</p>

@@ -1,7 +1,8 @@
 ---
-Title: "Checking for Debug mode in Swift"
+title: "Checking for Debug mode in Swift"
 Date: 2017-02-06 00:00:00
 Tags: ["swift"]
+layout: post
 ---
 
 <p>There are often a bunch of times where you want to write Swift code that only executes when you’re in Debug mode.  Some

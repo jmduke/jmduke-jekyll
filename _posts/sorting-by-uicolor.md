@@ -1,7 +1,8 @@
 ---
-Title: "Sorting by UIColor"
+title: "Sorting by UIColor"
 Date: 2015-11-15 00:00:00
 Tags: ["swift"]
+layout: post
 ---
 
 <p>New in Barback 3.1 is the ability to sort ingredients just as you can sort recipes.  One of the possible methods to sort by is the color of the ingredient, which is admittedly more of an aesthetic option than a functional one:</p>

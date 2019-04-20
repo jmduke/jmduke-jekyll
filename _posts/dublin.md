@@ -1,7 +1,8 @@
 ---
-Title: "Your first day in Dublin"
+title: "Your first day in Dublin"
 Date: 2015-10-29 00:00:00
 Tags: ["travel"]
+layout: post
 ---
 
 <p>You step into a busy Dublin intersection, yawning and bleary-eyed.</p>

@@ -1,7 +1,8 @@
 ---
-Title: "Using webassets with Pelican"
+title: "Using webassets with Pelican"
 Date: 2014-10-09 00:00:00
 Tags: ["development","pelican"]
+layout: post
 ---
 
 <p>If you are like me, you are an idiot.</p>

@@ -1,7 +1,8 @@
 ---
-Title: "All that glitters: who's giving out Reddit Gold?"
+title: "All that glitters: who's giving out Reddit Gold?"
 Date: 2014-05-08 00:00:00
 Tags: ["data"]
+layout: post
 ---
 
 <p>I’m a sucker for Reddit, warts and all – communities like /r/python and /r/nba (and, yes, /r/aww) keep me coming back even though I’ve sworn off the default subreddits for quite some time.  One of their revenue streams comes from “Reddit Gold”, which you can buy for yourself or a fellow redditor for $4 – basically a kudos to reward a particularly insightful or hilarious comment, like below:</p>

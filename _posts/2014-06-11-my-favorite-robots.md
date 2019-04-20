@@ -1,7 +1,8 @@
 ---
-Title: "My favorite robots"
+title: "My favorite robots"
 Date: 2014-06-11 00:00:00
 Tags: ["technology"]
+layout: post
 ---
 
 <p>If you ask someone what their favorite robot is, there’s a good chance that their answer is one of the following three:</p>

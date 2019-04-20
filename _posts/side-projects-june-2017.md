@@ -1,7 +1,8 @@
 ---
-Title: "Side Projects: June 2017"
+title: "Side Projects: June 2017"
 Date: 2017-07-04 00:00:00
 Tags: ["projects","Village Blacksmith"]
+layout: post
 ---
 
 <p></p>

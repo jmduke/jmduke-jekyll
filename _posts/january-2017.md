@@ -1,7 +1,8 @@
 ---
-Title: "Update: January 2017"
+title: "Update: January 2017"
 Date: 2017-02-12 00:00:00
 Tags: ["projects"]
+layout: post
 ---
 
 <p>{{&lt; table january2017revenues &gt;}}</p>

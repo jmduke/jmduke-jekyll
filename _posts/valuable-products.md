@@ -1,7 +1,8 @@
 ---
-Title: "Subscription pricing is for valuable products"
+title: "Subscription pricing is for valuable products"
 Date: 2016-04-13 00:00:00
 Tags: ["marketing"]
+layout: post
 ---
 
 <p>Jakob Egger, who created a number of great apps that I use daily (like <a href="http://postgresapp.com">Postgres.app</a> and <a href="https://eggerapps.at/postico/">Postico</a> wrote a post entitled <a href="https://jakobegger.at/2016/04/06/subscription-pricing-is-for-stagnating-products/">Subscription Pricing is for Stagnating Products</a>:</p>

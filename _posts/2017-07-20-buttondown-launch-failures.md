@@ -1,5 +1,5 @@
 ---
-Title: "Everything I got wrong with Buttondown's launch"
+title: "Everything I got wrong with Buttondown's launch"
 Date: 2017-07-20 00:00:00
 Tags: ["buttondown","projects"]
 layout: post

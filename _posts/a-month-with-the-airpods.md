@@ -1,7 +1,8 @@
 ---
-Title: "A month with the AirPods"
+title: "A month with the AirPods"
 Date: 2017-09-30 00:00:00
 Tags: ["technology"]
+layout: post
 ---
 
 <p>I bought them, you see, despite my better instincts.</p>

@@ -1,7 +1,8 @@
 ---
-Title: "My walk home"
+title: "My walk home"
 Date: 2016-11-11 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>I used to work at Amazon.  When I worked at Amazon, I got to walk to work.  Walking to work is <em>amazing</em>.  I think it has spoiled me to the extent that I cannot imagine ever having a job which required commuting via car or public transit.</p>

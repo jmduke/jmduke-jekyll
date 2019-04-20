@@ -1,7 +1,8 @@
 ---
-Title: "How to send emails through Python and GMail"
+title: "How to send emails through Python and GMail"
 Date: 2013-12-29 00:00:00
 Tags: ["python","development"]
+layout: post
 ---
 
 <p>(I apologize in advance for the robotic tone of this blog post.) This is a quick blog post about sending emails through Python’s builtin SMTP library, using GMail as your email server. It’s not complicated, I promise.</p>

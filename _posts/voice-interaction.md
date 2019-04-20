@@ -1,7 +1,8 @@
 ---
-Title: "Voice interaction and muscle memory"
+title: "Voice interaction and muscle memory"
 Date: 2016-04-07 00:00:00
 Tags: ["design"]
+layout: post
 ---
 
 <p>Little by little, I’ve been letting voice interaction (Echo and Siri) into my life.</p>

@@ -1,7 +1,8 @@
 ---
-Title: "Swift is like Frasier"
+title: "Swift is like Frasier"
 Date: 2014-06-30 00:00:00
 Tags: ["swift","personal"]
+layout: post
 ---
 
 <p>Swift is like <em>Frasier</em>.</p>

@@ -1,7 +1,8 @@
 ---
-Title: "Detecting new webcams without restarting on Mac"
+title: "Detecting new webcams without restarting on Mac"
 Date: 2017-02-18 00:00:00
 Tags: ["mac"]
+layout: post
 ---
 
 <p>Okay, this is a small and trivial post for a small and trivial issue.</p>

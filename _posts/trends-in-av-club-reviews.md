@@ -1,7 +1,8 @@
 ---
-Title: "Trends in AV Club reviews"
+title: "Trends in AV Club reviews"
 Date: 2014-03-03 00:00:00
 Tags: ["data"]
+layout: post
 ---
 
 <p>I love the <a href="http://www.avclub.com">AV Club</a>, probably to an unhealthy extent.  It’s one of my favorite little corners of the internet – one where people swap <em>Twin Peaks</em> references and write thousand-word diatribes on <a href="http://www.avclub.com/article/everyones-an-architect-11-jobs-common-only-in-roma-201073">the odd prevalance of architects in romantic comedies</a>.</p>

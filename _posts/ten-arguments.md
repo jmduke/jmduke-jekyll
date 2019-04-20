@@ -1,7 +1,8 @@
 ---
-Title: "Ten arguments"
+title: "Ten arguments"
 Date: 2017-07-06 00:00:00
 Tags: ["reading"]
+layout: post
 ---
 
 <p>I just finished <a href="https://www.amazon.com/300-Arguments-Essays-Sarah-Manguso/dp/1555977642/ref=as_li_ss_tl?ie=UTF8&amp;linkCode=sl1&amp;tag=thavcl07-20&amp;linkId=c231e5a4a72c448fe0cbc1277462e7d4">300 Arguments</a>, a series of aphorisms, vignettes, and truisms.</p>

@@ -1,7 +1,8 @@
 ---
-Title: "We're just ordinary and forever"
+title: "We're just ordinary and forever"
 Date: 2017-07-08 00:00:00
 Tags: ["random"]
+layout: post
 ---
 
 <p>Everyone is rightfully super pumped about <a href="http://sbnation.com/a/17776-football/">17776</a>, the newest project by <a href="http://twitter.com/jon_bois">Jon Bois</a>.</p>

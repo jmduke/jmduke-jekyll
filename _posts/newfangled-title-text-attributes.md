@@ -1,7 +1,8 @@
 ---
-Title: "Newfangled Title Text Attributes"
+title: "Newfangled Title Text Attributes"
 Date: 2014-07-21 00:00:00
 Tags: ["ios","swift","development"]
+layout: post
 ---
 
 <p>In the process of upgrading Xcode 6 to the newest beta I ran headfirst into one of my past sins: glorious and reckless ignorance of the <code>deprecated</code> tag in pursuit of the cheap ecstasy StackOverflow answers.</p>

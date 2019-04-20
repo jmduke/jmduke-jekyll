@@ -1,7 +1,8 @@
 ---
-Title: "Not The Keynote You're Looking For"
+title: "Not The Keynote You're Looking For"
 Date: 2017-09-11 00:00:00
 Tags: ["technology"]
+layout: post
 ---
 
 <p>I hate to be in the position of defending Apple evangelists, but there have been a lot of weird takes about the Apple leaks the past few days.  Here’s one:</p>
