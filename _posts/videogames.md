@@ -1,7 +1,8 @@
 ---
-Title: "What I miss about video games"
+title: "What I miss about video games"
 Date: 2015-09-20 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>Like most of you, I used to be into video games as a kid.</p>

@@ -1,7 +1,8 @@
 ---
-Title: "PSA: you should be using console.table()"
+title: "PSA: you should be using console.table()"
 Date: 2013-03-30 00:00:00
 Tags: ["development","web"]
+layout: post
 ---
 
 <p>As wonderful as the console pane is in Firefox and Chrome, its display functionalities tend to leave much to be desired.</p>

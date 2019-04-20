@@ -1,7 +1,8 @@
 ---
-Title: "Forcing functions in everything"
+title: "Forcing functions in everything"
 Date: 2017-04-29 00:00:00
 Tags: ["development"]
+layout: post
 ---
 
 <p>Kelly Sutton <a href="http://kellysutton.com/2017/04/18/design-pressure.html">wrote a great article about how TDD impacts software design</a>:</p>

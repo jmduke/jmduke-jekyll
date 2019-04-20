@@ -1,7 +1,8 @@
 ---
-Title: "UX Slang"
+title: "UX Slang"
 Date: 2016-02-17 00:00:00
 Tags: ["design"]
+layout: post
 ---
 
 <p>The Human Interface Guidelines are the <em>Elements of Style</em> — largely prescriptive, focusing on the rules of usage and form and composition that feel less like <em>style</em> and more like <em>structure</em>.</p>

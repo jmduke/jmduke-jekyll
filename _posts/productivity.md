@@ -1,7 +1,8 @@
 ---
-Title: "How I stay productive"
+title: "How I stay productive"
 Date: 2017-01-02 00:00:00
 Tags: ["productivity"]
+layout: post
 ---
 
 <p><img alt="" src="http://i.imgur.com/edv9lIy.png"/></p>

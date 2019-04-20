@@ -1,7 +1,8 @@
 ---
-Title: "Two weeks with the Amazon Echo"
+title: "Two weeks with the Amazon Echo"
 Date: 2015-07-11 00:00:00
 Tags: ["technology"]
+layout: post
 ---
 
 <p><em>(Obvious disclaimer goes here: I work at Amazon but not on the Echo team or any team that remotely touches this product.  I’m writing this as a nerd consumer, not as an employee of Amazon.)</em></p>

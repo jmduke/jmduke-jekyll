@@ -1,7 +1,8 @@
 ---
-Title: "Turning 25"
+title: "Turning 25"
 Date: 2017-09-03 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>This week, I turned 25.</p>

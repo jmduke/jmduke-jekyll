@@ -1,7 +1,8 @@
 ---
-Title: "Deploying Hugo to S3 with s3cmd"
+title: "Deploying Hugo to S3 with s3cmd"
 Date: 2017-02-17 00:00:00
 Tags: ["hugo"]
+layout: post
 ---
 
 <p>This site (as well as my <a href="http://jmduke.com">personal one</a>) is built on <a href="http://gohugo.io">Hugo</a> and hosted on <a href="https://aws.amazon.com/s3/">S3</a>.  I love this combination

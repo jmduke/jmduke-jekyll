@@ -1,7 +1,8 @@
 ---
-Title: "No, movies haven't gotten (much) longer"
+title: "No, movies haven't gotten (much) longer"
 Date: 2014-02-13 00:00:00
 Tags: ["data"]
+layout: post
 ---
 
 <p>Have movies gotten longer?</p>

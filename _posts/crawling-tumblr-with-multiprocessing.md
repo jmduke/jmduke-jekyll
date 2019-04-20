@@ -1,7 +1,8 @@
 ---
-Title: "Crawling Tumblr with multiprocessing"
+title: "Crawling Tumblr with multiprocessing"
 Date: 2014-12-20 00:00:00
 Tags: ["python"]
+layout: post
 ---
 
 <p>Let’s say you want to crawl Tumblr.</p>

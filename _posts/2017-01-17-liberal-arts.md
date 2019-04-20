@@ -1,7 +1,8 @@
 ---
-Title: "How liberal arts matters"
+title: "How liberal arts matters"
 Date: 2017-01-17 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>The idea that a liberal arts education is better for a software developer than a traditional engineering education is increasingly in vogue.</p>

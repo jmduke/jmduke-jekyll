@@ -1,7 +1,8 @@
 ---
-Title: "Shooting the Messenger"
+title: "Shooting the Messenger"
 Date: 2017-04-06 00:00:00
 Tags: ["design"]
+layout: post
 ---
 
 <p>When Facebook launched Messenger for iOS in 2011, I was a little skeptical – this was before the brief and mighty wave of <a href="https://hbr.org/2014/04/facebooks-unbundling-strategy-makes-perfect-sense">unbundling</a> – but grew to be cautiously optimistic, because Messenger was a good and simple app that removed most of the cruft from Facebook and focused on what I cared (and care) about most: talking with people.</p>

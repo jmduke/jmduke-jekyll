@@ -1,7 +1,8 @@
 ---
-Title: "Notes for a younger programmer"
+title: "Notes for a younger programmer"
 Date: 2016-04-17 00:00:00
 Tags: ["personal","career","development"]
+layout: post
 ---
 
 <p>(A living document.)</p>

@@ -1,7 +1,8 @@
 ---
-Title: "In praise of bloat"
+title: "In praise of bloat"
 Date: 2017-07-01 00:00:00
 Tags: ["development"]
+layout: post
 ---
 
 <p>Ben Sandofsky, the creator of <a href="http://halide.cam/">Halide</a> (and erstwhile lead of Twitter’s iOS/Mac apps) wrote a worthwhile piece about <a href="https://blog.halide.cam/one-weird-trick-to-lose-size-c0a4013de331">getting his new app’s size to a mere 11MB</a>.  <sup class="footnote-ref" id="fnref:2"><a href="#fn:2" rel="footnote">1</a></sup> There are a bunch of solid, universal pieces of advice (don’t create your own layout engine; compress and catalog assets), some trickier ones (avoid library bloat; eschew analytics), and a questionable kicker:</p>

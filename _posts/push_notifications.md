@@ -1,7 +1,8 @@
 ---
-Title: "You don't need push notifications"
+title: "You don't need push notifications"
 Date: 2015-11-12 00:00:00
 Tags: ["design"]
+layout: post
 ---
 
 <p>Facebook came out with <a href="https://notify.co/">an app</a> that’s basically “push notifications as a service”.  A meager wrapper around an RSS feed.  Its tagline is:</p>

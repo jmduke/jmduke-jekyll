@@ -1,7 +1,8 @@
 ---
-Title: "Hugo's internal templates, demystified"
+title: "Hugo's internal templates, demystified"
 Date: 2017-07-02 00:00:00
 Tags: ["development","hugo"]
+layout: post
 ---
 
 <p>In my effort to throw a new coat of paint on this site, I was diving into Hugo’s internal templates to see how to improve their builtin pagination.  It was invoked by calling <code>_internal/pagination.html</code>, so I assumed the template was something along the lines of <code>pagination.html</code>.</p>

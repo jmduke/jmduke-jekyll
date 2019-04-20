@@ -1,7 +1,8 @@
 ---
-Title: "Graphing the sentences of your favorite authors"
+title: "Graphing the sentences of your favorite authors"
 Date: 2014-01-19 00:00:00
 Tags: ["data"]
+layout: post
 ---
 
 <p>I’ve been reading through <em>On the Road</em> this week (which is great, by the way, even if you’re worried about being seen as the kind of person who reads <em>On The Road</em>), and was impressed by Kerouac’s characteristic stream-of-consciousness writing style.  Curious about how it compared mechanically to other beloved authors of mine, I decided to fire up Python and do some basic analysis.  Below is the numbers of syllables per sentence in the first hundred sentences of writing samples from a bunch of likable dudes:</p>

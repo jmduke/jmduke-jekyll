@@ -1,7 +1,8 @@
 ---
-Title: "Packing as premature optimization"
+title: "Packing as premature optimization"
 Date: 2015-12-23 00:00:00
 Tags: ["personal","development"]
+layout: post
 ---
 
 <p>You are getting ready for a trip to Florida.  It’s your first vacation in forever, and you couldn’t be more excited; no work, no stand-ups, just a week of sun and relaxation.</p>

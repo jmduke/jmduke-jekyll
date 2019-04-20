@@ -1,7 +1,8 @@
 ---
-Title: "Removing trailing whitespace from Swift files on your Mac"
+title: "Removing trailing whitespace from Swift files on your Mac"
 Date: 2017-01-22 00:00:00
 Tags: ["mac"]
+layout: post
 ---
 
 <p>As I was getting <a href="http://getbarback.com">Barback 4</a> ready to ship, I started doing some polish on the actual code since it’d be a little bit before I picked up the codebase again and I wanted to make sure it was relatively hospitable when I came back.  (Nobody likes coming back from vacation to a messy house.)</p>

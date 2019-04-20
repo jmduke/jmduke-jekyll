@@ -1,7 +1,8 @@
 ---
-Title: "Be a better employee, not a better programmer"
+title: "Be a better employee, not a better programmer"
 Date: 2017-04-17 00:00:00
 Tags: ["productivity","career"]
+layout: post
 ---
 
 <p>André Staltz wrote an <a href="https://staltz.com/the-single-tip-that-made-me-a-better-programmer.html?utm_campaign=shipitworks&amp;utm_medium=email&amp;utm_source=shipit18">article making the rounds</a>, entitled <em>The single tip that made me a better programmer</em>:</p>

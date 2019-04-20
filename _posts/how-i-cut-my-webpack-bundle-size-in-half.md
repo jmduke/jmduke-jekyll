@@ -1,7 +1,8 @@
 ---
-Title: "How I cut my Webpack bundle size in half"
+title: "How I cut my Webpack bundle size in half"
 Date: 2017-09-16 00:00:00
 Tags: ["development","webpack"]
+layout: post
 ---
 
 <p><link href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/github.min.css" rel="stylesheet"/>

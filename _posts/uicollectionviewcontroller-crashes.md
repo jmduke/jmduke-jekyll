@@ -1,7 +1,8 @@
 ---
-Title: "Avoiding UICollectionViewController crashes when reloading data"
+title: "Avoiding UICollectionViewController crashes when reloading data"
 Date: 2017-01-10 00:00:00
 Tags: ["swift"]
+layout: post
 ---
 
 <p>This honestly is less of a post and more of a public service announcement, because as I was migrating a bunch of UITableViews in <a href="http://getbarback.com">Barback</a> to UICollectionViews I ran into an apparently obscure problem:</p>

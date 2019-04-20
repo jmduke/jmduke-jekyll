@@ -1,7 +1,8 @@
 ---
-Title: "Django vs. Flask"
+title: "Django vs. Flask"
 Date: 2017-07-05 00:00:00
 Tags: ["development","python"]
+layout: post
 ---
 
 <p>A <a href="https://www.git-pull.com/code_explorer/django-vs-flask.html">great, thorough writeup on Django vs. Flask</a> has been floating around the past few days.  It’s a great technical breakdown, and I agree with the conclusion:</p>

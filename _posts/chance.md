@@ -1,7 +1,8 @@
 ---
-Title: "Listening to Chance"
+title: "Listening to Chance"
 Date: 2016-05-14 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>The summer before I went to Seattle, I probably had my peak mix CD of all time (an artifact which, sadly, has been lost, victim to a shitty Dell laptop’s hard drive).  The third song on the CD was <em>Cocoa Butter Kisses</em>, and I listened to it on every drive.  M was in the passenger seat for so many of those rides, and while we never had the alacrity or the memory for Twista’s verse ,we’d shout the hook at each other whenever we could.</p>

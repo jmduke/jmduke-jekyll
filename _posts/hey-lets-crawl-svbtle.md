@@ -1,7 +1,8 @@
 ---
-Title: "Hey, let's crawl Svbtle!"
+title: "Hey, let's crawl Svbtle!"
 Date: 2013-06-06 00:00:00
 Tags: ["data"]
+layout: post
 ---
 
 <p>Inspired by <a href="http://tomtunguz.com/crawling-the-most-

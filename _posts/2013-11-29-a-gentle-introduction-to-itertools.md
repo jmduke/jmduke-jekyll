@@ -1,5 +1,5 @@
 ---
-Title: "A gentle introduction to itertools"
+title: "A gentle introduction to itertools"
 Date: 2013-11-29 00:00:00
 Tags: ["python"]
 slug: itertools

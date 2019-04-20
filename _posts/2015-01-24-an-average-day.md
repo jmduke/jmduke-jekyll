@@ -1,5 +1,5 @@
 ---
-Title: "An average day"
+title: "An average day"
 Date: 2015-01-24 00:00:00
 Tags: ["personal"]
 layout: post

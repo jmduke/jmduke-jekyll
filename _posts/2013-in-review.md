@@ -1,7 +1,8 @@
 ---
-Title: "2013 in review"
+title: "2013 in review"
 Date: 2013-12-31 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p><strong>Shit, what a year.</strong></p>

@@ -1,7 +1,8 @@
 ---
-Title: "The John Byrd EP"
+title: "The John Byrd EP"
 Date: 2013-01-10 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>My favorite record is <em>The John Byrd EP</em>, by Death Cab For Cutie.</p>

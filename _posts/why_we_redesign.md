@@ -1,7 +1,8 @@
 ---
-Title: "Why we redesign our blogs"
+title: "Why we redesign our blogs"
 Date: 2016-09-14 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>If you are reading this — and have read things on this site in the past — you may notice that this site has a new design.  This is not particularly uncommon: I tend to mix it up every year or so.</p>

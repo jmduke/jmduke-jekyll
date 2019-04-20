@@ -1,7 +1,8 @@
 ---
-Title: "Markdown in Swift"
+title: "Markdown in Swift"
 Date: 2014-11-30 00:00:00
 Tags: ["development","swift"]
+layout: post
 ---
 
 <p>A thought process I had last week:</p>

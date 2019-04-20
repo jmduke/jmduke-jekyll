@@ -1,7 +1,8 @@
 ---
-Title: "Empty states in Isotope"
+title: "Empty states in Isotope"
 Date: 2015-12-12 00:00:00
 Tags: ["isotope"]
+layout: post
 ---
 
 <p>The main recipe viewer runs on <a href="http://isotope.metafizzy.co/">Isotope</a>, using its helpful <code>filter</code> property to provide instant animated search:</p>

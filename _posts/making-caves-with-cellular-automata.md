@@ -1,7 +1,8 @@
 ---
-Title: "Making caves with cellular automata"
+title: "Making caves with cellular automata"
 Date: 2014-03-17 00:00:00
 Tags: ["development"]
+layout: post
 ---
 
 <p>So, I play a lot of <a href="http://crawl.develz.org">Dungeon Crawl</a>, and one thing I’m consistently impressed with is the quality of the randomly generated levels: far more advanced than the standard “lots of rectangles connected by elbow corridors” made popular by <em>Rogue</em> and CS201 classes everywhere, they tend to incorporate a wide variety of techniques and approaches to preserve a sense of novelty. <sup class="footnote-ref" id="fnref:2"><a href="#fn:2" rel="footnote">1</a></sup></p>

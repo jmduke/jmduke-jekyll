@@ -1,7 +1,8 @@
 ---
-Title: "Long before wisdom"
+title: "Long before wisdom"
 Date: 2017-07-06 00:00:00
 Tags: ["random"]
+layout: post
 ---
 
 <p>I am loathe to applaud venture capitalists for saying sensible things, but <a href="https://twitter.com/mcuban/status/882028336989523968">Mark Cuban said some very sensible things</a> on Twitter (and was quoted in this <a href="https://qz.com/994810/the-most-forward-thinking-future-proof-college-in-america-teaches-every-student-the-exact-same-things/">relevant Quartz story</a>):</p>

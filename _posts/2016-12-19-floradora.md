@@ -1,7 +1,8 @@
 ---
-Title: "Floradora"
+title: "Floradora"
 Date: 2016-12-19 00:00:00
 Tags: ["personal","projects","development"]
+layout: post
 ---
 
 <p>Last week I released <a href="http://floradora.cloud">Floradora</a>!  It’s a tiny little Mac menu bar app.  This gif explains it easier than words:</p>

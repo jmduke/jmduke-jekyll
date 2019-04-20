@@ -1,7 +1,8 @@
 ---
-Title: "What lies under the bandaid"
+title: "What lies under the bandaid"
 Date: 2015-08-12 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>I’m really bad at confronting things.</p>

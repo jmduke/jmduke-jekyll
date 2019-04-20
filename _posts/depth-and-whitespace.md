@@ -1,7 +1,8 @@
 ---
-Title: "Depth and whitespace"
+title: "Depth and whitespace"
 Date: 2013-10-20 00:00:00
 Tags: ["development"]
+layout: post
 ---
 
 <p>I got to write the following unit test this week at work:</p>

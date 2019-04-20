@@ -1,7 +1,8 @@
 ---
-Title: "Rome"
+title: "Rome"
 Date: 2016-05-02 00:00:00
 Tags: ["travel"]
+layout: post
 ---
 
 <p>There are ten things you will know about Rome:</p>

@@ -1,7 +1,8 @@
 ---
-Title: "Visualizing NFL point differentials"
+title: "Visualizing NFL point differentials"
 Date: 2014-01-13 00:00:00
 Tags: ["data"]
+layout: post
 ---
 
 <p>Yesterday, the New England Patriots posted a  43-22 victory over the Indianapolis Colts, which is the first time that <a href="http://www.pro-football-reference.com/boxscores/game_scores.cgi">final score has ever occurred in NFL history</a>.</p>

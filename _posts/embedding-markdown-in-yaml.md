@@ -1,7 +1,8 @@
 ---
-Title: "Embedding Markdown in YAML"
+title: "Embedding Markdown in YAML"
 Date: 2015-11-09 00:00:00
 Tags: ["yaml"]
+layout: post
 ---
 
 <p>Barback’s data is all stored internally as <code>YAML</code>.  This isn’t for any particularly interesting technical reason: I just like writing it more than JSON.  It means when I want to create a new recipe, I can write something like:</p>

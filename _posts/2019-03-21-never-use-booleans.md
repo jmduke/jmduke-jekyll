@@ -8,6 +8,8 @@ One of my first interactions with a Principal [^1] at Amazon was a design review
 
 Anyway, I was walking back to our floor with the Principal after the meeting, and we engaged in the genre of small talk that I find particularly valuable, which arises when I begin discussions with "so, that was my first one of those, what else should I know?"  [^2]
 
+---
+
 The Principal chuckled, as if about to share a secret, and said, "honestly, these API reviews are pretty easy.  Everyone runs into the same mistakes after a while, and you can give fairly canned responses that are boring but actionable and correct."
 
 I asked him for an example, and he obliged:

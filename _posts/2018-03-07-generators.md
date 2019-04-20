@@ -1,7 +1,8 @@
 ---
-Title: "Generators are dope"
+title: "Generators are dope"
 Date: 2018-03-07
 Tags: ["python"]
+layout: post
 ---
 
 
@@ -23,19 +24,16 @@ Let's explore how they enable great abstractions through a topic near and dear t
 
 First, let's grab that table:
 
-{{< highlight python >}}
-
+```
 from airtable import airtable
 table = airtable.Airtable('API_KEY', 'OTHER_KEY')
-
-{{< / highlight >}}
+```
 
 Okay, so we want to fetch all results in a table.  Problem is, you know, pagination:
 this table has hundreds of records but we can only get like fifty per call.
 Here's how we abstract that out!
 
-{{< highlight python >}}
-
+```
 def fetch_all_records(table_name):
     # Grab the first page.  The page has two fields we care about:
     # 1. records — aka the good stuff
@@ -56,8 +54,7 @@ def fetch_all_records(table_name):
     # Otherwise, yield all the records and then we're done!
     for record in response['records']:
         yield record
-
-{{< / highlight >}}
+```
 
 Now, to access all the records, we don't have to care about:
 
@@ -68,48 +65,40 @@ Now, to access all the records, we don't have to care about:
 All of that is abstracted away by the generator!
 So we can just iterate through all of them like this:
 
-{{< highlight python >}}
-
+```
 for record in fetch_all_records('Sandwiches'):
     print(record['fields']['Name'])
-
-{{< / highlight >}}
+```
 
 And generators are lazy, too, so if we just want the first twenty items
 we can do so without worrying about premature pagination:
 
-{{< highlight python >}}
-
+```
 for i, record in enumerate(fetch_all_records('Sandwiches')):
     if i > 20:
         break
     print(record['fields']['Name'])
-
-{{< / highlight >}}
+```
 
 Generators aren't great for everything.
 
 For instance, operating on an entire corpus of an iterable is rough:
 this code will force you to refetch the entire list over and over again.
 
-{{< highlight python >}}
-
+```
 best_rating = max([record['fields']['Rating'] for record in fetch_all_records('Sandwiches')])
 worst_rating = min([record['fields']['Rating'] for record in fetch_all_records('Sandwiches')])
-
-{{< / highlight >}}
+```
 
 In such a case, you're better off casting the generator to a list.
 
 (But you might be *best* off with a different approach entirely.)
 
-{{< highlight python >}}
-
+```
 all_records = list(fetch_all_records('Sandwiches'))
 best_rating = max([record['fields']['Rating'] for record in all_records])
 worst_rating = min([record['fields']['Rating'] for record in all_records])
-
-{{< / highlight >}}
+```
 
 Ultimately, generators are the best kind of Python feature:
 
@@ -117,14 +106,13 @@ Ultimately, generators are the best kind of Python feature:
 2. They make it easier to write code.
 3. They're just *neat*.
 
-{{< highlight python >}}
-
+```
 for record in fetch_all_records('Sandwiches'):
     # Gotta find a great sandwich in Seattle!
     if record['fields']['Rating'] > 4 and record['field']['City'] == 'Seattle':
         print(record['fields']['Name'])
         break
-{{< / highlight >}}
+```
 
 Time for lunch!	
 

@@ -1,7 +1,8 @@
 ---
-Title: "Digital nesting"
+title: "Digital nesting"
 Date: 2017-01-24 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>I’ve been working remotely for around six months now.</p>

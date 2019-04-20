@@ -1,7 +1,8 @@
 ---
-Title: "A long week"
+title: "A long week"
 Date: 2016-10-26 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>Last week was a long week.</p>

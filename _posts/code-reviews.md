@@ -1,7 +1,8 @@
 ---
-Title: "Code Reviews"
+title: "Code Reviews"
 Date: 2017-07-13 00:00:00
 Tags: ["development"]
+layout: post
 ---
 
 <p>I’ve seen three different iterations of “code review culture”, and all of them have been positive with minor tweaks and changes.  What follows is a general list of observations and advice:</p>

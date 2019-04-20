@@ -1,7 +1,8 @@
 ---
-Title: "Globally accessible Vue properties"
+title: "Globally accessible Vue properties"
 Date: 2017-07-05 00:00:00
 Tags: ["vue"]
+layout: post
 ---
 
 <p>So, <a href="http://buttondown.email">Buttondown</a> uses <a href="https://github.com/ierror/django-js-reverse">django-js-reverse</a>, which is a <em>fantastic</em> way to handle naming URLs and consolidate routing logic.  It means that if I’ve got a bunch of views registered in Django like this…</p>

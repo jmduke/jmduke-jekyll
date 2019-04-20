@@ -1,7 +1,8 @@
 ---
-Title: "Response Times"
+title: "Response Times"
 Date: 2017-07-15 00:00:00
 Tags: ["design"]
+layout: post
 ---
 
 <p>Jakob Nielsen wrote in 1993 about the <a href="https://www.nngroup.com/articles/response-times-3-important-limits/">three important demarcations in response time</a>.  This is a terrific article that I come back to every year or so and see how my interpretation of it has evolved, like reading an old book to see how your perspective of the narrative changes over time.</p>

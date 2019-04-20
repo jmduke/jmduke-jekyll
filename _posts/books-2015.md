@@ -1,7 +1,8 @@
 ---
-Title: "Books of 2015"
+title: "Books of 2015"
 Date: 2015-12-28 00:00:00
 Tags: ["data"]
+layout: post
 ---
 
 <p>I read around thirty books this year.  I was shooting for one a week, but fell a little short: still, this is the most I’ve read since I was in middle school, so I feel pretty good about it.</p>

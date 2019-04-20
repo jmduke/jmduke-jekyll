@@ -1,7 +1,8 @@
 ---
-Title: "The CocoaPods I Used in Barback 4"
+title: "The CocoaPods I Used in Barback 4"
 Date: 2017-02-08 00:00:00
 Tags: ["swift"]
+layout: post
 ---
 
 <p>I <em>love</em> dependency files.  Whenever I go through a new repository for the first time, I always take a look at it’s dependencies first.  They’re revealing about the code and the author in so many interesting ways:</p>

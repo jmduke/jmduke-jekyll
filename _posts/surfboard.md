@@ -1,7 +1,8 @@
 ---
-Title: "Use a surfboard"
+title: "Use a surfboard"
 Date: 2017-01-09 00:00:00
 Tags: ["personal","technology"]
+layout: post
 ---
 
 <p><img alt="" src="http://i.imgur.com/eRwDIRP.png"/></p>

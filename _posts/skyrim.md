@@ -1,7 +1,8 @@
 ---
-Title: "Skyrim"
+title: "Skyrim"
 Date: 2017-02-01 00:00:00
 Tags: ["personal","media"]
+layout: post
 ---
 
 <p>So I finally beat Skyrim.</p>

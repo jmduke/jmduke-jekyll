@@ -1,7 +1,8 @@
 ---
-Title: "Three stages of consumption"
+title: "Three stages of consumption"
 Date: 2014-08-06 00:00:00
 Tags: ["technology"]
+layout: post
 ---
 
 <p><em>In which I navel-gaze <sup class="footnote-ref" id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> a little about how content works.</em></p>

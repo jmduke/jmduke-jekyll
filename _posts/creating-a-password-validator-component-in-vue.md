@@ -1,7 +1,8 @@
 ---
-Title: "Creating a password validator component in Vue"
+title: "Creating a password validator component in Vue"
 Date: 2017-08-13 00:00:00
 Tags: ["vue"]
+layout: post
 ---
 
 <p>Sometimes you procrastinate one feature by writing another.  Even if that other feature is pretty small and inconsequential. <sup class="footnote-ref" id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>

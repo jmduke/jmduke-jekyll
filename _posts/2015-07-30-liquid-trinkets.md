@@ -1,7 +1,8 @@
 ---
-Title: "Liquid trinkets"
+title: "Liquid trinkets"
 Date: 2015-07-30 00:00:00
 Tags: ["development"]
+layout: post
 ---
 
 <p>I’ve been messing around with a lot of Shopify development the past couple months.  It’s a pretty neat platform that I want to talk about more in depth at some point in the future, but the number one cause of frustration <sup class="footnote-ref" id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> is dealing with <a href="http://liquidmarkup.org/">Liquid</a>, their in-house template rendering engine which seems to pride itself on straddling the line between “holy shit this is awesome” and “holy shit why can’t you do this basic task.”</p>
@@ -58,12 +59,12 @@ Tags: ["development"]
 <h3 id="getting-more-than-ten-search-results">Getting more than ten search results</h3>
 
 
-<p>Just wrap everything in a <code>{% paginate %}</code> block:</p>
+<p>Just wrap everything in a <code>\{\% paginate \%\}</code> block:</p>
 
 
-<pre><code>{% paginate search.results by 9999 %}
+<pre><code>\{\% paginate search.results by 9999 \%\}
   // All of your actual search.liquid code.
-{% endpaginate %}
+\{\% endpaginate \%\}
 </code></pre>
 
 

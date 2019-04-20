@@ -1,7 +1,8 @@
 ---
-Title: "Creating a reusable tabbed card component in Vue"
+title: "Creating a reusable tabbed card component in Vue"
 Date: 2017-08-06 00:00:00
 Tags: []
+layout: post
 ---
 
 <p>I built <a href="https://buttondown.email">a thing for Buttondown</a> that lets you embed an iFrame to handle subscriptions really nicely:</p>

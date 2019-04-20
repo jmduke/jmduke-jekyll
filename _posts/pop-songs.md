@@ -1,7 +1,8 @@
 ---
-Title: "Pop songs"
+title: "Pop songs"
 Date: 2014-02-08 00:00:00
 Tags: ["data"]
+layout: post
 ---
 
 <p>I listen to a lot of music, some of it good.</p>

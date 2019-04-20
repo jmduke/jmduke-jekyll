@@ -1,7 +1,8 @@
 ---
-Title: "I made an app I’ll never use"
+title: "I made an app I’ll never use"
 Date: 2016-10-17 00:00:00
 Tags: ["personal","projects"]
+layout: post
 ---
 
 <p>I made a very small app that I find personally abhorrent to ever use.</p>

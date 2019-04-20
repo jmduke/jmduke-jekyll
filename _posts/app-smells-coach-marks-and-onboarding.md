@@ -1,7 +1,8 @@
 ---
-Title: "Coach marks and onboarding"
+title: "Coach marks and onboarding"
 Date: 2014-11-02 00:00:00
 Tags: ["design"]
+layout: post
 ---
 
 <p>According to my iTunes history, I’ve downloaded 312 apps.  44 of those have been purchases, with an average purchase price of just under two dollars.  27 of them <sup class="footnote-ref" id="fnref:2"><a href="#fn:2" rel="footnote">1</a></sup> are cocktail/recipe apps to help with my initial (and post-initial) design of <a href="http://www.getbarback.com">Barback</a>.</p>

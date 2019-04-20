@@ -1,7 +1,8 @@
 ---
-Title: "Graphing NBA conference rankings over time."
+title: "Graphing NBA conference rankings over time."
 Date: 2014-03-23 00:00:00
 Tags: ["data"]
+layout: post
 ---
 
 <p>Bored by the relative lack of Eastern conference drama at this point in the season, I thought it would be a fun experiment to graph the relative rankings of NBA teams over the past few seasons.</p>

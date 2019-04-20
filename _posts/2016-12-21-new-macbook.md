@@ -1,7 +1,8 @@
 ---
-Title: "A month with the new MacBook"
+title: "A month with the new MacBook"
 Date: 2016-12-21 00:00:00
 Tags: ["technology"]
+layout: post
 ---
 
 <p>I have been using the new MacBook Pro (fifteen inches, in what I guess is space gray?) for about a month.  It’s my primary laptop now.</p>

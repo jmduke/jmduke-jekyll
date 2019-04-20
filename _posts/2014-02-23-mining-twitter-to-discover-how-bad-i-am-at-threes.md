@@ -1,7 +1,8 @@
 ---
-Title: "Mining Twitter to discover how bad I am at Threes"
+title: "Mining Twitter to discover how bad I am at Threes"
 Date: 2014-02-23 00:00:00
 Tags: ["data"]
+layout: post
 ---
 
 <p><a href="http://asherv.com/threes/">Threes</a> is a wonderful game and also horribly addictive.  If you haven’t yet had the misfortune of getting ensnared by its cartoonish eldritch tentacles, I recommend it wholeheartedly.  While the game continues on its inexorable march to rob the productivity of nerdy types everywhere, you can tell that its already inspired a particular brand of developer fervor:</p>

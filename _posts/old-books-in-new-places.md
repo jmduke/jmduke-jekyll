@@ -1,7 +1,8 @@
 ---
-Title: "Old books in new places"
+title: "Old books in new places"
 Date: 2014-02-09 00:00:00
 Tags: ["personal"]
+layout: post
 ---
 
 <p>Something that’s always struck me as a difficult reconciliation is my love for old books – you know, the ones with bent corners, the ones bound in leather <sup class="footnote-ref" id="fnref:4"><a href="#fn:4" rel="footnote">1</a></sup>, the scarred and the ancient – and my personal and professional commitment to their eventual obsoletion.</p>

@@ -1,7 +1,8 @@
 ---
-Title: "Analysing Pitchfork using Pandas"
+title: "Analysing Pitchfork using Pandas"
 Date: 2013-12-24 00:00:00
 Tags: ["data"]
+layout: post
 ---
 
 <p>I spend a likely-unhealthy amount of time on <a href="http://www.pitchfork.com">Pitchfork</a>, its where I get my music news and I can usually rely on their reviews to decide whether or not an album is worth a listen.  Still, they often come under fire as being — amongst other things — self-serious and overly critical: allegations have been made that their albums are graded on a too-harsh scale, with their reviews being motivated by commercial reasons as much as musical ones.</p>

@@ -1,7 +1,8 @@
 ---
-Title: "Getting the current absolute URL as a Django variable"
+title: "Getting the current absolute URL as a Django variable"
 Date: 2016-02-08 00:00:00
 Tags: ["django"]
+layout: post
 ---
 
 <p>A quick snippet that may save you some time, as it did this evening:</p>

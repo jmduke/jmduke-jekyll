@@ -1,7 +1,8 @@
 ---
-Title: "iPad Things"
+title: "iPad Things"
 Date: 2017-07-02 00:00:00
 Tags: ["technology","apple"]
+layout: post
 ---
 
 <p>As is tradition, it’s the time of year where folks have hot takes on iPads and the ~ future of computing ~.  Here’s <a href="https://twitter.com/joshuatopolsky/status/879512768206053376">one from Joshua Topolsky</a>:</p>

@@ -1,5 +1,5 @@
 ---
-Title: "Dieter Rams’ 15 questions"
+title: "Dieter Rams’ 15 questions"
 Date: 2015-01-11 00:00:00
 Tags: ["design"]
 layout: post

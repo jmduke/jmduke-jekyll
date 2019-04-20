@@ -1,5 +1,5 @@
 ---
-Title: "A bigger pan"
+title: "A bigger pan"
 Date: 2017-03-09 00:00:00
 Tags: ["development"]
 layout: post

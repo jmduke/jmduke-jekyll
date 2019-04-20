@@ -1,5 +1,5 @@
 ---
-Title: "Developer experience is the ball game"
+title: "Developer experience is the ball game"
 Date: 2017-04-15 00:00:00
 Tags: ["development"]
 layout: post

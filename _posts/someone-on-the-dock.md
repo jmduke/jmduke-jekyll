@@ -1,7 +1,8 @@
 ---
-Title: "Someone who's still on the dock"
+title: "Someone who's still on the dock"
 Date: 2017-07-08 00:00:00
 Tags: ["random"]
+layout: post
 ---
 
 <p>Michael Crichton, as quoted in <a href="https://www.theparisreview.org/interviews/1760/robert-gottlieb-the-art-of-editing-no-1-robert-gottlieb">The Art of Editing</a>, ostensibly talks about editing but really talks about a great many other things:</p>

@@ -1,7 +1,8 @@
 ---
-Title: "Coalesce"
+title: "Coalesce"
 Date: 2015-01-28 00:00:00
 Tags: ["projects"]
+layout: post
 ---
 
 <p>I made a theme for Tumblr!  It is called <a href="coalescetheme.tumblr.com">Coalesce</a> and I’m fairly proud of it.  It’s running live on my <a href="jmduke.tumblr.com">own thing</a> and open source on <a href="https://github.com/jmduke/Coalesce">GitHub</a>.</p>

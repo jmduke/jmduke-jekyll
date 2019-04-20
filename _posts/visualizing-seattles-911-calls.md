@@ -1,7 +1,8 @@
 ---
-Title: "Visualizing Seattle's 911 calls"
+title: "Visualizing Seattle's 911 calls"
 Date: 2013-12-28 00:00:00
 Tags: ["data"]
+layout: post
 ---
 
 <p>&lt;!DOCTYPE html&gt;
