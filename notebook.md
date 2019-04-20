@@ -49,6 +49,10 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+The discovery of the things that matter is three quarters of the battle.
+
+> *Seeing like a State*
+
 I’m a scribble on a scribble, completely unsuitable for one of your books; forget it, Lenù, one doesn’t tell the story of an erasure.
 
 ...
