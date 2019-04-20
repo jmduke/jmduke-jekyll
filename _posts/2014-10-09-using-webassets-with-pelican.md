@@ -65,11 +65,12 @@ PLUGINS = ['assets']
 
 <p>Now throw them wherever you define your static assets in your theme, hopefully in a <code>base.html</code> or <code>header.html</code>:</p>
 
-
+{% raw %}
 <pre><code>{% assets filters="scss,cssmin", output="css/main.css", "css/main.scss", "css/sortable-tables.css", "css/footnotes.css" %}
     &lt;link rel="stylesheet" href="/{{ ASSET_URL }}"&gt;
 {% endassets %}
 </code></pre>
+{% endraw %}
 
 
 <p>A couple things here to note:</p>
