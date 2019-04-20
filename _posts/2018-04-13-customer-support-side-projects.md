@@ -3,7 +3,6 @@ title: Customer Support for Side Projects
 Date: 2018-04-13
 Tags: ["personal"]
 slug: customer-support-side-projects
-layout: post
 ---
 
 <style>
