@@ -49,7 +49,40 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+```
+Tomorrow when the farm boys find this
+freak of nature, they will wrap his body
+in newspaper and carry him to the museum.
+
+But tonight he is alive and in the north
+field with his mother. It is a perfect
+summer evening: the moon rising over
+the orchard, the wind in the grass. And
+as he stares into the sky, there are
+twice as many stars as usual.
+```
+
+> *Two-Headed Calf*, Laura Gilpin
+
 The discovery of the things that matter is three quarters of the battle.
+
+...
+
+A brief example comparing war memorials may be helpful. The Vietnam Memorial in Washington, D.C., is surely one of the most successful war memorials ever built, if one is to judge by the quantity and intensity of the visits it receives. Designed by Maya Lin, the memorial consists simply of a gently undulating site marked (not dominated) by a long, low, black marble wall listing the names of the fallen. The names are listed neither alphabetically nor by military unit but chronologically, in the order in which they fell—thus grouping those who had fallen on the same day in the same engagement.[895] No larger claim is made about the war either in prose or in sculpture—which is hardly surprising, in view of the stark political cleavages the war still inspires.[896] What is most remarkable, however, is the way that the Vietnam Memorial works for those who visit it, particularly those who come to pay their respects to the memory of a comrade or loved one. They touch the names incised on the wall, make rubbings, and leave artifacts and mementos of their own—everything from poems and a woman’s highheeled shoe to a glass of champagne and a poker hand of a full house, aces high. So many of these tributes have been left, in fact, that a museum has been created to house them. The scene of many people together at the wall, touching the names of particular loved ones who fell in the same war, has moved observers regardless of their position on the war itself. I believe that a great part of the memorial’s symbolic power is its capacity to honor the dead with an openness that allows visitors to impress upon it their own meanings, their own histories, their own memories. The memorial virtually requires participation in order to complete its meaning. Although one would not compare it to a Rorschach test, the memorial nevertheless does achieve its meaning as much by what citizens bring to it as by what it imposes.
+
+Compare the Vietnam Memorial to a very different American war memorial: the sculpture depicting the raising of the American flag at the summit of Mount Suribachi on Iwo Jima in World War II. Moving in its own right, referring as it does to the final moment of a victory gained at an enormous cost in lives, the Iwo Jima statue is manifestly heroic. Its patriotism (symbolized by the flag), its reference to conquest, its larger-than-life scale, and its implicit theme of unity in victory leave little room for wondering what is expected from the viewer. Given the virtual unanimity with which that war was, and is, viewed in the United States, it is hardly surprising that the Iwo Jima memorial should be monumental and explicit about its message. Although not exactly “canned,” the Iwo Jima site is more symbolically self-sufficient, as are most war memorials. Visitors can stand in awe, gazing on an image that through photographs and sculpture has become a virtual icon for the War in the Pacific, **but they receive its message rather than completing it.[897]**
+
+...
+
+One might, on the basis of experience, derive a few rules of thumb that, if observed, could make development planning less prone to disaster. While my main goal is hardly a point-by-point reform of development practice, such rules would surely include something along the following lines.
+
+Take small steps. In an experimental approach to social change, presume that we cannot know the consequences of our interventions in advance. Given this postulate of ignorance, prefer wherever possible to take a small step, stand back, observe, and then plan the next small move. As the biologist J. B. S. Haldane metaphorically described the advantages of smallness: “You can drop a mouse down a thousand-yard mineshaft; and on arriving at the bottom, it gets a slight shock and walks away. A rat is killed, a man broken, a horse splashes.”
+
+Favor reversibility. Prefer interventions that can easily be undone if they turn out to be mistakes. Irreversible interventions have irreversible consequences.Interventions into ecosystems require particular care in this respect, given our great ignorance about how they interact. Aldo Leopold captured the spirit of caution required: “The first rule of intelligent tinkering is to keep all the parts.”
+
+Plan on surprises. Choose plans that allow the largest accommodation to the unforeseen. In agricultural schemes this may mean choosing and preparing land so that it can grow any of several crops. In planning housing, it would mean “designing in” flexibility for accommodating changes in family structures or living styles. In a factory it may mean selecting a location, layout, or piece of machinery that allows for new processes, materials, or product lines down the road.
+
+Plan on human inventiveness. Always plan under the assumption that those who become involved in the project later will have or will develop the experience and insight to improve on the design.
 
 > *Seeing like a State*
 
