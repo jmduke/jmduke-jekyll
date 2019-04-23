@@ -200,6 +200,17 @@
     > li {
         display: flex;
         justify-content: space-between;
+        position: relative;
+
+        .star {
+            display: inline;
+            flex-basis: 20px;
+            position: absolute;
+            left: -24px;
+            font-size: 20px;
+            line-height: 20px;
+            color: #fd5d2078;
+        }
     }
 }
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tips on technical interviews
+tags: star
 ---
 I've done seven mock interviews in the past two weeks.  (I've also done a whole bunch of other mock interviews prior to that, and around two hundred actual interviews.)
 
