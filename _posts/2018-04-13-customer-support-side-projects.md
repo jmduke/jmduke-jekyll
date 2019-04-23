@@ -1,8 +1,9 @@
 ---
 title: Customer Support for Side Projects
 Date: 2018-04-13
-Tags: ["personal"]
+tags: star
 slug: customer-support-side-projects
+layout: post
 ---
 
 <style>
@@ -18,8 +19,7 @@ h3 > span {
     margin-left: -40px;
     border-radius: 50%;
     font-size: 16px;
-}
-</style>
+}</style>
 
 I have been running a bunch of reasonably successful [^1] side projects for a couple years now.  Here is a (unfortunately, very much truncated) list of support emails I have received:
 

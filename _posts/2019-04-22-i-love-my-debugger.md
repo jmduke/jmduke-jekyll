@@ -21,7 +21,7 @@ i understand this, and find myself sympathizing with this a lot.  printing is ea
 
 and truth be told, there was a very long time where i didn't know how to debug well.  like, i understood it in the abstract and academic sense — having used `pdb` and `valgrind` in college — but it was never a thing that i considered a tool with which i could more capably solve problems.  it was a thing a different type of engineer did.
 
-but there has been no single greater improvement to my debugging productivity than using a debugger enough to turn it into muscle memory.  [pycharm's debugger](https://www.jetbrains.com/help/pycharm/debugging-your-first-python-application.html) is powerful and ergonomic: it allows for arbitrary 
+but there has been no single greater improvement to my debugging productivity than using a debugger enough to turn it into muscle memory — and i am not even "good" at debuggers. i have merely achieved a level of baseline competence easily available to anyone with an hour or two of spare time.
 
 there are cases where I find myself leaning to use print statements over a formal debugger.  "it's gotta be just this variable", i tell myself. "just a sanity check."
 

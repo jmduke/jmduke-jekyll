@@ -1,7 +1,7 @@
 ---
 title: "Notes for a younger programmer"
 Date: 2016-04-17 00:00:00
-Tags: ["personal","career","development"]
+tags: star
 layout: post
 ---
 
