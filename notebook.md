@@ -49,6 +49,18 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+"You've had a strange journey."
+
+"Stranger than most."
+
+"I would like to hear about it."
+
+"It's a long story."
+
+"If only we were trapped in a castle, in the middle of winter, with nowhere to go."
+
+> *Game of Thrones*
+
 Writing about illness is a form of travel writing.
 
 > *Sloane Crowley*, Look Alive Out There
