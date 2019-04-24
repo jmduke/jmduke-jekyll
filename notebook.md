@@ -49,6 +49,10 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+Writing about illness is a form of travel writing.
+
+> *Sloane Crowley*, Look Alive Out There
+
 ```
 Tomorrow when the farm boys find this
 freak of nature, they will wrap his body
