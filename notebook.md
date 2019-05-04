@@ -49,6 +49,12 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+When things were going well, I was reading newspapers articles and they were calling me Romelu Lukaku, the Belgian striker.
+
+When things weren’t going well, they were calling me Romelu Lukaku, the Belgian striker of Congolese descent.
+
+> [I've Got Some Things To Say](https://www.theplayerstribune.com/en-us/articles/romelu-lukaku-ive-got-some-things-to-say)
+
 "You've had a strange journey."
 
 "Stranger than most."
