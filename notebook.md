@@ -49,6 +49,10 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+Everybody knows about Capone and Escobar but the truth is if you're a famous gangster then you're not doing it right
+
+> /u/kawhi_tho
+
 When things were going well, I was reading newspapers articles and they were calling me Romelu Lukaku, the Belgian striker.
 
 When things weren’t going well, they were calling me Romelu Lukaku, the Belgian striker of Congolese descent.
