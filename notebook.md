@@ -49,6 +49,10 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+For eight euros — about the price of a sandwich — tourists can see some building foundations of the ancient Gallo-Roman town of Lutetia in the "archaelogical crypt" of the Cathedral of Notre Dame in Paris.  Visitors' puzzled glances reveal the unspoken question "why are we looking at these bits and pieces?" **The answer is: because that's all that's left.**
+
+> *Cities: The First 6,000 Years*, Monica L. Smith
+
 Everybody knows about Capone and Escobar but the truth is if you're a famous gangster then you're not doing it right
 
 > /u/kawhi_tho
