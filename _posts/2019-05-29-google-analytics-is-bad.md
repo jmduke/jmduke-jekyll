@@ -16,6 +16,14 @@ google analytics is a terrifying, complex, and powerful product.  it is used by 
 
 it is also so bad to use.
 
+a common (and valid!) genre of counterarguments to "thing is bad" is "thing is complex; thing has to internal complexities from which you are insulated, and external use cases of which you are ignorant; thing is many things, and to call it bad is reductive".  those things can all be true, but they do not mask the unmistakable fact that sometimes, thing is bad.
+
+and i want to immediately dissolve any implication of people: the idea that "only bad people make bad products", and that bad products come from bad people, and thus "thing is bad" means "people who made thing is bad", is bonkers and obviously incorrect.  talented — superstar, even! — engineers, designers, and managers can create bad products.  i certainly have.  a lot of the work I did on kindle was on bad products; most of my iOS apps during my big iOS phase were bad; lots of buttondown is bad.  i hope that i have many bad products left to give.
+
+(bad institutions make bad products, maybe.  but i think more often, bad products just emerge that way, as if from the ether.  provenance is less interesting.)
+
+---
+
 the best computer experiences make you feel like "you gained a superpower", as cliche as that is to say.  i remember the first time i used GPS in chrome and audibly exhaled; i remember the first time i used [livegrep](https://github.com/livegrep/livegrep) or tineye; i remember the first time that, yes, i used zoom.
 
 google analytics makes me feel _so dumb_ whenever i use it.  i am pretty good at navigating web apps and it flusters me.  i am _writing this blog post rather than continuing to work on it_ [^1] because it overwhelms me: with menus, with options, with charts and modals.
