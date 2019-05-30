@@ -16,7 +16,7 @@ google analytics is a terrifying, complex, and powerful product.  it is used by 
 
 it is also so bad to use.
 
-a common (and valid!) genre of counterarguments to "thing is bad" is "thing is complex; thing has to internal complexities from which you are insulated, and external use cases of which you are ignorant; thing is many things, and to call it bad is reductive".  those things can all be true, but they do not mask the unmistakable fact that sometimes, thing is bad.
+a common (and valid!) genre of counterarguments to "thing is bad" is "thing is complex; thing has to grapple with internal complexities from which you are insulated, and external use cases of which you are ignorant; thing is many things, and to call it bad is reductive".  those things can all be true, but they do not mask the unmistakable fact that sometimes, thing is bad.
 
 and i want to immediately dissolve any implication of people: the idea that "only bad people make bad products", and that bad products come from bad people, and thus "thing is bad" means "people who made thing is bad", is bonkers and obviously incorrect.  talented — superstar, even! — engineers, designers, and managers can create bad products.  i certainly have.  a lot of the work I did on kindle was on bad products; most of my iOS apps during my big iOS phase were bad; lots of buttondown is bad.  i hope that i have many bad products left to give.
 
