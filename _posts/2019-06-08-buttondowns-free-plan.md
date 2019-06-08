@@ -30,7 +30,8 @@ That 20% is actually super reasonable, given that around two-fifths of Buttondow
 So the free tier is:
 
 - not directly costing me money 
-- working as a good upsell opportunity.  
+- working as a good upsell opportunity.
+- *objectively good and fun*
 
 Sounds great, right?  
 
