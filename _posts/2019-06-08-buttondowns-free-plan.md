@@ -44,7 +44,9 @@ It is increasingly tempting to snap my fingers and remove the base plan with a $
 
 Buttondown isn't a "business".  It's making a non-trivial amount of money, sure, but the fact that it is a side project with no aspirations for it to be more than a side project means that I can be more incentivized by what feels 'correct' than what is materially most profitable, and the correctness of niceties (plus the fact that without the free plan I have no idea how I'd get an influx of new customers, given my total lack of marketing) outweighs the popular wisdom, at least for now.
 
-And so. I've kinda arrived at this concept of a free tier being a bad choice that I don't regret.  Or rather, it's a bad choice from a _business_ perspective, if not from a personal one.
+And so. I've kinda arrived at this concept of a free tier being a bad business choice that I don't regret.  Or rather, it's a bad choice from a _business_ perspective, if not from a personal one.
+
+So rest assured, Buttondown will forever have a free plan — it's a tool for weird projects first and foremost, and I want it to be in the hands of as many people as possible.
 
 (I still need to think about changing that $29/month price point, though.  That'll come later.)
 
