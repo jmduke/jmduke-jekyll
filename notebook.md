@@ -49,6 +49,16 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+Trying to learn from customer conversations is like excavating a delicate archaeological site. The truth is down there somewhere, but it’s fragile. While each blow with your shovel gets you closer to the truth, you’re liable to smash it into a million little pieces if you use too blunt an instrument.
+
+...
+
+It boils down to this: you aren’t allowed to tell them what their problem is, and in return, they aren’t allowed to tell you what to build. They own the problem, you own the solution.
+
+*The world’s most deadly fluff is: “I would definitely buy that.”*
+
+> *The Mom Test*, Rob Fitzpatrick
+
 Being struck by lightning is increasingly unlikely.
 
 > *The Signal and the Noise*, Nate Silver
