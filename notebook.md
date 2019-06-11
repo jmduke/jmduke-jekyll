@@ -49,6 +49,14 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+Why must things have meanings? This is what America means to me: I imagine a prairie.
+
+...
+
+It was — tragic.  ...What will we do til spring?
+
+> *Take Me Out*, Richard Greenberg
+
 Trying to learn from customer conversations is like excavating a delicate archaeological site. The truth is down there somewhere, but it’s fragile. While each blow with your shovel gets you closer to the truth, you’re liable to smash it into a million little pieces if you use too blunt an instrument.
 
 ...
