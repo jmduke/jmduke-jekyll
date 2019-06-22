@@ -1534,4 +1534,10 @@ I unapologetically think a bias in favor of boring technology is a good thing, b
 
 > [Choose Boring Technology](http://mcfunley.com/choose-boring-technology), Dan McKinley
 
+lack of hard rules lets errors accumulate, without any ‘global’ understanding of the drift into disaster (or at least inefficiency)
+
+> [On Having Enough Socks](https://www.gwern.net/Socks?fbclid=IwAR1hiG4X8GmUktVRrFSM8H5oe8Bh543-ES2s2NBjAdIArVX044NI6S2Ft_U), gwern
+
+...
+
 #### Collected by [Justin](http://twitter.com/justinmduke).  I hope you have a nice day and curl up with a good book.
