@@ -49,6 +49,10 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+Spend twice as long looking at it as drawing it.
+
+...
+
 I only want a patron saint to protect me. /
 I only want someone else to bleed.
 
