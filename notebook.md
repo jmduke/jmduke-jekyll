@@ -49,6 +49,11 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+I only want a patron saint to protect me. /
+I only want someone else to bleed.
+
+> *Paper Cuts*, Natalie Scenters-Zapico
+
 Why must things have meanings? This is what America means to me: I imagine a prairie.
 
 ...
