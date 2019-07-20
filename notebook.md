@@ -49,6 +49,22 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+It is in dialogue with pain that many beautiful things acquire their value. Acquaintance with grief turns out to be one of the more unusual prerequisites of architectural appreciation. We might, quite aside from all other requirements, need to be a little sad before buildings can properly touch us.
+
+...
+
+What we call a home is merely any place that succeeds in making more consistenly available to us the important truths which the wider world ignores, or which our distracted and irresolute selves have trouble holding onto.  \*\*As we write, so we build: to keep a record of what matters to us.\*\*
+
+...
+
+Our jobs make relentless calls on a narrow band of our faculties, reducing our chances of achieving rounded personalities and leaving us to suspect (often in the gathering darkness of a Sunday evening) that much of who we are, or could be, has gone unexplored.
+
+...
+
+
+
+\> \*The Architecture of Happiness\*, Alain de Botton
+
 Spend twice as long looking at it as drawing it.
 
 ...
@@ -56,7 +72,7 @@ Spend twice as long looking at it as drawing it.
 I only want a patron saint to protect me. /
 I only want someone else to bleed.
 
-> *Paper Cuts*, Natalie Scenters-Zapico
+> _Paper Cuts_, Natalie Scenters-Zapico
 
 Why must things have meanings? This is what America means to me: I imagine a prairie.
 
@@ -64,7 +80,7 @@ Why must things have meanings? This is what America means to me: I imagine a pra
 
 It was — tragic.  ...What will we do til spring?
 
-> *Take Me Out*, Richard Greenberg
+> _Take Me Out_, Richard Greenberg
 
 Trying to learn from customer conversations is like excavating a delicate archaeological site. The truth is down there somewhere, but it’s fragile. While each blow with your shovel gets you closer to the truth, you’re liable to smash it into a million little pieces if you use too blunt an instrument.
 
@@ -72,17 +88,17 @@ Trying to learn from customer conversations is like excavating a delicate archae
 
 It boils down to this: you aren’t allowed to tell them what their problem is, and in return, they aren’t allowed to tell you what to build. They own the problem, you own the solution.
 
-*The world’s most deadly fluff is: “I would definitely buy that.”*
+_The world’s most deadly fluff is: “I would definitely buy that.”_
 
-> *The Mom Test*, Rob Fitzpatrick
+> _The Mom Test_, Rob Fitzpatrick
 
 Being struck by lightning is increasingly unlikely.
 
-> *The Signal and the Noise*, Nate Silver
+> _The Signal and the Noise_, Nate Silver
 
 For eight euros — about the price of a sandwich — tourists can see some building foundations of the ancient Gallo-Roman town of Lutetia in the "archaelogical crypt" of the Cathedral of Notre Dame in Paris.  Visitors' puzzled glances reveal the unspoken question "why are we looking at these bits and pieces?" **The answer is: because that's all that's left.**
 
-> *Cities: The First 6,000 Years*, Monica L. Smith
+> _Cities: The First 6,000 Years_, Monica L. Smith
 
 Everybody knows about Capone and Escobar but the truth is if you're a famous gangster then you're not doing it right
 
@@ -104,11 +120,11 @@ When things weren’t going well, they were calling me Romelu Lukaku, the Belgia
 
 "If only we were trapped in a castle, in the middle of winter, with nowhere to go."
 
-> *Game of Thrones*
+> _Game of Thrones_
 
 Writing about illness is a form of travel writing.
 
-> *Sloane Crowley*, Look Alive Out There
+> _Sloane Crowley_, Look Alive Out There
 
 ```
 Tomorrow when the farm boys find this
@@ -123,15 +139,15 @@ as he stares into the sky, there are
 twice as many stars as usual.
 ```
 
-> *Two-Headed Calf*, Laura Gilpin
+> _Two-Headed Calf_, Laura Gilpin
 
 The discovery of the things that matter is three quarters of the battle.
 
 ...
 
-A brief example comparing war memorials may be helpful. The Vietnam Memorial in Washington, D.C., is surely one of the most successful war memorials ever built, if one is to judge by the quantity and intensity of the visits it receives. Designed by Maya Lin, the memorial consists simply of a gently undulating site marked (not dominated) by a long, low, black marble wall listing the names of the fallen. The names are listed neither alphabetically nor by military unit but chronologically, in the order in which they fell—thus grouping those who had fallen on the same day in the same engagement.[895] No larger claim is made about the war either in prose or in sculpture—which is hardly surprising, in view of the stark political cleavages the war still inspires.[896] What is most remarkable, however, is the way that the Vietnam Memorial works for those who visit it, particularly those who come to pay their respects to the memory of a comrade or loved one. They touch the names incised on the wall, make rubbings, and leave artifacts and mementos of their own—everything from poems and a woman’s highheeled shoe to a glass of champagne and a poker hand of a full house, aces high. So many of these tributes have been left, in fact, that a museum has been created to house them. The scene of many people together at the wall, touching the names of particular loved ones who fell in the same war, has moved observers regardless of their position on the war itself. I believe that a great part of the memorial’s symbolic power is its capacity to honor the dead with an openness that allows visitors to impress upon it their own meanings, their own histories, their own memories. The memorial virtually requires participation in order to complete its meaning. Although one would not compare it to a Rorschach test, the memorial nevertheless does achieve its meaning as much by what citizens bring to it as by what it imposes.
+A brief example comparing war memorials may be helpful. The Vietnam Memorial in Washington, D.C., is surely one of the most successful war memorials ever built, if one is to judge by the quantity and intensity of the visits it receives. Designed by Maya Lin, the memorial consists simply of a gently undulating site marked (not dominated) by a long, low, black marble wall listing the names of the fallen. The names are listed neither alphabetically nor by military unit but chronologically, in the order in which they fell—thus grouping those who had fallen on the same day in the same engagement.\[895] No larger claim is made about the war either in prose or in sculpture—which is hardly surprising, in view of the stark political cleavages the war still inspires.\[896] What is most remarkable, however, is the way that the Vietnam Memorial works for those who visit it, particularly those who come to pay their respects to the memory of a comrade or loved one. They touch the names incised on the wall, make rubbings, and leave artifacts and mementos of their own—everything from poems and a woman’s highheeled shoe to a glass of champagne and a poker hand of a full house, aces high. So many of these tributes have been left, in fact, that a museum has been created to house them. The scene of many people together at the wall, touching the names of particular loved ones who fell in the same war, has moved observers regardless of their position on the war itself. I believe that a great part of the memorial’s symbolic power is its capacity to honor the dead with an openness that allows visitors to impress upon it their own meanings, their own histories, their own memories. The memorial virtually requires participation in order to complete its meaning. Although one would not compare it to a Rorschach test, the memorial nevertheless does achieve its meaning as much by what citizens bring to it as by what it imposes.
 
-Compare the Vietnam Memorial to a very different American war memorial: the sculpture depicting the raising of the American flag at the summit of Mount Suribachi on Iwo Jima in World War II. Moving in its own right, referring as it does to the final moment of a victory gained at an enormous cost in lives, the Iwo Jima statue is manifestly heroic. Its patriotism (symbolized by the flag), its reference to conquest, its larger-than-life scale, and its implicit theme of unity in victory leave little room for wondering what is expected from the viewer. Given the virtual unanimity with which that war was, and is, viewed in the United States, it is hardly surprising that the Iwo Jima memorial should be monumental and explicit about its message. Although not exactly “canned,” the Iwo Jima site is more symbolically self-sufficient, as are most war memorials. Visitors can stand in awe, gazing on an image that through photographs and sculpture has become a virtual icon for the War in the Pacific, **but they receive its message rather than completing it.[897]**
+Compare the Vietnam Memorial to a very different American war memorial: the sculpture depicting the raising of the American flag at the summit of Mount Suribachi on Iwo Jima in World War II. Moving in its own right, referring as it does to the final moment of a victory gained at an enormous cost in lives, the Iwo Jima statue is manifestly heroic. Its patriotism (symbolized by the flag), its reference to conquest, its larger-than-life scale, and its implicit theme of unity in victory leave little room for wondering what is expected from the viewer. Given the virtual unanimity with which that war was, and is, viewed in the United States, it is hardly surprising that the Iwo Jima memorial should be monumental and explicit about its message. Although not exactly “canned,” the Iwo Jima site is more symbolically self-sufficient, as are most war memorials. Visitors can stand in awe, gazing on an image that through photographs and sculpture has become a virtual icon for the War in the Pacific, **but they receive its message rather than completing it.\[897]**
 
 ...
 
@@ -145,7 +161,7 @@ Plan on surprises. Choose plans that allow the largest accommodation to the unfo
 
 Plan on human inventiveness. Always plan under the assumption that those who become involved in the project later will have or will develop the experience and insight to improve on the design.
 
-> *Seeing like a State*
+> _Seeing like a State_
 
 I’m a scribble on a scribble, completely unsuitable for one of your books; forget it, Lenù, one doesn’t tell the story of an erasure.
 
@@ -173,12 +189,11 @@ One can’t go on anymore, she said, electronics seems so clean and yet it dirti
 
 **Unlike stories, real life, when it has passed, inclines toward obscurity, not clarity.**
 
-> Elena Ferrante, *The Story of the Lost Child*
-
+> Elena Ferrante, _The Story of the Lost Child_
 
 This is something you do for a billion years or not at all.
 
-> *The Master*
+> _The Master_
 
 Don’t misunderstand: being a good person requires much more than being a good craftsman. But there is honor among craftsmen, and becoming a good craftsman necessarily entails acquiring certain virtues also essential to becoming a good person.
 
