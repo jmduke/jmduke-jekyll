@@ -49,6 +49,22 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+What is right in the corporation is not what is right in a man’s home or in his church. What is right in the corporation is what the guy above you wants from you. That’s what morality is in the corporation.
+
+...
+
+Work becomes more ambiguous, directed as it is toward maneuvering money, symbols, organizational structures, and especially people.
+
+...
+
+Striking, distinctive characteristics of any sort, in fact, are dangerous in the corporate world. One of the most damaging things, for instance, that can be said about a manager is that he is brilliant. This almost invariably signals a judgment that the person has publicly asserted his intelligence and is perceived as a threat to others. What good is a wizard who makes his colleagues and his customers uncomfortable? 
+
+...
+
+In short, bureaucracy creates for managers a Calvinist world without a Calvinist God, a world marked with the same profound anxiety that characterized the old Protestant ethic but one stripped of that ideology’s comforting illusions. Bureaucracy poses for managers an intricate set of moral mazes that are paradigmatic of the quandaries of public life in our social order. Within this framework, the puzzle for many individual managers becomes: How does one act in such a world and maintain a sense of personal integrity?
+
+> *Moral Mazes*
+
 It is in dialogue with pain that many beautiful things acquire their value. Acquaintance with grief turns out to be one of the more unusual prerequisites of architectural appreciation. We might, quite aside from all other requirements, need to be a little sad before buildings can properly touch us.
 
 ...
