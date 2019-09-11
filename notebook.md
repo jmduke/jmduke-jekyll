@@ -49,6 +49,22 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+Do things that are straightforward first. If there is a set of word clues, solve them. If there are snippets of music, identify them.
+
+...
+
+Strange things are usually a good sign that there’s treachery afoot.
+
+...
+
+*Obscurity is a possibility*, Allen Rabinovich
+
+...
+
+Have fun. If you are not having fun with a puzzle, then move to a different one. If you are tired, take a break, or get sleep. But do not let yourself dread what you are doing. You win Mystery Hunt by having fun; if you are not having fun, you are not playing by the rules.
+
+> *Thinking About A Puzzle*,
+
 What is right in the corporation is not what is right in a man’s home or in his church. What is right in the corporation is what the guy above you wants from you. That’s what morality is in the corporation.
 
 ...
