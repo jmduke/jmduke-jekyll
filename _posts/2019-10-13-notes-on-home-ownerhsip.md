@@ -23,6 +23,7 @@ A friend asked me the other day what's surprised me of the change, and I don't t
 - There are certain parts of this enterprise that seem as if they will never lose their magic: being able to walk directly outside to a fenced backyard with a Weber grill whenever I please; being able to paint and drill and transform a space on a whim.  I have a coworker whose sole hobby is home improvement stuff, and I never quite understood it before; it turns out that the power of transformation, of turning sweat and time and wood into progress, is primordial and intoxicating.
 - It turns out houses can just be, like, _slanted_, and that's a normal thing.
 - Also my steps to the front porch don't have rails and are now in a sort of Schrödinger's cat situation because no contractor can legally work on them without also adding rails. [^4]
+- I have no idea how much anything costs.  Tiles for a new kitchen floor were an order of magnitude less expensive than I would have guessed; getting a hole filled in in the basement, on the other hand, a king's ransom.
 - I am very, very lucky.
 
 (More to come.)
