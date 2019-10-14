@@ -25,6 +25,8 @@ A friend asked me the other day what's surprised me of the change, and I don't t
 - Also my steps to the front porch don't have rails and are now in a sort of Schrödinger's cat situation because no contractor can legally work on them without also adding rails. [^4]
 - I am very, very lucky.
 
+(More to come.)
+
 [^1]: This is much to the consternation of my partner, whom I love for tolerating me in _many_ respects but particularly for letting me ply her out of bed at six in the morning with promises of coffee and a crosword.
 [^2]: I haven't reached "created a JIRA for my house" levels of obnoxious, I promise.
 [^3]: Typing the phrase "mow my lawn" is, for instance, a moment that seems so simultaneously quixotic and surreal. 
