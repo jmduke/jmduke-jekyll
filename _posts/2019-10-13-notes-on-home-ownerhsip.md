@@ -20,8 +20,12 @@ A friend asked me the other day what's surprised me of the change, and I don't t
 - The moments I feel at my most [science dog](https://i.pinimg.com/originals/ac/58/68/ac58680265d0328a91bfb3f8c1052a6d.jpg) are the mundane ones: figuring out when I'm supposed to put out the recycling, dealing with my first wolf spider, trying to find a local whippersnapper to mow my lawn. [^3]
 - I understand what everyone was so excited about Costco for.  The unit economics are a lot more attractive when "ehh, we'll throw it in the basement" is a conceivable answer to any sort of storage-oriented question.
 - I miss the ten-minute walk to work, but biking is actually a very nice bookend for the day: brisk and bracing in the mornings, cathartic in the evenings.  (Stay tuned to see if I am still so rhapsodic come December.)
+- There are certain parts of this enterprise that seem as if they will never lose their magic: being able to walk directly outside to a fenced backyard with a Weber grill whenever I please; being able to paint and drill and transform a space on a whim.  I have a coworker whose sole hobby is home improvement stuff, and I never quite understood it before; it turns out that the power of transformation, of turning sweat and time and wood into progress, is primordial and intoxicating.
+- It turns out houses can just be, like, _slanted_, and that's a normal thing.
+- Also my steps to the front porch don't have rails and are now in a sort of Schrödinger's cat situation because no contractor can legally work on them without also adding rails. [^4]
 - I am very, very lucky.
 
 [^1]: This is much to the consternation of my partner, whom I love for tolerating me in _many_ respects but particularly for letting me ply her out of bed at six in the morning with promises of coffee and a crosword.
 [^2]: I haven't reached "created a JIRA for my house" levels of obnoxious, I promise.
 [^3]: Typing the phrase "mow my lawn" is, for instance, a moment that seems so simultaneously quixotic and surreal. 
+[^4]: One has, however, generously suggested that they can guide me on what materials to buy and advise me on how to work on the stairs while working on a different project, which of course is very chill and legal.
