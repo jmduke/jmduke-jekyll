@@ -1,7 +1,13 @@
 ---
 layout: post
-title: Notes on home ownerhsip
+title: Notes on home ownership
 ---
+<style>
+img { width: 100%; }
+</style>
+
+<meta name="twitter:image" content="https://i.imgur.com/lauCPvN.png">
+
 ![](https://i.imgur.com/lauCPvN.png)
 
 I have owned a house for just shy of two months now.  The two months have been blurred and boisterous — something like a movie's depiction of a wild night out, all motion blur and jump cut (Ikea trips and cold-pressed juice taking the place of strip clubs and tequila).  
