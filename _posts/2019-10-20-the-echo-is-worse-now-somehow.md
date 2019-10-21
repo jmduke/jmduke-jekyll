@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Echo Is Worse, Now, Somehow'
+title: The Echo got worse
 ---
 I've had my Echo for a little over four years now.  When I originally got it, [I was enthused](https://jmduke.com/2015/07/11/two-weeks-with-the-amazon-echo):
 
