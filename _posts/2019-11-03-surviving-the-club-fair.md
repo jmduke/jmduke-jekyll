@@ -2,6 +2,12 @@
 layout: post
 title: Surviving the club fair
 ---
+
+<meta name="twitter:image" content="https://jmduke.com/img/club.png">
+<p style="text-align: center">
+   <img src="/img/club.png" />
+</p>
+
 I went to a liberal arts college where students wore commitments like badges of honor; the more things you did (*things* being clubs or periodicals or social affiliations or whatever), the more adjectives and bullet points with which you could laurel yourselves, the greater the accomplishment.
 
 Nowhere did the threat of overcommitment loom more heavily than the annual **Student Activities and Organizations Fair**, a capstone event at the end of orientation.  You’ve spent the past two weeks mingling and moshing with people deemed by (presumably impartial) arbiters of judgment to be your peers: now find the subcultures and characteristics to redeem and distinguish yourself!
