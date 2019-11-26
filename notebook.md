@@ -49,6 +49,10 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+All men are allowed to have a secret or two.
+
+> *Disgaea 5*
+
 Do things that are straightforward first. If there is a set of word clues, solve them. If there are snippets of music, identify them.
 
 ...
