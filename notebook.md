@@ -49,6 +49,10 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+[What is your writing process like?] Panic; panic; hope.
+
+> *Phoebe Waller-Bridges
+
 All men are allowed to have a secret or two.
 
 > *Disgaea 5*
