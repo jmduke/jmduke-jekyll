@@ -49,6 +49,10 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+[We] couldn’t go on across the Eiffestrasse because the asphalt road had melted. There were people on the roadway, some already dead, some still lying alive but stuck in the asphalt. They must have rushed onto the roadway without thinking. Their feet had got stuck and then they had put out their hands to try to get out again. They were on their hands and knees screaming.
+
+> *Kate Hoffmeister*, on the firestorm in Hamburg
+
 [What is your writing process like?] Panic; panic; hope.
 
 > *Phoebe Waller-Bridges
