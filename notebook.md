@@ -49,6 +49,10 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+If we find poetry in the service station and motel, if we are drawn to the airport or train carriage, it is perhaps because, in spite of their architectural compromises and discomforts, in spite of their garish colours and harsh lighting, we implicitly feel that these isolated places offer us a material setting for an alternative to the selfish ease, the habits and confinement of the ordinary, rooted world.
+
+> *Alain de Botton*, the Art of Traveling
+
 [We] couldn’t go on across the Eiffestrasse because the asphalt road had melted. There were people on the roadway, some already dead, some still lying alive but stuck in the asphalt. They must have rushed onto the roadway without thinking. Their feet had got stuck and then they had put out their hands to try to get out again. They were on their hands and knees screaming.
 
 > *Kate Hoffmeister*, on the firestorm in Hamburg
