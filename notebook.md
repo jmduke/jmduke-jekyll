@@ -49,6 +49,10 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+What people love is not words that they don't know but words they forgot they knew.
+
+> Rick Harris
+
 If we find poetry in the service station and motel, if we are drawn to the airport or train carriage, it is perhaps because, in spite of their architectural compromises and discomforts, in spite of their garish colours and harsh lighting, we implicitly feel that these isolated places offer us a material setting for an alternative to the selfish ease, the habits and confinement of the ordinary, rooted world.
 
 > *Alain de Botton*, the Art of Traveling
