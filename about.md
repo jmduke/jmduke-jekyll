@@ -14,7 +14,7 @@ Did you just get a new haircut? Whatever you're doing, it's working.
 
 <p>Before that, I was at Amazon making it easier for you to read books on your Kindle, and at TenantBase, where I made it easier for you to find great office space.</p>
 
-<p>I run <a href="https://buttondown.email">Buttondown</a>, <a href="https://spoonbill.io">Spoonbill</a>, and a bunch of <a href="/pages/projects/">other stuff</a> under the moniker of <a href="http://villageblacksmith.consulting">Village Blacksmith</a>, my small product consultancy.</p>
+<p>I run <a href="https://buttondown.email">Buttondown</a>, <a href="https://spoonbill.io">Spoonbill</a>, and a bunch of <a href="/projects/">other stuff</a> under the moniker of <a href="http://villageblacksmith.consulting">Village Blacksmith</a>, my small product consultancy.</p>
 
 <p>I read a lot; I write a lot.  I spend too much time listening to Miles Davis and cheering for Miami sports teams.</p>
 
