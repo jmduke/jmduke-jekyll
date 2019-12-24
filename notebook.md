@@ -49,6 +49,10 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+The purpose of a park, Moses had been telling his designers for years, wasn't to overawe or impress; it was to encourage the having of a good time.
+
+> Robert Caro, *The Power Broker*
+
 “If it were meant to be illegal,” you remind him sagely, “Sun Microsystems would have made it unrepresentable.”
 
 > aphyr, [Hexing the technical interview](https://aphyr.com/posts/341-hexing-the-technical-interview)
