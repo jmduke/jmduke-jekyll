@@ -49,6 +49,14 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+The message was never a gentle “It’s really convenient, so why don’t you try it?” It was more a question of “It’s REALLY CONVENIENT so you’ve GOT TO use it!”
+
+...
+
+Keeping something because it would be a waste to get rid of it is a kind of torture.
+
+> The Art of Discarding
+
 The purpose of a park, Moses had been telling his designers for years, wasn't to overawe or impress; it was to encourage the having of a good time.
 
 > Robert Caro, *The Power Broker*
