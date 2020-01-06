@@ -49,6 +49,22 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+There is a growing mountain of research. But there is increased evidence that we are being bogged down today as specialization extends. The investigator is staggered by the findings and conclusions of thousands of other workers—conclusions which he cannot find time to grasp, much less to remember, as they appear. Yet specialization becomes increasingly necessary for progress, and the effort to bridge between disciplines is correspondingly superficial.
+
+...
+
+Had a Pharaoh been given detailed and explicit designs of an automobile, and had he understood them completely, it would have taxed the resources of his kingdom to have fashioned the thousands of parts for a single car, and that car would have broken down on the first trip to Giza.
+
+...
+
+A spider web of metal, sealed in a thin glass container, a wire heated to brilliant glow, in short, the thermionic tube of radio sets, is made by the hundred million, tossed about in packages, plugged into sockets—and it works! Its gossamer parts, the precise location and alignment involved in its construction, would have occupied a master craftsman of the guild for months; now it is built for thirty cents.
+
+...
+
+Presumably man's spirit should be elevated if he can better review his shady past and analyze more completely and objectively his present problems. He has built a civilization so complex that he needs to mechanize his records more fully if he is to push his experiment to its logical conclusion and not merely become bogged down part way there by overtaxing his limited memory. His excursions may be more enjoyable if he can reacquire the privilege of forgetting the manifold things he does not need to have immediately at hand, with some assurance that he can find them again if they prove important.
+
+https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
+
 The message was never a gentle “It’s really convenient, so why don’t you try it?” It was more a question of “It’s REALLY CONVENIENT so you’ve GOT TO use it!”
 
 ...
