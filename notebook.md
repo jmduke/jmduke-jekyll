@@ -49,6 +49,13 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+Actually, having a jet is a really big deal. If I were queen of the world, I would pass a law against private jets, because they enable you to get around a certain reality. You don’t have to go through an airport terminal, you don’t have to interact, you don’t have to be patient, you don’t have to be uncomfortable. These are the things that remind us we’re human.
+
+My dad’s plane was a 737, and it was insane to have a 737 as a private airplane. It had a queen-sized bed with one big long seatbelt across it, and a shower, and it was ridiculous. We would use the plane occasionally because I have four kids, so it was much easier, obviously, to ride on my dad’s plane with them. Then, at a certain point, I just said, “No, I think this is really bad for everybody.”
+
+
+> https://www.thecut.com/2019/03/abigail-disney-has-more-money-than-shell-ever-spend.html
+
 There is a growing mountain of research. But there is increased evidence that we are being bogged down today as specialization extends. The investigator is staggered by the findings and conclusions of thousands of other workers—conclusions which he cannot find time to grasp, much less to remember, as they appear. Yet specialization becomes increasingly necessary for progress, and the effort to bridge between disciplines is correspondingly superficial.
 
 ...
