@@ -54,7 +54,7 @@ Actually, having a jet is a really big deal. If I were queen of the world, I wou
 My dad’s plane was a 737, and it was insane to have a 737 as a private airplane. It had a queen-sized bed with one big long seatbelt across it, and a shower, and it was ridiculous. We would use the plane occasionally because I have four kids, so it was much easier, obviously, to ride on my dad’s plane with them. Then, at a certain point, I just said, “No, I think this is really bad for everybody.”
 
 
-> https://www.thecut.com/2019/03/abigail-disney-has-more-money-than-shell-ever-spend.html
+> [Abagail Disney](https://www.thecut.com/2019/03/abigail-disney-has-more-money-than-shell-ever-spend.html)
 
 There is a growing mountain of research. But there is increased evidence that we are being bogged down today as specialization extends. The investigator is staggered by the findings and conclusions of thousands of other workers—conclusions which he cannot find time to grasp, much less to remember, as they appear. Yet specialization becomes increasingly necessary for progress, and the effort to bridge between disciplines is correspondingly superficial.
 
@@ -70,7 +70,7 @@ A spider web of metal, sealed in a thin glass container, a wire heated to brilli
 
 Presumably man's spirit should be elevated if he can better review his shady past and analyze more completely and objectively his present problems. He has built a civilization so complex that he needs to mechanize his records more fully if he is to push his experiment to its logical conclusion and not merely become bogged down part way there by overtaxing his limited memory. His excursions may be more enjoyable if he can reacquire the privilege of forgetting the manifold things he does not need to have immediately at hand, with some assurance that he can find them again if they prove important.
 
-https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
+> [Vannevar Bush](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 
 The message was never a gentle “It’s really convenient, so why don’t you try it?” It was more a question of “It’s REALLY CONVENIENT so you’ve GOT TO use it!”
 
@@ -78,7 +78,7 @@ The message was never a gentle “It’s really convenient, so why don’t you t
 
 Keeping something because it would be a waste to get rid of it is a kind of torture.
 
-> The Art of Discarding
+> *The Art of Discarding*
 
 The purpose of a park, Moses had been telling his designers for years, wasn't to overawe or impress; it was to encourage the having of a good time.
 
@@ -102,7 +102,7 @@ If we find poetry in the service station and motel, if we are drawn to the airpo
 
 [What is your writing process like?] Panic; panic; hope.
 
-> *Phoebe Waller-Bridges
+> *Phoebe Waller-Bridges*
 
 All men are allowed to have a secret or two.
 
@@ -144,7 +144,7 @@ It is in dialogue with pain that many beautiful things acquire their value. Acqu
 
 ...
 
-What we call a home is merely any place that succeeds in making more consistenly available to us the important truths which the wider world ignores, or which our distracted and irresolute selves have trouble holding onto.  \*\*As we write, so we build: to keep a record of what matters to us.\*\*
+What we call a home is merely any place that succeeds in making more consistenly available to us the important truths which the wider world ignores, or which our distracted and irresolute selves have trouble holding onto. **As we write, so we build: to keep a record of what matters to us.**
 
 ...
 
@@ -154,7 +154,7 @@ Our jobs make relentless calls on a narrow band of our faculties, reducing our c
 
 
 
-\> \*The Architecture of Happiness\*, Alain de Botton
+> *The Architecture of Happiness*, Alain de Botton
 
 Spend twice as long looking at it as drawing it.
 
