@@ -4,18 +4,12 @@ title: About
 permalink: /
 ---
 
-<style>.post-header { display: none; } .post-content { font-size: 30px;} p { margin-bottom: 1em; }</style>
+<style>.post-header { display: none; } .post-content { font-size: 24px;} p { margin-bottom: 1em; }</style>
 
-**Howdy!  I'm Justin.**
+Hello! I work at <a href="http://stripe.com">Stripe</a>, making it easier for companies of all sizes to understand and improve their core operations.  Before that, I was the first technical hire at a commercial real estate startup and an engineer at Amazon making it more fun for you to read books on your Kindle. 
 
-Did you just get a new haircut? Whatever you're doing, it's working.
+I created <a href="https://buttondown.email">Buttondown</a>, which is the best tool in the world for starting and running your newsletter.
 
-<p>I work at <a href="http://stripe.com">Stripe</a>, where I make it easier for you to start and grow a business.</p>
+I also created <a href="https://spoonbill.io">Spoonbill</a>, a social media metadata platform.
 
-<p>Before that, I was at Amazon making it easier for you to read books on your Kindle, and at TenantBase, where I made it easier for you to find great office space.</p>
-
-<p>I run <a href="https://buttondown.email">Buttondown</a>, <a href="https://spoonbill.io">Spoonbill</a>, and a bunch of <a href="/projects/">other stuff</a> under the moniker of <a href="http://villageblacksmith.consulting">Village Blacksmith</a>, my small product consultancy.</p>
-
-<p>I read a lot; I write a lot.  I spend too much time listening to Miles Davis and cheering for Miami sports teams.</p>
-
-<p>I <a href="mailto:me@jmduke.com">love getting email</a>.</p>
+I <a href="mailto:me@jmduke.com">love getting email.</a>
