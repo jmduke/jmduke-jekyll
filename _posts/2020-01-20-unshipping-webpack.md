@@ -2,17 +2,25 @@
 layout: post
 title: Unshipping Webpack
 ---
+
+<style>
+figcaption {
+    text-align: center;
+    font-style: italic;
+}
+</style>
+
 My [company](https://stripe.com) has a lovely tradition of sending “unshipped” emails, which are writeups of services and pieces of technology that have been decommissioned or otherwise removed from service.
 
 In that spirit, here is a brief writeup on my decision to remove Webpack and Vue from [Spoonbill](https://spoonbill.io), a service that I own.
 
-## Context
+### Context
 
 Spoonbill has been live for around four years.  Pretty early on in Spoonbill’s life, I decided that it was going to be a big, featureful frontend application with rich design interactions.  This decision of course coincided with having recently begun programming front-end professionally, and discovering a new framework called “vue”. (Whoops.)
 
 As such, I went through a song and dance familiar to many engineers with wide eyes and new side projects: I set up webpack and figured out how to deploy it on Heroku. I remember very little of this process besides one bleary-eyed evening staring blankly at a static file that refused to get updated on deploys.  In general, it was a weekend’s worth of pain for what I thought was a rich reward — a ‘real’ front-end application.
 
-## why
+### Why
 
 It is very in fashion to dunk on Webpack, and i have certainly been guilty of doing so. That being said, Webpack is perhaps not the best version of itself but it does a complicated task pretty well, which is more than I can say for a lot of tools.
 
@@ -22,7 +30,82 @@ Webpack (or a front-end component framework) is simply unnecessary for this.  Yo
 
 Plus, very people _actually use_ Spoonbill’s frontend.  The vast majority of users sign up and just consume the emails — which is totally cool! — but that means i’ve shifted my efforts towards “how do I make the database fast and the dataset rich” rather than carrying about making a nice app.
 
-## How
+<img src="/img/spoonbill.png">
+<figcaption>The front-end that people <strong>actually</strong> use.</figcaption>
+<br />
+
+### How
+
+Well, something like this:
+
+```
+{% raw %}
+<!-- Before. -->
+<template>	
+  <div id="related-account-block" class="filters" v-if="Object.keys(relatedAccounts).length > 0">	
+    <span>Related accounts:</span>	
+    <ul class="related-accounts" v-for="(accountGroup, _) in relatedAccounts">	
+      <li v-for="account in accountGroup">	
+        <img class="profile-image profile-image--small" :src="imageUrlForAccount(account)">	
+        <a :key="account" :href="linkForAccount(account)">{{ account }}</a>	
+        <a :href="externalLinkForAccount(account)" target="_blank" class="account-external-link">	
+          <img src="/static/img/twitter.png"/>	
+        </a>	
+      </li>	
+    </ul>	
+  </div>	
+</template>	
+
+<script>
+export default {	
+  props: ['account'],
+  methods: {	
+    linkForAccount(account) {	
+      return `/data/${account.substring(1)}`;	
+    },	
+    externalLinkForAccount(account) {	
+      return `https://twitter.com/${account.substring(1)}`;	
+    },	
+    imageUrlForAccount(account) {	
+      return `https://avatars.io/twitter/${account.substring(1)}`;	
+    },	
+  },	
+};	
+</script>
+{% endraw %}
+```
+<figcaption>Notably, this is awful Vue.</figcaption>
+
+
+```
+{% raw %}
+<!-- After. -->
+{% if related_accounts %}
+  <div id="related-account-block" class="filters">
+    <span>Related accounts:</span>
+    {% for account in related_accounts %}
+      <ul class="related-accounts">
+        <li>
+          <img 
+            class="profile-image profile-image--small" 
+            src="{{ account.profile_image_url }}"
+          >
+          <a href="{{ account.detail_url }}">{{ account.screen_name }}</a>
+          <a href="{{ account.external_url }}" target="_blank"     
+             class="account-external-link">
+             <img src="/static/img/{{ account.network }}.png"/>
+          </a>
+        </li>
+      </ul>
+    {% endfor %}
+  </div>
+{% endif %}
+{% endraw %}
+```
+<figcaption>Cleaner!</figcaption>
+
+<br />
+
 
 I had the idea of doing this in my mind for a while but was mostly paralyzed by where to get started.  I decided to start with the smallest bit and grow more ambitious from there.
 
@@ -30,13 +113,16 @@ I had the idea of doing this in my mind for a while but was mostly paralyzed by 
 
 Django supports partials (you’re probably familiar with these, but if not: think re-usable HTML snippets, the template equivalent of macros) which made this process pretty painless.  I went in the following order:
 
-1. Stateless components. These could be translated pretty much directly into partials without worrying about anything.
-2. Stateful components (such as subscription blocks or filters that hit a REST endpoint).  This is when things started to get tricky! I’d have to look at the pages which used these components and change the server-side controller to pass in the data that was governed by the REST endpoint.  By doing so, i would transform this into a stateless component that received its state from the main bundle, at which point I could translate it into a partial.
-3. Controllers/pages.  At this point the controllers were a mix of some vue/js logic and some Django partials, and I would just translate them directly.  This was a fairly buggy experience because Django templates fail silently, but I opted for velocity over safety since if some bits and bobs weren’t immediately working it wasn’t the end of the world.
+1. **Stateless components.** These could be translated pretty much directly into partials without worrying about anything.
+2. **Stateful components** (such as subscription blocks or filters that hit a REST endpoint).  This is when things started to get tricky! I’d have to look at the pages which used these components and change the server-side controller to pass in the data that was governed by the REST endpoint.  By doing so, i would transform this into a stateless component that received its state from the main bundle, at which point I could translate it into a partial.
+3. **Controllers/pages.**  At this point the controllers were a mix of some vue/js logic and some Django partials, and I would just translate them directly.  This was a fairly buggy experience because Django templates fail silently, but I opted for velocity over safety since if some bits and bobs weren’t immediately working it wasn’t the end of the world.
 
 This was a really satisfying experience overall: watching the javascript footprint of the application shrink over the course of two weekends, culminating in a `rm package.json`, was really nice.  Highly recommend!
 
-## Lessons and surprises
+<img src="/img/rippackage.png">
+<figcaption>The glorious moment of vindication.</figcaption>
+
+### Lessons and surprises
 
 - Ironically, I think my time-to-DOM-loaded is a little worse now; a lot of the database work that was once handled asynchronously by REST is now being front-loaded.  This is a solvable problem that I just haven’t addressed yet.
 - Builds and deploys are much faster, which is very great. 
