@@ -49,6 +49,18 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+The popular meme of maturing a product from skateboard, to bike, to motorcycle, to car is a cute story, but the way software tends to actually be made is more like going from engine, to drivetrain, to monocoque, to interior.
+
+Except software isn’t like a car at all: if anything it’s more like a university campus, where different buildings are complete artifacts in their own right but loosely couple together to form a unified service. It is perfectly reasonable for some parts to be undergoing construction while others are being planned. Taken as a whole at any given moment, some parts of the system will have more detail and others will have less. Our notions of iteration and incrementality therefore have to also make room for media other than code.
+
+...
+
+Like any other creative endeavour, software development can’t be sped up as much as we can eliminate the phenomena that slow it down. Advancements in process and tooling, and the computing resources to run them, can be interpreted as doing exactly this. The result is that developers can spend a larger fraction of their time on application logic.
+
+> [Agile as Trauma](https://doriantaylor.com/agile-as-trauma)
+
+
+
 Actually, having a jet is a really big deal. If I were queen of the world, I would pass a law against private jets, because they enable you to get around a certain reality. You don’t have to go through an airport terminal, you don’t have to interact, you don’t have to be patient, you don’t have to be uncomfortable. These are the things that remind us we’re human.
 
 My dad’s plane was a 737, and it was insane to have a 737 as a private airplane. It had a queen-sized bed with one big long seatbelt across it, and a shower, and it was ridiculous. We would use the plane occasionally because I have four kids, so it was much easier, obviously, to ride on my dad’s plane with them. Then, at a certain point, I just said, “No, I think this is really bad for everybody.”
