@@ -49,6 +49,10 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+”eww she fuck the weed man for weed” — a bitch that's fucking the texts man for texts
+
+> @FabDLT_
+
 The popular meme of maturing a product from skateboard, to bike, to motorcycle, to car is a cute story, but the way software tends to actually be made is more like going from engine, to drivetrain, to monocoque, to interior.
 
 Except software isn’t like a car at all: if anything it’s more like a university campus, where different buildings are complete artifacts in their own right but loosely couple together to form a unified service. It is perfectly reasonable for some parts to be undergoing construction while others are being planned. Taken as a whole at any given moment, some parts of the system will have more detail and others will have less. Our notions of iteration and incrementality therefore have to also make room for media other than code.
