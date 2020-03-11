@@ -49,6 +49,23 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+the best of life is life lived quietly, where nothing happens but our calm journey through the day, where change is imperceptible and the precious life is everything.
+
+> *John McGahern*
+
+It is true that a computer, for example, can be used for good or evil. It is true that a helicopter can be used as a gunship and it can also be used to rescue people from a mountain pass. And if the question arises of how a specific device is going to be used, in what I call an abstract ideal society, then one might very well say one cannot know.
+
+But we live in a concrete society, [and] with concrete social and historical circumstances and political realities in this society, it is perfectly obvious that when something like a computer is invented, then it is going to be adopted will be for military purposes. It follows from the concrete realities in which we live, it does not follow from pure logic. But we're not living in an abstract society, we're living in the society in which we in fact live.
+
+If you look at the enormous fruits of human genius that mankind has developed in the last 50 years, atomic energy and rocketry and flying to the moon and coherent light, and it goes on and on and on -- and then it turns out that every one of these triumphs is used primarily in military terms. So it is not reasonable for a scientist or technologist to insist that he or she does not know -- or ca not know -- how it is going to be used.
+
+> [Joseph Weizenbaum](http://tech.mit.edu/V105/N16/weisen.16n.html)
+
+(This also reminds me of something that Paul Ford said many moons ago, that if a company asks for a magazine design or a giant billboard poster then that’s relatively easy. You do the design and it doesn’t necessarily change the organization at all. But if they ask for a website then suddenly this bleeds into all other parts of their organization. The website will ask questions of them that require a fundamental change in how they work, how they think about their business.)
+
+> [Robin Rendle](https://www.robinrendle.com/notes/why-is-css-frustrating)
+
+
 ”eww she fuck the weed man for weed” — a bitch that's fucking the texts man for texts
 
 > @FabDLT_
