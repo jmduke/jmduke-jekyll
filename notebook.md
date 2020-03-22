@@ -49,6 +49,19 @@ A commonplace book of quotes and passages I find interesting.
 (Maybe at some point I'll try and categorize these.)
 </div>
 
+It all comes back. Perhaps it is difficult to see the value in having one's self back in that kind of mood, but I do see it; I think we are well advised to keep on nodding terms with the people we used to be, whether we find them attractive company or not. Otherwise they turn up unannounced and surprise us, come hammering on the mind's door at 4 a.m. of a bad night and demand to know who deserted them, who betrayed them, who is going to make amends. We forget all too soon the things we thought we could never forget. We forget the loves and the betrayals alike, forget what we whispered and what we screamed, forget who we were. I have already lost touch with a couple of people I used to be; one of them, a seventeen-year-old, presents little threat, although it would be of some interest to me to know again what it feels like to sit on a river levee drinking vodka-and-orange-juice and listening to Les Paul and Mary Ford and their echoes sing "How High the Moon" on the car radio. (You see I still have the scenes, but I no longer perceive myself among those present, no longer could ever improvise the dialogue.) The other one, a twenty-three-year-old, bothers me more. She was always a good deal of trouble, and I suspect she will reappear when I least want to see her, skirts too long, shy to the point of aggravation, always the injured party, full of recriminations and little hurts and stories I do not want to hear again, at once saddening me and angering me with her vulnerability and ignorance, an apparition all the more insistent for being so long banished.
+It is a good idea, then, to keep in touch, and I suppose that keeping in touch is what notebooks are all about. And we are all on our own when it comes to keeping those lines open to ourselves: your notebook will never help me, nor mine you.
+
+...
+
+You might protest that no family has been in the Sacramento Valley for anything approaching “always.” But it is characteristic of Californians to speak grandly of the past as if it has simultaneously begun, tabula rasa, and reached a happy ending on the day the wagons headed west. Eureka—“I Have Found It”—as the state motto has it. 
+
+...
+
+The most disturbing aspect of ‘morality’ seems to me to be the frequency with which the word now appears; in the press, on television, in the most perfunctory kinds of conversation. Questions of straightforward power (or survival) politics, questions of quite indifferent public policy, questions of almost anything; they are all assigned these factitious moral burdens. There is something facile going on, some self-indulgence at work. Of course we would all like to ‘believe’ in something, like to assuage our private guilts in public causes, like to lose our tiresome selves; like, perhaps, to transform the white flag of defeat at home into the brave white banner of battle away from home…. [But] when we start deceiving ourselves into thinking not we want something or need something, not that it is a pragmatic necessity for us to have it, but that it is a moral imperative that we have it, then is when we join the fashionable madmen, and then is when the thin whine of hysteria is heard in the land, and then is when we are in bad trouble. And I suspect we are already there.
+
+> *Joan Didion*, Slouching Towards Bethlehem
+
 the best of life is life lived quietly, where nothing happens but our calm journey through the day, where change is imperceptible and the precious life is everything.
 
 > *John McGahern*
