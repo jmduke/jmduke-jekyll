@@ -52,6 +52,48 @@ A commonplace book of quotes and passages I find interesting.
 Who shall blame him, if, so standing for a moment he dwells upon fame, upon search parties, upon cairns raised by grateful followers over his bones? Finally, who shall blame the leader of the doomed expedition, if, having adventured to the uttermost, and used his strength wholly to the last ounce and fallen asleep not much caring if he wakes or not, he now perceives by some pricking in his toes that he lives, and does not on the whole object to live, but requires sympathy, and whisky, and some one to tell the story of his suffering to at once? Who shall blame him? Who
 will not secretly rejoice when the hero puts his armour off, and halts by the window and gazes at his wife and son, who, very distant at first, gradually come closer and closer, till lips and book and head are clearly before him, though still lovely and unfamiliar from the intensity of his isolation and the waste of ages and the perishing of the stars, and finally putting his pipe in his pocket and bending his magnificent head before her--who will blame him if he does homage to the beauty of the world?
 
+...
+
+But what after all is one night? A short space, especially when the darkness dims so soon, and so soon a bird sings, a cock crows, or a
+faint green quickens, like a turning leaf, in the hollow of the wave.
+Night, however, succeeds to night. The winter holds a pack of them in
+store and deals them equally, evenly, with indefatigable fingers.
+They lengthen; they darken. Some of them hold aloft clear planets,
+plates of brightness. The autumn trees, ravaged as they are, take
+on the flash of tattered flags kindling in the gloom of cool
+cathedral caves where gold letters on marble pages describe death in
+battle and how bones bleach and burn far away in Indian sands. The
+autumn trees gleam in the yellow moonlight, in the light of harvest
+moons, the light which mellows the energy of labour, and smooths the
+stubble, and brings the wave lapping blue to the shore.
+It seemed now as if, touched by human penitence and all its toil,
+divine goodness had parted the curtain and displayed behind it, single,
+distinct, the hare erect; the wave falling; the boat rocking; which,
+did we deserve them, should be ours always. But alas, divine goodness,
+twitching the cord, draws the curtain; it does not please him; he
+covers his treasures in a drench of hail, and so breaks them, so
+confuses them that it seems impossible that their calm should ever
+return or that we should ever compose from their fragments a perfect
+whole or read in the littered pieces the clear words of truth. For our
+penitence deserves a glimpse only; our toil respite only.
+The nights now are full of wind and destruction; the trees plunge and
+bend and their leaves fly helter skelter until the lawn is plastered
+with them and they lie packed in gutters and choke rain pipes and
+scatter damp paths. Also the sea tosses itself and breaks itself, and
+should any sleeper fancying that he might find on the beach an answer
+to his doubts, a sharer of his solitude, throw off his bedclothes and
+go down by himself to walk on the sand, no image with semblance of
+serving and divine promptitude comes readily to hand bringing the night
+to order and making the world reflect the compass of the soul. The
+hand dwindles in his hand; the voice bellows in his ear. Almost it
+would appear that it is useless in such confusion to ask the night
+those questions as to what, and why, and wherefore, which tempt the
+sleeper from his bed to seek an answer.
+
+[Mr. Ramsay, stumbling along a passage one dark morning, stretched his
+arms out, but Mrs. Ramsay having died rather suddenly the night before,
+his arms, though stretched out, remained empty.]
+
 > To The Lighthouse
 
 Internal communication based on long-form writing, rather than a verbal tradition of meetings, speaking, and chatting, leads to a welcomed reduction in meetings, video conferences, calls, or other real-time opportunities to interrupt and be interrupted.
