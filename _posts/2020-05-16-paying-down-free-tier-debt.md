@@ -28,4 +28,12 @@ I phrased this post as "paying down debt" because that's the mental model I've s
 
 That being said: Buttondown wouldn't be as successful as it is without the free tier.  So the loan, as it were, was worth taking out.
 
+And, as a colophon: one thing that made me feel _much_ better about how my time is spent (which is to say, still more in Gmail than in PyCharm these days) was [this post by my coworker](https://www.kalzumeus.com/2010/03/20/running-a-software-business-on-5-hours-a-week/):
+
+> Through sickness, health, and mind-numbing tedium, I’ve woken up every day for the last four years, checked email, gone through the day, checked email, and gone to sleep.  This is the single best guarantee that I would deliver on the promised level of service to customers — almost all questions answered within 24 hours.  There have been many, many weeks where this is literally all I’ve done for the business.
+
+Buttondown has hit the tipping point where the average value per email I send is assuredly higher than the average value per commit.  This is troublesome to my brain: I am still a person who gets a Skinner box-esque thrill from committing new features and unit tests, and it gives me a sense of peace and progress that correspondence simply does not.  
+
+My mistake was thinking that "weeks where this is literally all I’ve done for the business" was bad because it was low-value; it was bad, but not because it was low-value.  It was bad because I wasn't doing it as efficiently as I could be, which isn't just a disservice to my sanity but to everyone involved.
+
 [^1]: Important caveat, because I know many people who use Buttondown are reading this: _I will never, ever, ever, ever, ever, ever kick you off the tool._
