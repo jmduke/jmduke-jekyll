@@ -8,6 +8,63 @@ I've been creating a lot of new tables ("objects", in Django parlance) in [Butto
 - _PeacefulEmailAddress_ (to track email addresses that are confirmed as users to be valid, even if parts of my validation infrastructure think otherwise)
 - _ImageUploadAttempt_ (to track images that folks have uploaded to S3)
 
+These are...very simple models!  To wit:
+
+```
+import uuid
+from enum import Enum
+
+from django.db import models
+
+from emails.models import Newsletter
+from miscellany.fields import EnumField
+
+
+class SubscriberImportSource(Enum):
+    BUTTONDOWN = "buttondown"  # This means imports/exports.
+    CSV = "csv"
+    MAILCHIMP = "mailchimp"
+    SUBSTACK = "substack"
+    TINYLETTER = "tinyletter"
+    TYPEFORM = "typeform"
+    DRIP = "drip"
+    GENERIC = "generic"
+
+    @classmethod
+    def choices(cls):
+        return [(x.value, x.name) for x in cls]
+
+
+class SubscriberImportStatus(Enum):
+    FAILED = "failed"
+    IN_PROGRESS = "in_progress"
+    NOT_STARTED = "not_started"
+    SUCCEEDED = "succeeded"
+
+    @classmethod
+    def choices(cls):
+        return [(x.value, x.name) for x in cls]
+
+
+class SubscriberImport(models.Model):
+    """
+    Mostly used for auditing.
+    """
+
+    id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
+    newsletter = models.ForeignKey(
+        Newsletter, on_delete=models.CASCADE, related_name="subscriber_imports"
+    )
+    creation_date = models.DateTimeField(auto_now_add=True)
+    text = models.TextField(blank=True, null=True)
+    source = EnumField(SubscriberImportSource)
+    status = EnumField(
+        SubscriberImportStatus, default=SubscriberImportStatus.NOT_STARTED.value
+    )
+    row_count = models.IntegerField(blank=True, null=True)
+    subscriber_count = models.IntegerField(blank=True, null=True)
+```
+
 Historically, I've been weirdly reticent to enshrine things in the database if I could do without it.  It's not clear where this impulse came from, but I'm willing to blame a not-so-distant past where coupling things to the database meant incurring a tax: you have to worry about migrations, you have to worry about state, you have to juggle another ball in the air.
 
 And what's the point of doing that if you can just, say, jam a bunch of strings in a flag (to take the `PeacefulEmailAddress` case) or paginate over S3 (to take `ImageUploadAttempt`)?
