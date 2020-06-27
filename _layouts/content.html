@@ -1,0 +1,79 @@
+---
+layout: page
+---
+
+<style>
+  .post-header { display: none; }
+</style>
+
+<div class="post">
+
+  <div class="content-preamble">
+  <div class="content-image">
+    <img src="{{ page.item.image[0].url }}" />
+  </div>
+  <div class="content-information">
+    <table>
+      <tbody>
+        <tr>
+          <td>
+          Title
+        </td>
+        <td>
+          {{ page.item.name }}
+          </td>
+        </tr>
+      <tr>
+        <td>
+        Author
+      </td>
+      <td>
+        {{ page.item.author }}
+        </td>
+      </tr><tr>
+        <td>
+        Year
+      </td>
+      <td>
+        {{ page.item.year }}
+        </td>
+      </tr>
+      <tr>
+        <td>
+        Rating
+      </td>
+      <td>
+        {{ page.item.rating }}
+        </td>
+      </tr>
+      <tr>
+        <td>
+        Finished
+      </td>
+      <td>
+        {{ page.item.date }}
+        </td>
+      </tr>
+    </tbody>
+    </table>
+  </div>
+  </div>
+
+    <div class="content-summary">
+      {{ page.item.summary | markdownify }}
+    </div>
+
+    <div class="content-highlights">
+      <strong>Highlights</strong>
+
+      {% for item in site.data.notebook %}
+      {% if item.source.name == page.item.name %}
+        <div class="notebook-item">
+        <div class="notebook-item__text">
+            {{item.text | markdownify }}
+        </div>
+      </div>
+      {% endif %}
+      {% endfor %}
+    </div>
+</div>
