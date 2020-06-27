@@ -274,3 +274,49 @@
         }
     }
 }
+
+.content-preamble {
+    display: flex;
+}
+
+.content-information {
+    padding: 10px;
+
+    table {
+        width: 100%;
+
+        td {
+            display: block;
+        }
+
+        td:nth-child(2) {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+    }
+}
+
+.content-summary { 
+    margin-top: 2em;
+    margin-bottom: 2em;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.content-highlights strong {
+    margin-bottom: 1em;
+    display: block;
+}
+
+.content-highlights .notebook-item {
+    padding: 0.5em;
+    margin-left: -0.5em;
+
+    p:last-child {
+        margin-bottom: 0;
+
+    }
+    &:nth-child(2n + 1) {
+        background: #eee;
+    }
+}
