@@ -13,7 +13,7 @@ GEM
       httparty
     colorator (1.1.0)
     concurrent-ruby (1.1.6)
-    ffi (1.9.18)
+    ffi (1.13.1)
     forwardable-extended (2.6.0)
     httparty (0.18.0)
       mime-types (~> 3.0)
