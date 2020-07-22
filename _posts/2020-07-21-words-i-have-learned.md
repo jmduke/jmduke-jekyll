@@ -11,5 +11,6 @@ I have found myself learning more and more words recently.  This is fun and good
 | calf          | a floating piece of ice detached from an iceberg. | NYT crossword |
 | piste         | a ski run of compacted snow.                      | coworker      |
 | autochthonous | native to the place where found (ant. allochthonous) | twitter
+| polity | an organized society; a state as a political entity | *Against the Grain*
 
 [^1]: Why "sun words"? Because we were high schoolers, and because we learned of the concept of "SAT words" — words that made Flesch-Kincaid salivate — and because _Sun_day comes after _Sat_urday.  (I told you — insufferable.)
