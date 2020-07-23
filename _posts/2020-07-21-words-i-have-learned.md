@@ -12,5 +12,13 @@ I have found myself learning more and more words recently.  This is fun and good
 | piste         | a ski run of compacted snow.                      | coworker      |
 | autochthonous | native to the place where found (ant. allochthonous) | twitter
 | polity | an organized society; a state as a political entity | *Against the Grain*
+| besserwisser | know-it-all, wiseguy, wiseacre, smart aleck | @schlagetown
+| olio | a miscellaneous collection of things | NYT crossword
+| eunoia | beautiful thinking | @schlagetown
+| amphigory | nonsense verse | @schlagetown
+| enchiridion | carried reference book | @schlagetown
+| phrontistery | a place for studying | @schlagetown
+| apothegm | short, witty aphorism | @schlagetown
+| selcouth | strange; unfamiliar; marvelous | @schlagetown
 
 [^1]: Why "sun words"? Because we were high schoolers, and because we learned of the concept of "SAT words" — words that made Flesch-Kincaid salivate — and because _Sun_day comes after _Sat_urday.  (I told you — insufferable.)
