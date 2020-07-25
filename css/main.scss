@@ -13,14 +13,10 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #555;
-$background-color: #fff;
-$brand-color:      #333;
+$text-color:       #fff;
+$background-color: #0069FF;
+$brand-color:      #fff;
 $hover-color: darken($brand-color, 15%);
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
 $content-width:    38rem;
@@ -53,7 +49,7 @@ $on-laptop:        800px;
 ;
 
 .footer {
-    color: #aaa;
+    opacity: 0.7;
     font-size: 14px;
     margin: 0 auto;
     text-align: left;
@@ -75,20 +71,17 @@ body {
     flex-shrink: 0;
 }
 .notice {
-    background-color: $brand-color;
-    color: #fff;
+    background-color: #ffffff30;
+    border: 1px #fff dashed;
     padding: 1em;
     font-style: italic;
     text-align: center;
     border-radius: 5px;
     margin-bottom: 2em;
-    box-shadow: 0px 4px 6px 3px #dab5a9c9;
+    margin-top: 1em;
 
     a {
-        color: #fff;
     font-weight: 500;
-    border-bottom: 1px #fff solid;
-    text-decoration: none;
     }
 }
 
@@ -113,7 +106,7 @@ ol {
     margin-left: -2em;
     background: $brand-color;
     position: absolute;
-    color: #fff;
+    color: #0069FF;
     font-weight: 900;
     width: 30px;
     height: 29px;
@@ -145,4 +138,32 @@ ol {
   hr {
       border-color: #00000010;
       margin: 2em;
+  }
+
+  .bigfoot-footnote__tooltip {
+      box-shadow: none !important;
+      background: #0069FF !important;
+      border: 1px #fff dashed !important;
+  }
+
+  .bigfoot-footnote__content {
+      background: #0069FF !important;
+  }
+
+  .bigfoot-footnote {
+      box-shadow: none !important;
+      background: none !important;
+      border: 1px #fff dashed !important;
+
+      font-size: 16px;
+      line-height: 20px;
+  }
+
+  .bigfoot-footnote__wrapper {
+      background: none !important;
+      border-bottom: 1px #fff dashed;
+  }
+
+  .bigfoot-footnote__button {
+      border: 1px solid #fff !important;
   }
