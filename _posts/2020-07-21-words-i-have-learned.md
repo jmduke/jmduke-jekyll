@@ -57,4 +57,8 @@ td:last-child {
     width: 120px;
     font-variant: tabular-nums;
 }
+
+table p {
+    margin-bottom: 0;
+}
 </style>
