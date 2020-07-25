@@ -35,3 +35,10 @@ end
 File.open("_data/content.json", "w") do |f|
     f.write(content_records.to_json)
 end
+
+
+words_records = paginate_indefinitely(@client.table("app5RDJQQni8Itd2D", "Dictionary"))
+
+File.open("_data/words.json", "w") do |f|
+    f.write(words_records.to_json)
+end
