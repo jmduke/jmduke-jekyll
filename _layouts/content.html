@@ -3,66 +3,31 @@ layout: page
 ---
 
 <style>
-  .post-header { display: none; }
+  .post > .post-header { display: none; }
+  .post .post .post-header { display: block; }
+  .post-meta {
+    margin-bottom: -5px;
+  }
 </style>
 
 <div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.item.name }}</h1>
+    <p class="post-meta">{{ page.item.author }}</p>
+    <p class="post-meta">Published in {{ page.item.year }}</p>
+    <p class="post-meta">Finished {{ page.item.date }}</p>
+    <p class="post-meta">Rating: {{ page.item.rating }}/10</p>
+  </header>
 
-  <div class="content-preamble">
   <div class="content-image">
     <img src="{{ page.item.image[0].url }}" />
-  </div>
-  <div class="content-information">
-    <table>
-      <tbody>
-        <tr>
-          <td>
-          Title
-        </td>
-        <td>
-          {{ page.item.name }}
-          </td>
-        </tr>
-      <tr>
-        <td>
-        Author
-      </td>
-      <td>
-        {{ page.item.author }}
-        </td>
-      </tr><tr>
-        <td>
-        Year
-      </td>
-      <td>
-        {{ page.item.year }}
-        </td>
-      </tr>
-      <tr>
-        <td>
-        Rating
-      </td>
-      <td>
-        {{ page.item.rating }}
-        </td>
-      </tr>
-      <tr>
-        <td>
-        Finished
-      </td>
-      <td>
-        {{ page.item.date }}
-        </td>
-      </tr>
-    </tbody>
-    </table>
-  </div>
   </div>
 
     <div class="content-summary">
       {{ page.item.summary | markdownify }}
     </div>
 
+    {% if page.item.notebook %}
     <div class="content-highlights">
       <strong>Highlights</strong>
 
@@ -76,4 +41,5 @@ layout: page
       {% endif %}
       {% endfor %}
     </div>
+    {% endif %}
 </div>
