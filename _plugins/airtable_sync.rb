@@ -44,3 +44,4 @@ end
 write_records(notebook_records, '_data/notebook.json')
 write_records(content_records, '_data/content.json')
 write_records(collect_records('Dictionary'), '_data/words.json')
+write_records(collect_records('Currently'), '_data/currently.json')

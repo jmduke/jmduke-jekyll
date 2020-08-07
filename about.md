@@ -8,10 +8,64 @@ permalink: /
 
 **Justin Duke**
 
-Hello! I currently spend most of my time writing and thinking about software (vaguely in that order), 
-mostly at [Stripe](https://stripe.com) and [Buttondown](https://buttondown.email).  I've been writing for around seven years now:
-most of it is some combination of bad, uninteresting, and poorly aged.  (And yet I keep doing it, because it is very fun.)
+Hello! I currently spend most of my time writing and thinking about software (vaguely in that order). 
+Are you interested in a curriculum vitae? Here it is, with the caveat that I am very much not interested
+in a new job:
 
-I'm a big fan of JRPGs, cocktails, and the Miami Dolphins.  I live in Seattle where I try to enjoy the weather (or lack thereof).
+<table>
+<tr>
+<td>2018 —</td>
+<td><a href='https://stripe.com'>Stripe</a></td>
+</tr>
+<tr>
+<td>2016 — 2018</td>
+<td><a href='https://tenantbase.com'>TenantBase</a></td>
+</tr>
+<tr>
+<td>2013 — 2016</td>
+<td><a href='https://amazon.com'>Amazon</a></td>
+</tr>
+</table>
+
+Or perhaps you are interested in some of my projects:
+
+<table>
+<tr>
+<td>2017 —</td>
+<td><a href='https://buttondown.email'>Buttondown</a></td>
+</tr>
+<tr>
+<td>2016 —</td>
+<td><a href='https://spoonbill.io'>Spoonbill</a></td>
+</tr>
+<tr>
+<td>2013 — 2017</td>
+<td><a href='https://getbarback.com'>Barback</a></td>
+</tr>
+</table>
+
+I also love books and video games! I'm currently:
+
+<table>
+{% for item in site.data.currently %}
+<tr>
+<td> {{ item.verb }}</td>
+<td> {{ item['name_(from_content)'] }}</td>
+</tr>
+{% endfor %}
+</table>
 
 I [love getting email](mailto:me@jmduke.com).
+
+<style>
+    table {
+        width: 100%;
+        margin-bottom: 1em;
+    }
+    td:last-child {
+        text-align: right;
+    }
+    td:first-child {
+        opacity: 0.7;
+    }
+</style>
