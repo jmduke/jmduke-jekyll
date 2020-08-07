@@ -43,6 +43,6 @@ but even now — after four days of rest and unproductive redoubt — I can't qu
 
 I didn't realize how much I craved a bit of brain-lamination time until I seized it, and I recommend doing the same.
 
-[^1]: One downside of running two side businesse    s is that you cannot exactly take a week off from answering emails.
+[^1]: One downside of running two side businesses is that you cannot exactly take a week off from answering emails.
 
 [^2]: "Be sure to add that your beautiful and utterly talented partner made you beef bolognese", my partner added as she read this paragraph. It's true: [the recipe](https://cooking.nytimes.com/recipes/1015181-marcella-hazans-bolognese-sauce) was delicious.
