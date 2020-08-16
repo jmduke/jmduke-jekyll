@@ -3,6 +3,8 @@ layout: post
 title: Personal site as clay
 ---
 
+![](/img/reify.png)
+
 I've spent the past few weeks tinkering with my personal site.
 
 I want my personal site to be the place where I can think out loud and iterate: 
@@ -33,5 +35,8 @@ I also enjoy Gwern's use of "status" here: a piece can be finished or unfinished
 I think there's a concept of reification here that's important! There's a sense of evolving a thought from idle distraction to snippet to half-baked thought to draft to final piece:
 I have historically thought of a site as a thing that captures only the last stage but now I am interested in creating a software for handling all phases well.
 
-(One unsolved problem here is: how does one surface changes in a post? RSS and many other things are built
-around the atomicity of the post.)
+Some other things I want to address:
+
+1. Capturing things to think about (the left-hand side of the image) is a completely different process than
+reifying them into useful and digestible thoughts or arguments!
+2. One big unsolved problem: RSS and many other things are built around the atomicity of the post.
