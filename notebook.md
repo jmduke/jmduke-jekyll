@@ -21,7 +21,7 @@ title: Notebook
 </div>
 <div class="notebook-item__source">
 {% if item.source %}
-    {{ item.source.name }}
+    <a href="/content/{{ item.source.name | slugify }}">{{ item.source.name }}</a>
 {% else %}
     <a href="{{ item.source_url }}">{{ item.author }}</a>
 {% endif %}

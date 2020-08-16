@@ -50,7 +50,7 @@ I also love books and video games! I'm currently:
 {% for item in site.data.currently %}
 <tr>
 <td> {{ item.verb }}</td>
-<td> {{ item['name_(from_content)'] }}</td>
+<td> <a href='/content/{{ item['name_(from_content)'][0] | slugify }}'>{{ item['name_(from_content)'] }}</a></td>
 </tr>
 {% endfor %}
 </table>

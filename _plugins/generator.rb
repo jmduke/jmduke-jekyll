@@ -5,7 +5,7 @@ module Jekyll
         def generate(site)
             content = site.data['content']
             content.each do |item|
-                next if item['date'].nil?
+                next if item['date'].nil? && item['currently'].nil?
                 site.pages << ContentPage.new(
                     site,
                     site.source,
