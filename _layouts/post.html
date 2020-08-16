@@ -4,7 +4,7 @@ layout: default
 <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+    <h1 class="post-title" style="margin-bottom: 0">{{ page.title }}</h1>
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
@@ -12,13 +12,14 @@ layout: default
     {{ content }}
 
     <div class="notice">
-      <strong>Liked this post?</strong>
-
-      You should <a target="_blank" href="http://buttondown.email/jmduke">subscribe to my newsletter</a> and <a target="_blank" href="http://twitter.com/justinmduke">follow me on Twitter</a>.
-
-      <br><br>
-
-      (I've got <a target="_blank" href="http://jmduke.com/feed.xml">an RSS feed</a>, too, if you'd prefer.)
+      <div>
+      <strong>Liked this post? Follow me!</strong>
+      </div>
+      <div>
+      <a target="_blank" href="http://twitter.com/justinmduke">Twitter</a> •
+      <a target="_blank" href="http://jmduke.com/feed.xml">RSS</a> •
+      <a target="_blank" href="http://buttondown.email/jmduke">Email</a>
+    </div>
     </div>
   </article>
 
