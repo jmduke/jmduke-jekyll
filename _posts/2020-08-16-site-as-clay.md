@@ -35,8 +35,22 @@ I also enjoy Gwern's use of "status" here: a piece can be finished or unfinished
 I think there's a concept of reification here that's important! There's a sense of evolving a thought from idle distraction to snippet to half-baked thought to draft to final piece:
 I have historically thought of a site as a thing that captures only the last stage but now I am interested in creating a software for handling all phases well.
 
-Some other things I want to address:
+## Capture vs. synthesis
 
-1. Capturing things to think about (the left-hand side of the image) is a completely different process than
-reifying them into useful and digestible thoughts or arguments!
-2. One big unsolved problem: RSS and many other things are built around the atomicity of the post.
+TKTKTK
+
+## The oppressive atomicity of the "post"
+
+One issue of this approach is that a lot of infrastructure (newsletters, RSS, etc.) is set up to think of the "post" as the primary unit: you have a linked list of content, each item in that linked list has a single version, and that's your site.  It's non-trivial to publish changes to a given "post", especially if you want to dramatically change metadata (like a post title or overall structure, that sort of thing.)
+
+There are some interesting approaches to this problem.
+
+[Paul Stamatiou](https://paulstamatiou.com/stuff-i-use/) publishes individual RSS feeds for long-running posts.  I've adopted this approach for things like [the words that I have learned](https://jmduke.com/2020/07/21/words-i-have-learned).  Paul also emphasizes the "Updated" date rather than the "Published" one
+
+[Andy Matuschak](https://notes.andymatuschak.org/About_these_notes) publishes items as "notes" rather than posts.  This approach is more dramatic: it completely eschews indices or feeds in favor of being a DAG of items that, like hyperlinked index cards, can be referenced and popped off the stack as need be.  
+
+Andy also has a bunch of writing that _doesn't_ fit into this system, as documented on his [primary site](*https://blog.andymatuschak.org/post/159340765257/exalting-data-missing-meaning.)
+
+## Document vs. argument
+
+TKTKTK
