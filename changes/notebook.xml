@@ -1,0 +1,31 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justin's Notebook</title>
+    <description>A feed of new quotes.</description>
+    <link>{{ site.url }}/notebook</link>
+    <atom:link href="{{ "/changes/notebook.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% assign sorted = site.data.notebook|sort: 'name'|reverse %}
+    {% for item in sorted limit:30 %}
+      <item>
+        <title>Notebook Entry #{{ item.name | xml_escape }}</title>
+        <description>{{ item.text }}</description>
+        <author>
+            {% if item.source %}{{ item.source.name }}{% else %}{{ item.author }}{% endif %}
+        </author>
+        {% if item.source_url %}
+        <link>
+            {{ item.source_url }}   
+        </link>
+        {% endif %}
+        <pubDate>{{ item.date | date_to_rfc822 }}</pubDate>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>

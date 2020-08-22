@@ -17,13 +17,16 @@ layout: page
     <p class="post-meta">Published in {{ page.item.year }}</p>
     <p class="post-meta">Finished {{ page.item.date }}</p>
     <p class="post-meta">Rating: {{ page.item.rating }}/10</p>
+    {% if page.item.isbn %}
+      <p class="post-meta">ISBN: {{ page.item.isbn }}</p>
+    {% endif %}
   </header>
 
   <div class="content-image">
     <img src="{{ page.item.image[0].url }}" />
   </div>
 
-    <div class="content-summary">
+  <div class="content-summary">
       {{ page.item.summary | markdownify }}
     </div>
 

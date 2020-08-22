@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Notebook
+rss: /changes/notebook.xml
 ---
 
 <style>
@@ -12,9 +13,16 @@ title: Notebook
     .notebook-item {
         margin-bottom: 4em;
     }
+
+    .notebook-item__metadata {
+        font-style: normal;
+        font-weight: 400;
+        opacity: 0.5;
+    }
 </style>
 
-{% for item in site.data.notebook %}
+{% assign sorted = site.data.notebook|sort: 'name'|reverse %}
+{% for item in sorted %}
 <div class="notebook-item">
 <div class="notebook-item__text">
     {{item.text | markdownify }}

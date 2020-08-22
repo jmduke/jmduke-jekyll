@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Words I have learned
+rss: /changes/words.xml
 ---
 When I was in high school and even more insufferable than I am now, a friend and I started a tumblr called "sun words".  The concept of this was to collect words that we discovered that were particularly succulent or mellifluous. [^1]
 
 I have found myself learning more and more words recently.  This is fun and good: I was worried for a while that my days of adapting and playing with the English language were largely behind me.  I thought it would be interesting and illustrative to collect a list of the words I've learned recently alongside the sources from which I've gleaned them. (I expect the majority to be from the NYT crossword, which I recommend you start doing.)
-
-I also publish this list as an [RSS feed](/words-feed.xml), if you'd prefer.
 
 <div class="table-container">
 <table>
