@@ -13,13 +13,46 @@ layout: page
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.item.name }}</h1>
-    <p class="post-meta">{{ page.item.author }}</p>
-    <p class="post-meta">Published in {{ page.item.year }}</p>
-    <p class="post-meta">Finished {{ page.item.date }}</p>
-    <p class="post-meta">Rating: {{ page.item.rating }}/10</p>
-    {% if page.item.isbn %}
-      <p class="post-meta">ISBN: {{ page.item.isbn }}</p>
-    {% endif %}
+    <div class="notice" style="flex-direction: column;">
+      {% if page.item.author %}
+      <div class="notice-item">
+        <span>Author</span>
+        <span>{{ page.item.author }}</span>
+      </div>
+      {% endif %}
+      {% if page.item.year %}
+      <div class="notice-item">
+        <span>Published</span>
+        <span>{{ page.item.year }}</span>
+      </div>
+      {% endif %}
+      {% if page.item.rating %}
+      <div class="notice-item">
+        <span>Rating</span>
+        <span>{{ page.item.rating }}/10</span>
+      </div>
+      {% endif %}
+      {% if page.item.isbn %}
+      <div class="notice-item">
+        <span>ISBN</span>
+        <span>{{ page.item.isbn }}</span>
+      </div>
+      {% endif %}
+      {% if page.item.currently or page.item.date %}
+      <div class="notice-item">
+        <span>Status</span>
+        {% if page.item.currently and page.item.type == "Book" %}
+        <span>Currently reading!</span>
+        {% endif %}
+        {% if page.item.currently and page.item.type == "Game" %}
+        <span>Currently playing!</span>
+        {% endif %}
+        {% if page.item.currently == null %}
+        <span>Finished on {{ page.item.date }}</span>
+        {% endif %}
+      </div>
+      {% endif %}
+    </div>
   </header>
 
   <div class="content-image">

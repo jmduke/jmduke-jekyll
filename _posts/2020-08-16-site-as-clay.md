@@ -54,3 +54,24 @@ Andy also has a bunch of writing that _doesn't_ fit into this system, as documen
 ## Document vs. argument
 
 TKTKTK
+
+## Essays build books
+
+> Thirty years ago my older brother, who was ten years old at the time, was trying to get a report on birds written that he’d had three months to write, which was due the next day. We were out at our family cabin in Bolinas, and he was at the kitchen table close to tears, surrounded by binder paper and pencils and unopened books on birds, immobilized by the hugeness of the task ahead. Then my father sat down beside him, put his arm around my brother’s shoulder, and said, “Bird by bird, buddy. Just take it bird by bird.” — Anne Lamott
+
+The diagram at the top of this post ends with the "essay", which again is largely due to the frustrating and 
+somewhat unsolved atomicity of the post.
+
+This feels untrue: I write essays about a very short list of topics, and I think most of these essays deserve
+to be conjoined or at least read in conversation with one another. 
+
+There's something appealing about slowly reifying and gluing together discrete thoughts and snippets until they
+form an essay, and then gluing _those_ together until they approach something like a book. I am picking the word
+"book" here not to represent a goal of publication or paper but to stand-in for something a bit grander than an essay:
+maybe a "thesis" is the right word.
+
+Or perhaps thinking about this in terms of "books" and "essays" is to miss the point entirely. 
+
+The beauty of hypertext, and the goal for my work on this site, is to throw off the shackles of these 
+very specific and context-laden nouns. Writing can change over time, and to ascribe to it a given shape
+or size or process of consumption is to fit it in a jail cell.

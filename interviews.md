@@ -8,6 +8,12 @@ I have been fortunate enough to get to navelgaze, opine, and/or thought-lead on 
 <table>
 <tr>
 <td>2020</td>
+<td>
+    <a href="https://soundcloud.com/nathan-latka/buttondown-email-is-niche">The Top</a>
+</td>
+</tr>
+<tr>
+<td>2020</td>
 <td><a href="https://newslettercrew.com/podcast/episode-3-monetization-niche-topics-and-publishing-frequency-with-justin-duke-of-buttondown/">Newsletter Crew</a></td>
 </tr>
 <tr>
