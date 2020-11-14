@@ -8,6 +8,8 @@ permalink: /
 
 **Justin Duke**
 
+(By the way, this site is deprecated. I spend my time writing over at [arcana.computer](https://arcana.computer) instead.)
+
 Hello! I currently spend most of my time writing and thinking about software (vaguely in that order). 
 Are you interested in a curriculum vitae? Here it is, with the caveat that I am very much not interested
 in a new job:
